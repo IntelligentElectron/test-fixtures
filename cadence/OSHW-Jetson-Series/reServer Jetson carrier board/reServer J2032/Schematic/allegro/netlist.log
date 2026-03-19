@@ -1,0 +1,103 @@
+{ Using PSTWRITER 23.1.0 d001Mar-04-2026 at 12:23:37 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U10.38" ignored for U10: reServer J2032_V1, 07 MCU RP2040 (231.14, 73.66). Connecting pin to net "MCU_ADC0".
+#2 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#251" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#3 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#252" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#4 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#253" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#5 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#254" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#6 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#255" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#7 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#256" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#8 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#257" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#9 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#258" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#10 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#259" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#11 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#260" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#12 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#1" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#13 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#14 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#7" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#15 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#8" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#16 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#13" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#17 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#14" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#18 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#19" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#19 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#20" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#20 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#25" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#21 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#26" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#22 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#31" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#23 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#32" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#24 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#37" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#25 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#38" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#26 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#43" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#27 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#44" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#28 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#49" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#29 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#50" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#30 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#55" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#31 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#56" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#32 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#61" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#33 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#62" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#34 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#67" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#35 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#68" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#36 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#73" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#37 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#74" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#38 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#79" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#39 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#80" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#40 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#85" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#41 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#86" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#42 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#102" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#43 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#107" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#44 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#113" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#45 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#119" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#46 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#125" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#47 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#129" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#48 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#132" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#49 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#135" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#50 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#138" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#51 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#141" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#52 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#144" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#53 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#146" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#54 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#147" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#55 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#152" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#56 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#153" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#57 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#158" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#58 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#159" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#59 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#164" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#60 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#165" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#61 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#170" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#62 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#171" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#63 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#176" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#64 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#177" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#65 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#200" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#66 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#201" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#67 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#217" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#68 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#231" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#69 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#241" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#70 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#242" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#71 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#243" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#72 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#244" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#73 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#245" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#74 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#246" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#75 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#247" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#76 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#248" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#77 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#249" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#78 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#250" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#79 WARNING(ORCAP-36042): Pin "MNT" is renamed to "MNT#261" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#80 WARNING(ORCAP-36042): Pin "MNT" is renamed to "MNT#262" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J5A: reServer J2032_V1, 09 SODIMM_CONN1 (1.40, 2.10).
+#81 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package USB3.0_Dual Type A_18+4P , J8: reServer J2032_V1, 15 USB_TYPE_A (330.20, 96.52).
+#82 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#7" as visible power pin of same name already exists in Package USB3.0_Dual Type A_18+4P , J8: reServer J2032_V1, 15 USB_TYPE_A (330.20, 96.52).
+#83 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#13" as visible power pin of same name already exists in Package USB3.0_Dual Type A_18+4P , J8: reServer J2032_V1, 15 USB_TYPE_A (330.20, 96.52).
+#84 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#16" as visible power pin of same name already exists in Package USB3.0_Dual Type A_18+4P , J8: reServer J2032_V1, 15 USB_TYPE_A (330.20, 96.52).
+#85 WARNING(ORCAP-36042): Pin "(NC) DVDD09" is renamed to "(NC) DVDD09#47" as visible power pin of same name already exists in Package RTL8125BG , U16: reServer J2032_V1, 12 Ethernet_Controller (147.32, 134.62).
+#86 WARNING(ORCAP-36042): Pin "AVDD09 (AVDD10)" is renamed to "AVDD09 (AVDD10)#11" as visible power pin of same name already exists in Package RTL8125BG , U16: reServer J2032_V1, 12 Ethernet_Controller (147.32, 134.62).
+#87 WARNING(ORCAP-36042): Pin "AVDD33" is renamed to "AVDD33#15" as visible power pin of same name already exists in Package RTL8125BG , U16: reServer J2032_V1, 12 Ethernet_Controller (147.32, 134.62).
+#88 WARNING(ORCAP-36042): Pin "AVDD09 (AVDD10)" is renamed to "AVDD09 (AVDD10)#16" as visible power pin of same name already exists in Package RTL8125BG , U16: reServer J2032_V1, 12 Ethernet_Controller (147.32, 134.62).
+#89 WARNING(ORCAP-36042): Pin "AVDD33" is renamed to "AVDD33#19" as visible power pin of same name already exists in Package RTL8125BG , U16: reServer J2032_V1, 12 Ethernet_Controller (147.32, 134.62).
+#90 WARNING(ORCAP-36042): Pin "AVDD09 (AVDD10)" is renamed to "AVDD09 (AVDD10)#22" as visible power pin of same name already exists in Package RTL8125BG , U16: reServer J2032_V1, 12 Ethernet_Controller (147.32, 134.62).
+#91 WARNING(ORCAP-36042): Pin "(NC) DVDD09" is renamed to "(NC) DVDD09#28" as visible power pin of same name already exists in Package RTL8125BG , U16: reServer J2032_V1, 12 Ethernet_Controller (147.32, 134.62).
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... allegro\pstchip.dat
+
+Loading... allegro\pstchip.dat
+
+Loading... allegro\pstxprt.dat
+
+Loading... allegro\pstxnet.dat
+packaging the design view...

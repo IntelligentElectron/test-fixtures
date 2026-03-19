@@ -1,0 +1,14 @@
+{ Using PSTWRITER 23.1.0 d001Mar-04-2026 at 12:23:34 }
+
+#1 WARNING(ORCAP-36042): Pin "VDDR" is renamed to "VDDR#29" as visible power pin of same name already exists in Package IC_RF_CC13XX_5X5_QFN32 , U1: SCHEMATIC1, CC13xxEM_5XD_7793_4L (115.82, 80.26).
+#2 WARNING(ORCAP-36042): Pin "VDDR" is renamed to "VDDR#32" as visible power pin of same name already exists in Package IC_RF_CC13XX_5X5_QFN32 , U1: SCHEMATIC1, CC13xxEM_5XD_7793_4L (115.82, 80.26).
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... allegro\pstchip.dat
+
+Loading... allegro\pstchip.dat
+
+Loading... allegro\pstxprt.dat
+
+Loading... allegro\pstxnet.dat
+packaging the design view...

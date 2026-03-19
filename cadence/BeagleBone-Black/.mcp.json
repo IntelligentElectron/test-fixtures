@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "universal-netlist": {
+      "command": "npx",
+      "args": [
+        "tsx",
+        "/Users/valentino/Developer/IntelligentElectron/universal-netlist/src/index.ts"
+      ]
+    }
+  }
+}

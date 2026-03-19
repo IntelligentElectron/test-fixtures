@@ -1,0 +1,31 @@
+{ Using PSTWRITER 23.1.0 d001Mar-04-2026 at 12:23:29 }
+
+#1 WARNING(ORCAP-36050): No pins are present in PCB1. Ignoring this component in netlist.
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "P9.42" ignored for P9: BeagleBoneBlack, P11_Exp Conn, uSD (9.70, 0.90). Connecting pin to net "GPIO0_7".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "P4.4" ignored for P4: BeagleBoneBlack, P04_AM335x 2/3, USB (12.90, 10.50). Connecting pin to net "USB0_ID".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U10.3" ignored for U10: BeagleBoneBlack, P04_AM335x 2/3, USB (10.90, 11.30). Connecting pin to net "USB0_ID".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.V17" ignored for U5: BeagleBoneBlack, P03_AM335x 1/3, JTAG (4.30, 3.30). Connecting pin to net "HDMICLK_DISN".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.H1" ignored for U12: BeagleBoneBlack, P07_DDR3 Memory (6.20, 0.50). Connecting pin to net "DDR_VREF".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.R14" ignored for U5: BeagleBoneBlack, P03_AM335x 1/3, JTAG (4.30, 3.30). Connecting pin to net "N22287555".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.25" ignored for U2: BeagleBoneBlack, P02_Power Management (5.60, 1.00). Connecting pin to net "PWR_BUT".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.E17" ignored for U5: BeagleBoneBlack, P04_AM335x 2/3, USB (5.50, 2.60). Connecting pin to net "N22488252".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.C9" ignored for U5: BeagleBoneBlack, P04_AM335x 2/3, USB (5.50, 2.60). Connecting pin to net "AIN7".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "P9.44" ignored for P9: BeagleBoneBlack, P11_Exp Conn, uSD (9.70, 0.90). Connecting pin to net "DGND".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "P9.43" ignored for P9: BeagleBoneBlack, P11_Exp Conn, uSD (9.70, 0.90). Connecting pin to net "DGND".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.1" ignored for U2: BeagleBoneBlack, P02_Power Management (5.60, 1.00). Connecting pin to net "VDD_3V3AUX".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "U14.18" ignored for U14: BeagleBoneBlack, P09_10/100 Ethernet (4.20, 3.10). Connecting pin to net "ETH_TXD4".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.46" ignored for U2: BeagleBoneBlack, P02_Power Management (5.60, 1.00). Connecting pin to net "LDO_PGOOD".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.4" ignored for U2: BeagleBoneBlack, P02_Power Management (5.60, 1.00). Connecting pin to net "N22420400".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.5" ignored for U2: BeagleBoneBlack, P02_Power Management (5.60, 1.00). Connecting pin to net "N22420400".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.6" ignored for U2: BeagleBoneBlack, P02_Power Management (5.60, 1.00). Connecting pin to net "N22420444".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.11" ignored for U2: BeagleBoneBlack, P02_Power Management (5.60, 1.00). Connecting pin to net "N22420447".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... allegro\pstchip.dat
+
+Loading... allegro\pstchip.dat
+
+Loading... allegro\pstxprt.dat
+
+Loading... allegro\pstxnet.dat
+packaging the design view...

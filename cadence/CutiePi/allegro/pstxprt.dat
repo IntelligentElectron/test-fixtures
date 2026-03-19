@@ -1,0 +1,3368 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 23.1.0 d001Mar-04-2026 at 12:23:42 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='CUTIEPI_V2';
+ POST_TIME='Jun 18 2025 22:29:23';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C17 'CAP_1005_6.3V_100N_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13174015@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13174015@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13174015@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(690,1038)',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_3216_6.3V_47U_C1206_47UF/6.3V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12951854@RP-3_0.CAP_3216_6.3V_47U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12951854@\rp-3_0\.\cap_3216_6.3v_47u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12951854@\rp-3_0\.\cap_3216_6.3v_47u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(363,238)',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP_3216_6.3V_47U_C1206_47UF/6.3V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12332823@RP-3_0.CAP_3216_6.3V_47U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12332823@\rp-3_0\.\cap_3216_6.3v_47u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12332823@\rp-3_0\.\cap_3216_6.3v_47u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1305,741)',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP_1608_6.3V_4.7U_C0603_4.7UF/16V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952472@RP-3_0.CAP_1608_6.3V_4.7U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952472@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952472@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(243,1288)',
+ SECTION='';
+
+PART_NAME
+ C2474 'CAP_1005_6.3V_100N_C0402_1UF/10V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12401185@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12401185@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12401185@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1074,1354)',
+ SECTION='';
+
+PART_NAME
+ C2475 'C_0603_22P/50V/5%_C0402_12PF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12398940@CAPACITOR.C_0603_22P/50V/5%.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12398940@capacitor.\c_0603_22p/50v/5%.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12398940@capacitor.\c_0603_22p/50v/5%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1018,1226)',
+ SECTION='';
+
+PART_NAME
+ C2476 'C_0603_22P/50V/5%_C0402_12PF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12398976@CAPACITOR.C_0603_22P/50V/5%.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12398976@capacitor.\c_0603_22p/50v/5%.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12398976@capacitor.\c_0603_22p/50v/5%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(938,1226)',
+ SECTION='';
+
+PART_NAME
+ C2477 'CAP_1005_6.3V_100N_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12401542@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12401542@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12401542@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(722,1286)',
+ SECTION='';
+
+PART_NAME
+ C2478 'CAP_1608_6.3V_4.7U_C0603_4.7UF/16V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12404191@RP-3_0.CAP_1608_6.3V_4.7U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12404191@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12404191@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(768,1286)',
+ SECTION='';
+
+PART_NAME
+ C2479 'CAP_1005_6.3V_100N_C0402_10NF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12404514@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12404514@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12404514@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1024,1354)',
+ SECTION='';
+
+PART_NAME
+ C2480 'CAP_1005_6.3V_1U_C0402_1UF/10V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12412550@RP-3_0.CAP_1005_6.3V_1U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12412550@\rp-3_0\.\cap_1005_6.3v_1u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12412550@\rp-3_0\.\cap_1005_6.3v_1u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(784,1507)',
+ SECTION='';
+
+PART_NAME
+ C2481 'CAP_1608_6.3V_4.7U_C0603_4.7UF/16V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12412570@RP-3_0.CAP_1608_6.3V_4.7U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12412570@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12412570@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1099,1522)',
+ SECTION='';
+
+PART_NAME
+ C2483 'CAP_1005_6.3V_100N_C0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952130@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952130@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952130@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(240,428)',
+ SECTION='';
+
+PART_NAME
+ C2484 'CAP_3216_6.3V_47U_C1206_47UF/6.3V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12954704@RP-3_0.CAP_3216_6.3V_47U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12954704@\rp-3_0\.\cap_3216_6.3v_47u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12954704@\rp-3_0\.\cap_3216_6.3v_47u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,423)',
+ SECTION='';
+
+PART_NAME
+ C2485 'CAP_2012_6.3V_10U_C0805_10UF/16V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12955258@RP-3_0.CAP_2012_6.3V_10U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12955258@\rp-3_0\.\cap_2012_6.3v_10u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12955258@\rp-3_0\.\cap_2012_6.3v_10u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,423)',
+ SECTION='';
+
+PART_NAME
+ C2486 'CAP_2012_6.3V_10U_C0805_10UF/16V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12951878@RP-3_0.CAP_2012_6.3V_10U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12951878@\rp-3_0\.\cap_2012_6.3v_10u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12951878@\rp-3_0\.\cap_2012_6.3v_10u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(600,423)',
+ SECTION='';
+
+PART_NAME
+ C2487 'CAP_3216_6.3V_47U_C1206_47UF/6.3V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952544@RP-3_0.CAP_3216_6.3V_47U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952544@\rp-3_0\.\cap_3216_6.3v_47u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952544@\rp-3_0\.\cap_3216_6.3v_47u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,473)',
+ SECTION='';
+
+PART_NAME
+ C2488 'CAP_2012_6.3V_10U_C0805_10UF/16V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12953160@RP-3_0.CAP_2012_6.3V_10U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12953160@\rp-3_0\.\cap_2012_6.3v_10u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12953160@\rp-3_0\.\cap_2012_6.3v_10u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(125,473)',
+ SECTION='';
+
+PART_NAME
+ C2489 'CAP_2012_6.3V_10U_C0805_10UF/16V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12954412@RP-3_0.CAP_2012_6.3V_10U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12954412@\rp-3_0\.\cap_2012_6.3v_10u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12954412@\rp-3_0\.\cap_2012_6.3v_10u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(165,473)',
+ SECTION='';
+
+PART_NAME
+ C2490 'CAP_2012_6.3V_10U_C0805_10UF/16V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952998@RP-3_0.CAP_2012_6.3V_10U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952998@\rp-3_0\.\cap_2012_6.3v_10u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952998@\rp-3_0\.\cap_2012_6.3v_10u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(775,528)',
+ SECTION='';
+
+PART_NAME
+ C2491 'CAP_2012_6.3V_10U_C0805_10UF/16V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12953334@RP-3_0.CAP_2012_6.3V_10U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12953334@\rp-3_0\.\cap_2012_6.3v_10u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12953334@\rp-3_0\.\cap_2012_6.3v_10u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,528)',
+ SECTION='';
+
+PART_NAME
+ C2492 'CAP_1005_6.3V_100N_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12951990@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12951990@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12951990@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,618)',
+ SECTION='';
+
+PART_NAME
+ C2493 'CAP_1005_6.3V_100N_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12953308@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12953308@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12953308@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(605,753)',
+ SECTION='';
+
+PART_NAME
+ C2495 'CAP_1005_6.3V_100N_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13035620@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13035620@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13035620@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(971,1472)',
+ SECTION='';
+
+PART_NAME
+ C2496 'CAP_2012_6.3V_10U_C0805_10UF/16V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13037700@RP-3_0.CAP_2012_6.3V_10U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13037700@\rp-3_0\.\cap_2012_6.3v_10u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13037700@\rp-3_0\.\cap_2012_6.3v_10u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1019,1472)',
+ SECTION='';
+
+PART_NAME
+ C2497 'CAP_2012_6.3V_10U_C0805_10UF/16V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13041224@RP-3_0.CAP_2012_6.3V_10U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13041224@\rp-3_0\.\cap_2012_6.3v_10u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13041224@\rp-3_0\.\cap_2012_6.3v_10u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1080,1470)',
+ SECTION='';
+
+PART_NAME
+ C2501 'CAP_1608_6.3V_4.7U_C0603_4.7UF/16V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13080718@RP-3_0.CAP_1608_6.3V_4.7U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13080718@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13080718@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2084,1246)',
+ SECTION='';
+
+PART_NAME
+ C2502 'CAP_1005_6.3V_100N_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13080700@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13080700@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13080700@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2043,1246)',
+ SECTION='';
+
+PART_NAME
+ C2503 'CAP_1005_6.3V_100N_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13080552@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13080552@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13080552@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2042,1146)',
+ SECTION='';
+
+PART_NAME
+ C2504 'CAP_1608_6.3V_4.7U_C0603_4.7UF/16V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13080570@RP-3_0.CAP_1608_6.3V_4.7U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13080570@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13080570@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2083,1146)',
+ SECTION='';
+
+PART_NAME
+ C2505 'CAP_3216_6.3V_47U_C1206_47UF/6.3V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13068294@RP-3_0.CAP_3216_6.3V_47U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13068294@\rp-3_0\.\cap_3216_6.3v_47u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13068294@\rp-3_0\.\cap_3216_6.3v_47u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2083,751)',
+ SECTION='';
+
+PART_NAME
+ C2507 'CAP_1608_6.3V_4.7U_C0603_10UF/16V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13098175@RP-3_0.CAP_1608_6.3V_4.7U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13098175@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13098175@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2039,1319)',
+ SECTION='';
+
+PART_NAME
+ C2508 'CAP_1005_6.3V_100N_C0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13098943@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13098943@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13098943@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1158,1071)',
+ SECTION='';
+
+PART_NAME
+ C2509 'CAP_1005_6.3V_100N_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13100346@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13100346@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13100346@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1187,1072)',
+ SECTION='';
+
+PART_NAME
+ C2510 'CAP_C0603_DISCRETE_47PF_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13102346@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13102346@discrete.\cap.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13102346@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1187,1137)',
+ SECTION='';
+
+PART_NAME
+ C2511 'CAP_1005_6.3V_100N_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13222303@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13222303@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13222303@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2137,973)',
+ SECTION='';
+
+PART_NAME
+ C2512 'CAP_1005_6.3V_100N_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13190657@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13190657@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13190657@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1141,1470)',
+ SECTION='';
+
+PART_NAME
+ C2513 'CAP_1608_6.3V_4.7U_C0603_4.7UF/16V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13235776@RP-3_0.CAP_1608_6.3V_4.7U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13235776@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13235776@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1996,1023)',
+ SECTION='';
+
+PART_NAME
+ C2514 'CAP_1005_6.3V_100N_C0402_1UF/10V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13238789@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13238789@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13238789@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1539,1288)',
+ SECTION='';
+
+PART_NAME
+ C2515 'CAP_1005_6.3V_100N_C0402_1UF/10V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13238807@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13238807@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13238807@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1482,1288)',
+ SECTION='';
+
+PART_NAME
+ C2516 'CAP_1608_6.3V_4.7U_C0603_10UF/16V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13242687@RP-3_0.CAP_1608_6.3V_4.7U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13242687@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13242687@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1943,1486)',
+ SECTION='';
+
+PART_NAME
+ C2517 'CAP_C0603_DISCRETE_47PF_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13242881@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13242881@discrete.\cap.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13242881@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2111,1456)',
+ SECTION='';
+
+PART_NAME
+ C2518 'CAP_1608_6.3V_4.7U_C0603_10UF/16V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13245753@RP-3_0.CAP_1608_6.3V_4.7U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13245753@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13245753@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1942,1522)',
+ SECTION='';
+
+PART_NAME
+ C2519 'CAP_C0603_DISCRETE_47PF_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13245874@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13245874@discrete.\cap.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13245874@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2109,1554)',
+ SECTION='';
+
+PART_NAME
+ C2520 'CAP_1608_6.3V_4.7U_C0603_4.7UF/16V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13253797@RP-3_0.CAP_1608_6.3V_4.7U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13253797@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13253797@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1188,1331)',
+ SECTION='';
+
+PART_NAME
+ C2521 'CAP_1005_6.3V_100N_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13255540@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13255540@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13255540@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1202,1284)',
+ SECTION='';
+
+PART_NAME
+ C2522 'CAP_C0603_DISCRETE_47PF_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13255678@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13255678@discrete.\cap.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13255678@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1283,1327)',
+ SECTION='';
+
+PART_NAME
+ C2523 'CAP_1005_6.3V_100N_C0402_10NF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13277922@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13277922@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13277922@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(179,1542)',
+ SECTION='';
+
+PART_NAME
+ C2524 'CAP_1005_6.3V_100N_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13278751@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13278751@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13278751@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1156,1113)',
+ SECTION='';
+
+PART_NAME
+ C2525 'CAP_1005_6.3V_100N_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13357398@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13357398@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13357398@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(259,1543)',
+ SECTION='';
+
+PART_NAME
+ C2526 'CAP_1005_6.3V_100N_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13357416@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13357416@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13357416@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(355,1542)',
+ SECTION='';
+
+PART_NAME
+ C383 'CAP_1005_6.3V_100N_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12374336@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12374336@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12374336@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1354,1504)',
+ SECTION='';
+
+PART_NAME
+ C384 'CAP_1005_6.3V_100N_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12375097@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12375097@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12375097@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1424,1504)',
+ SECTION='';
+
+PART_NAME
+ C385 'CAP_1005_6.3V_100N_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12375891@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12375891@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12375891@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1524,1444)',
+ SECTION='';
+
+PART_NAME
+ C386 'CAP_1005_6.3V_100N_C0402_2.2NF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12378057@RP-3_0.CAP_1005_6.3V_100N.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12378057@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12378057@\rp-3_0\.\cap_1005_6.3v_100n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1444,1244)',
+ SECTION='';
+
+PART_NAME
+ C68 'CAP_C0603_DISCRETE_0.1UF/50V_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12720573@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12720573@discrete.\cap.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12720573@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(232,758)',
+ SECTION='';
+
+PART_NAME
+ C69 'CAP_C0805_DISCRETE_1.0UF/25V_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12720589@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12720589@discrete.\cap.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12720589@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(272,758)',
+ SECTION='';
+
+PART_NAME
+ C73 'CAP_C0603_DISCRETE_0.1UF/50V_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12720987@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12720987@discrete.\cap.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12720987@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(342,938)',
+ SECTION='';
+
+PART_NAME
+ C74 'CAP_C0805_DISCRETE_0.22UF/50V_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12721011@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12721011@discrete.\cap.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12721011@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(392,958)',
+ SECTION='';
+
+PART_NAME
+ C76 'CAP_C1210_DISCRETE_4.7UF/50V_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12720637@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12720637@discrete.\cap.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12720637@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(742,758)',
+ SECTION='';
+
+PART_NAME
+ C78 'CAP_C0805_DISCRETE_0.22UF/50V_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12720621@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12720621@discrete.\cap.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12720621@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(712,758)',
+ SECTION='';
+
+PART_NAME
+ C80 'CAP_0_C0603_DISCRETE_0.1UF/50V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS1478421@DS90UB928.CAP_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins1478421@ds90ub928.\cap_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins1478421@ds90ub928.\cap_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1815,1435)',
+ SECTION='';
+
+PART_NAME
+ C81 'CAP_0_C0603_DISCRETE_0.1UF/50V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS1478485@DS90UB928.CAP_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins1478485@ds90ub928.\cap_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins1478485@ds90ub928.\cap_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1845,1435)',
+ SECTION='';
+
+PART_NAME
+ C82 'CAP_C0603_DISCRETE_1000PF/50V_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS1478039@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins1478039@discrete.\cap.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins1478039@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1875,1435)',
+ SECTION='';
+
+PART_NAME
+ C85 'CAP_C1210_DISCRETE_4.7UF/50V_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12720605@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12720605@discrete.\cap.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12720605@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(308,758)',
+ SECTION='';
+
+PART_NAME
+ C86 'CAP_1608_6.3V_4.7U_C0603_4.7UF/16V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12334287@RP-3_0.CAP_1608_6.3V_4.7U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12334287@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12334287@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1224,916)',
+ SECTION='';
+
+PART_NAME
+ C87 'CAP_1608_6.3V_4.7U_C0603_0.39UF/16V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12334576@RP-3_0.CAP_1608_6.3V_4.7U.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12334576@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12334576@\rp-3_0\.\cap_1608_6.3v_4.7u.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1189,876)',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_1608_RED_0_LED0603_RED':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13115242@RPI-CMIO_20190711.LED_1608_RED_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13115242@\rpi-cmio_20190711\.\led_1608_red_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13115242@\rpi-cmio_20190711\.\led_1608_red_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2217,163)',
+ SECTION='';
+
+PART_NAME
+ D10 'S100_DO-214AC_DISCRETE_SS14-M3/61T_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12720477@DIODE.S100.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12720477@diode.\s100.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12720477@diode.\s100.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(622,718)',
+ SECTION='';
+
+PART_NAME
+ D11 'SMAJ30CA_SOD323_DISCRETE_ESDLIN1524BJ_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS1478087@DIODE.SMAJ30CA.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins1478087@diode.\smaj30ca.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins1478087@diode.\smaj30ca.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1905,1435)',
+ SECTION='';
+
+PART_NAME
+ D12 'SMAJ30CA_SOD323_DISCRETE_ESDLIN1524BJ_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS1478103@DIODE.SMAJ30CA.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins1478103@diode.\smaj30ca.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins1478103@diode.\smaj30ca.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1925,1435)',
+ SECTION='';
+
+PART_NAME
+ D13 'SMAJ30CA_SOD323_DISCRETE_ESDLIN1524BJ_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS1478621@DIODE.SMAJ30CA.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins1478621@diode.\smaj30ca.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins1478621@diode.\smaj30ca.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2015,1435)',
+ SECTION='';
+
+PART_NAME
+ D14 'SMAJ30CA_SOD323_DISCRETE_ESDLIN1524BJ_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS1478645@DIODE.SMAJ30CA.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins1478645@diode.\smaj30ca.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins1478645@diode.\smaj30ca.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2045,1435)',
+ SECTION='';
+
+PART_NAME
+ D17 'DIODE_0_DIO-SOD323_BAT54HT1':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12905496@CUTIEPI V1.2_20200217.DIODE_0.NORMAL(SCH_1)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12905496@\cutiepi v1.2_20200217\.\diode_0.normal\(sch_1)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12905496@\cutiepi v1.2_20200217\.\diode_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(704,1445)',
+ SECTION='';
+
+PART_NAME
+ D18 'DIODE_0_DIO-SOD323_BAT54HT1':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12905512@CUTIEPI V1.2_20200217.DIODE_0.NORMAL(SCH_1)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12905512@\cutiepi v1.2_20200217\.\diode_0.normal\(sch_1)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12905512@\cutiepi v1.2_20200217\.\diode_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(704,1480)',
+ SECTION='';
+
+PART_NAME
+ D19 'LED_1608_GREEN_0_LED0603_GREEN':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12499646@RPI-CMIO_20190711.LED_1608_GREEN_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12499646@\rpi-cmio_20190711\.\led_1608_green_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12499646@\rpi-cmio_20190711\.\led_1608_green_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(544,1509)',
+ SECTION='';
+
+PART_NAME
+ D20 'LED_1608_GREEN_0_LED0603_GREEN':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952636@RPI-CMIO_20190711.LED_1608_GREEN_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952636@\rpi-cmio_20190711\.\led_1608_green_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952636@\rpi-cmio_20190711\.\led_1608_green_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(645,578)',
+ SECTION='';
+
+PART_NAME
+ D21 'LED_1608_GREEN_0_LED0603_GREEN':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12953114@RPI-CMIO_20190711.LED_1608_GREEN_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12953114@\rpi-cmio_20190711\.\led_1608_green_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12953114@\rpi-cmio_20190711\.\led_1608_green_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(645,618)',
+ SECTION='';
+
+PART_NAME
+ D22 'LED_1608_GREEN_0_LED0603_GREEN':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13224384@RPI-CMIO_20190711.LED_1608_GREEN_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13224384@\rpi-cmio_20190711\.\led_1608_green_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13224384@\rpi-cmio_20190711\.\led_1608_green_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1734,1546)',
+ SECTION='';
+
+PART_NAME
+ D23 'LED_1608_GREEN_0_LED0603_RED':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13225223@RPI-CMIO_20190711.LED_1608_GREEN_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13225223@\rpi-cmio_20190711\.\led_1608_green_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13225223@\rpi-cmio_20190711\.\led_1608_green_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1798,1547)',
+ SECTION='';
+
+PART_NAME
+ F1 'FUSE_POLY_2.0A_6V_1206_6V/2A':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12955062@RP-3_0.FUSE_POLY_2.0A_6V.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12955062@\rp-3_0\.\fuse_poly_2.0a_6v.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12955062@\rp-3_0\.\fuse_poly_2.0a_6v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(313,82)',
+ SECTION='';
+
+PART_NAME
+ F2 'FUSE_POLY_2.0A_6V_1206_6V/0.5A':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12954892@RP-3_0.FUSE_POLY_2.0A_6V.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12954892@\rp-3_0\.\fuse_poly_2.0a_6v.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12954892@\rp-3_0\.\fuse_poly_2.0a_6v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(777,61)',
+ SECTION='';
+
+PART_NAME
+ FB10 'INDUCTOR_0_SL0603_DISCRETE_BLM18PG121SH1':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13068254@DS90UB928.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13068254@ds90ub928.\inductor_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13068254@ds90ub928.\inductor_0.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2023,721)',
+ SECTION='';
+
+PART_NAME
+ FB12 'INDUCTOR_0_SL0603_DISCRETE_BLM18PG121SH1':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13069531@DS90UB928.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13069531@ds90ub928.\inductor_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13069531@ds90ub928.\inductor_0.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2022,679)',
+ SECTION='';
+
+PART_NAME
+ FB13 'INDUCTOR_0_SL0603_DISCRETE_BLM18PG121SH1':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13241418@DS90UB928.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13241418@ds90ub928.\inductor_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13241418@ds90ub928.\inductor_0.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2117,1096)',
+ SECTION='';
+
+PART_NAME
+ FB2 'INDUCTOR_0_SL0603_DISCRETE_BLM18PG121SH1':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12333503@DS90UB928.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12333503@ds90ub928.\inductor_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12333503@ds90ub928.\inductor_0.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1240,716)',
+ SECTION='';
+
+PART_NAME
+ FB7 'INDUCTOR_0_SL0603_DISCRETE_BLM18PG121SH1':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12500813@DS90UB928.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12500813@ds90ub928.\inductor_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12500813@ds90ub928.\inductor_0.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(964,1314)',
+ SECTION='';
+
+PART_NAME
+ FB8 'INDUCTOR_0_SL0603_DISCRETE_BLM18PG121SH1':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13080488@DS90UB928.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13080488@ds90ub928.\inductor_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13080488@ds90ub928.\inductor_0.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2118,1116)',
+ SECTION='';
+
+PART_NAME
+ FB9 'INDUCTOR_0_SL0603_DISCRETE_BLM18PG121SH1':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13080648@DS90UB928.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13080648@ds90ub928.\inductor_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13080648@ds90ub928.\inductor_0.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2118,1216)',
+ SECTION='';
+
+PART_NAME
+ J11 'CON_22W_FFC_0_CONFPC22_05MM_FH52_A_FH52-22S-0.5SH':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS1381141@CUTIEPI V2.1_20210115.CON_22W_FFC_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins1381141@\cutiepi v2.1_20210115\.\con_22w_ffc_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins1381141@\cutiepi v2.1_20210115\.\con_22w_ffc_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1322,170)',
+ SECTION='';
+
+PART_NAME
+ J13 'CON_HDMI_RA_MICRO_HDMI_467651001':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12455511@RP-3_0.CON_HDMI_RA.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12455511@\rp-3_0\.\con_hdmi_ra.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12455511@\rp-3_0\.\con_hdmi_ra.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2118,688)',
+ SECTION='';
+
+PART_NAME
+ J14 'CON_USBA_RA_PTH_0_USB_AM_USB-A':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12955098@RPI-CMIO_20190711.CON_USBA_RA_PTH_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12955098@\rpi-cmio_20190711\.\con_usba_ra_pth_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12955098@\rpi-cmio_20190711\.\con_usba_ra_pth_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(873,165)',
+ SECTION='';
+
+PART_NAME
+ J16 'CON_USD_2_MOLEX_473521001_473521001_SD':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12951902@CUTIEPI V1.1_20190917.CON_USD_2.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12951902@\cutiepi v1.1_20190917\.\con_usd_2.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12951902@\cutiepi v1.1_20190917\.\con_usd_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(333,1338)',
+ SECTION='';
+
+PART_NAME
+ J17 'A2002WV-6P_3_CONFPC6_05MM_FH52_IO_FH52-6S-0.5SH_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12627013@RPI-CMIO_20190312.A2002WV-6P_3.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12627013@\rpi-cmio_20190312\.\a2002wv-6p_3.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12627013@\rpi-cmio_20190312\.\a2002wv-6p_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1674,1335)',
+ SECTION='';
+
+PART_NAME
+ J2 'CON_HDMI_RA_3_TYPEC_6446_116FH1301_TYPE C-16':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13153294@CUTIEPI V2.1_20210115B.CON_HDMI_RA_3.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13153294@\cutiepi v2.1_20210115b\.\con_hdmi_ra_3.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13153294@\cutiepi v2.1_20210115b\.\con_hdmi_ra_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(97,52)',
+ SECTION='';
+
+PART_NAME
+ J21 'CON32_1_CONFPC31_03MM_FH26W_FH26W-31S-0.3SHW':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12595467@RPI-CMIO_20190312.CON32_1.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12595467@\rpi-cmio_20190312\.\con32_1.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12595467@\rpi-cmio_20190312\.\con32_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(478,132)',
+ SECTION='';
+
+PART_NAME
+ J23 'A2002WV-6P_4_PH2_0_3_IO_PH2.0-3_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12954754@RPI-CMIO_20190711.A2002WV-6P_4.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12954754@\rpi-cmio_20190711\.\a2002wv-6p_4.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12954754@\rpi-cmio_20190711\.\a2002wv-6p_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1000,598)',
+ SECTION='';
+
+PART_NAME
+ J24 'CON_200W_DDR2SODIMM_CM_2_FCI_10033853_CM_DF40C-100DS-0.4V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12962473@CUTIEPI V2.0_20201030.CON_200W_DDR2SODIMM_CM_2.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12962473@\cutiepi v2.0_20201030\.\con_200w_ddr2sodimm_cm_2.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12962473@\cutiepi v2.0_20201030\.\con_200w_ddr2sodimm_cm_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1977,101)',
+ SECTION='';
+
+PART_NAME
+ J25 'CON_200W_DDR2SODIMM_CM_2_FCI_10033853_CM_DF40C-100DS-0.4V':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12967725@CUTIEPI V2.0_20201030.CON_200W_DDR2SODIMM_CM_2.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12967725@\cutiepi v2.0_20201030\.\con_200w_ddr2sodimm_cm_2.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12967725@\cutiepi v2.0_20201030\.\con_200w_ddr2sodimm_cm_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1413,99)',
+ SECTION='';
+
+PART_NAME
+ J26 'CON_22W_FFC_0_CONFPC22_05MM_FH52_A_FH52-22S-0.5SH':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13012632@CUTIEPI V2.1_20210115.CON_22W_FFC_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13012632@\cutiepi v2.1_20210115\.\con_22w_ffc_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13012632@\cutiepi v2.1_20210115\.\con_22w_ffc_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2074,172)',
+ SECTION='';
+
+PART_NAME
+ J27 'A2002WV-6P_8_MIC_4_5_IO_MIC4.5_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13279604@GJ_CONVERTER- 20181011.A2002WV-6P_8.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13279604@\gj_converter- 20181011\.\a2002wv-6p_8.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13279604@\gj_converter- 20181011\.\a2002wv-6p_8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1363,1307)',
+ SECTION='';
+
+PART_NAME
+ J28 'A2002WV-6P_3_CONFPC6_05MM_FH52_IO_FH52-6S-0.5SH_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13286200@RPI-CMIO_20190312.A2002WV-6P_3.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13286200@\rpi-cmio_20190312\.\a2002wv-6p_3.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13286200@\rpi-cmio_20190312\.\a2002wv-6p_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(241,1010)',
+ SECTION='';
+
+PART_NAME
+ J7 'A2002WV-6P_7_SH1_0_4_IO_SH1.0-4_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12905090@GJ_CONVERTER_V3.0 - 20181010.A2002WV-6P_7.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12905090@\gj_converter_v3.0 - 20181010\.\a2002wv-6p_7.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12905090@\gj_converter_v3.0 - 20181010\.\a2002wv-6p_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(102,1226)',
+ SECTION='';
+
+PART_NAME
+ J9 'A2002WV-6P_8_SH1_0_2_IO_SH1.0-2_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12903683@GJ_CONVERTER- 20181011.A2002WV-6P_8.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12903683@\gj_converter- 20181011\.\a2002wv-6p_8.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12903683@\gj_converter- 20181011\.\a2002wv-6p_8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1499,886)',
+ SECTION='';
+
+PART_NAME
+ L5 'IND_SHC0402_DISCRETE_10UH/20%_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12720461@DISCRETE.IND.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12720461@discrete.\ind.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12720461@discrete.\ind.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(492,718)',
+ SECTION='';
+
+PART_NAME
+ L634 'IND_4U7_SRN4018-4R7M_SHC0402_1.5UF':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12954628@RP-3_0.IND_4U7_SRN4018-4R7M.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12954628@\rp-3_0\.\ind_4u7_srn4018-4r7m.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12954628@\rp-3_0\.\ind_4u7_srn4018-4r7m.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(655,498)',
+ SECTION='';
+
+PART_NAME
+ Q3 'MOSFET_N_DMG1012T_SOT50P160X90-3N_DMG1012T':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12455805@RP-3_0.MOSFET_N_DMG1012T.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12455805@\rp-3_0\.\mosfet_n_dmg1012t.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12455805@\rp-3_0\.\mosfet_n_dmg1012t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1888,788)',
+ SECTION='';
+
+PART_NAME
+ Q4 'MOSFET_N_DMG1012T_SOT50P160X90-3N_DMG1012T':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12455865@RP-3_0.MOSFET_N_DMG1012T.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12455865@\rp-3_0\.\mosfet_n_dmg1012t.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12455865@\rp-3_0\.\mosfet_n_dmg1012t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1834,955)',
+ SECTION='';
+
+PART_NAME
+ Q5 'MOSFET_N_DMG1012T_SOT50P160X90-3N_DMG1012T':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12499598@RPI-CMIO.MOSFET_N_DMG1012T.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12499598@\rpi-cmio\.\mosfet_n_dmg1012t.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12499598@\rpi-cmio\.\mosfet_n_dmg1012t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(534,1559)',
+ SECTION='';
+
+PART_NAME
+ Q6 'MOSFET_N_DMG1012T_SOT50P160X90-3N_DMG1012T':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12506348@RPI-CMIO.MOSFET_N_DMG1012T.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12506348@\rpi-cmio\.\mosfet_n_dmg1012t.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12506348@\rpi-cmio\.\mosfet_n_dmg1012t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1249,976)',
+ SECTION='';
+
+PART_NAME
+ Q7 'MOSFET_N_DMG1012T_SOT50P160X90-3N_DMG1012T':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13273972@RP-3_0.MOSFET_N_DMG1012T.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13273972@\rp-3_0\.\mosfet_n_dmg1012t.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13273972@\rp-3_0\.\mosfet_n_dmg1012t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1554,785)',
+ SECTION='';
+
+PART_NAME
+ R114 'RES_0_R0402_DISCRETE_4.7K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS1478365@DS90UB928.RES_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins1478365@ds90ub928.\res_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins1478365@ds90ub928.\res_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1855,1265)',
+ SECTION='';
+
+PART_NAME
+ R115 'RES_0_R0402_DISCRETE_4.7K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS1478389@DS90UB928.RES_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins1478389@ds90ub928.\res_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins1478389@ds90ub928.\res_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1865,1265)',
+ SECTION='';
+
+PART_NAME
+ R117 'RES_0_R0402_DISCRETE_10K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS1478453@DS90UB928.RES_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins1478453@ds90ub928.\res_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins1478453@ds90ub928.\res_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1905,1275)',
+ SECTION='';
+
+PART_NAME
+ R118 'RES_0_R0402_DISCRETE_10K_NC':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS1478517@DS90UB928.RES_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins1478517@ds90ub928.\res_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins1478517@ds90ub928.\res_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1925,1275)',
+ SECTION='';
+
+PART_NAME
+ R120 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS1478581@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins1478581@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins1478581@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2095,1365)',
+ SECTION='';
+
+PART_NAME
+ R121 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS1478597@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins1478597@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins1478597@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2095,1335)',
+ SECTION='';
+
+PART_NAME
+ R122 'RES_R0402_DISCRETE_0_NC_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12954980@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12954980@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12954980@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(713,125)',
+ SECTION='';
+
+PART_NAME
+ R123 'RES_R0402_DISCRETE_0_NC_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12951762@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12951762@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12951762@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(713,285)',
+ SECTION='';
+
+PART_NAME
+ R124 'RES_0_R0402_DISCRETE_4.7K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12333717@DS90UB928.RES_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12333717@ds90ub928.\res_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12333717@ds90ub928.\res_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1279,941)',
+ SECTION='';
+
+PART_NAME
+ R125 'RES_0_R0402_DISCRETE_20K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12334440@DS90UB928.RES_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12334440@ds90ub928.\res_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12334440@ds90ub928.\res_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1329,836)',
+ SECTION='';
+
+PART_NAME
+ R126 'RES_0_R0402_DISCRETE_20K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12334548@DS90UB928.RES_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12334548@ds90ub928.\res_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12334548@ds90ub928.\res_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1229,876)',
+ SECTION='';
+
+PART_NAME
+ R127 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12335183@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12335183@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12335183@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1124,876)',
+ SECTION='';
+
+PART_NAME
+ R15 'RES_1005_100K_R0402_10K_NC':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13305944@RP-3_0.RES_1005_100K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13305944@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13305944@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1898,688)',
+ SECTION='';
+
+PART_NAME
+ R16 'RES_1005_1.8K_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS1166744@RPI-CMIO.RES_1005_1.8K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins1166744@\rpi-cmio\.\res_1005_1.8k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins1166744@\rpi-cmio\.\res_1005_1.8k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1022,330)',
+ SECTION='';
+
+PART_NAME
+ R17 'RES_1005_1.8K_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS1166768@RPI-CMIO.RES_1005_1.8K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins1166768@\rpi-cmio\.\res_1005_1.8k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins1166768@\rpi-cmio\.\res_1005_1.8k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1062,330)',
+ SECTION='';
+
+PART_NAME
+ R18 'RES_1005_100K_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12455887@RP-3_0.RES_1005_100K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12455887@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12455887@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1872,903)',
+ SECTION='';
+
+PART_NAME
+ R272 'R_0603_10K/5%_R0402_DISCRETE_10K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12397373@RESISTOR.R_0603_10K/5%.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12397373@resistor.\r_0603_10k/5%.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12397373@resistor.\r_0603_10k/5%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(179,1468)',
+ SECTION='';
+
+PART_NAME
+ R3 'RES_1005_470R_R0402_2.49K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13115218@RP-3_0.RES_1005_470R.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13115218@\rp-3_0\.\res_1005_470r.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13115218@\rp-3_0\.\res_1005_470r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2217,112)',
+ SECTION='';
+
+PART_NAME
+ R3039 'R_0402_22R/5%_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12396061@RESISTOR.R_0402_22R/5%.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12396061@resistor.\r_0402_22r/5%.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12396061@resistor.\r_0402_22r/5%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(438,1186)',
+ SECTION='';
+
+PART_NAME
+ R3040 'R_0402_22R/5%_R0402_10K_NC':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12396077@RESISTOR.R_0402_22R/5%.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12396077@resistor.\r_0402_22r/5%.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12396077@resistor.\r_0402_22r/5%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(438,1206)',
+ SECTION='';
+
+PART_NAME
+ R3041 'R_1_R0402_0':
+ SIGNAL_MODEL='DEFAULT_RESISTOR_0.001OHM_1_2';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12403453@ORCADLIB.R_1.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12403453@orcadlib.\r_1.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12403453@orcadlib.\r_1.normal\(chips)',
+ SIGNAL_MODEL='DEFAULT_RESISTOR_0.001OHM_1_2',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(668,1236)',
+ SECTION='';
+
+PART_NAME
+ R3042 'R_1_R0402_0':
+ SIGNAL_MODEL='DEFAULT_RESISTOR_0.001OHM_1_2';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12403469@ORCADLIB.R_1.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12403469@orcadlib.\r_1.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12403469@orcadlib.\r_1.normal\(chips)',
+ SIGNAL_MODEL='DEFAULT_RESISTOR_0.001OHM_1_2',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(668,1226)',
+ SECTION='';
+
+PART_NAME
+ R3043 'R_0603/4.7K/5%_R0402_DISCRETE_10K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12403721@LAFITE.R_0603/4.7K/5%.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12403721@lafite.\r_0603/4.7k/5%.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12403721@lafite.\r_0603/4.7k/5%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(162,1206)',
+ SECTION='';
+
+PART_NAME
+ R3044 'R_0603/4.7K/5%_R0402_DISCRETE_10K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12403781@LAFITE.R_0603/4.7K/5%.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12403781@lafite.\r_0603/4.7k/5%.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12403781@lafite.\r_0603/4.7k/5%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(162,1281)',
+ SECTION='';
+
+PART_NAME
+ R3049 'RES_0_R0402_DISCRETE_30.1K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13147233@DS90UB928.RES_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13147233@ds90ub928.\res_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13147233@ds90ub928.\res_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1004,1572)',
+ SECTION='';
+
+PART_NAME
+ R3051 'RES_0_R0402_DISCRETE_52.3K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13147523@DS90UB928.RES_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13147523@ds90ub928.\res_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13147523@ds90ub928.\res_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1004,1532)',
+ SECTION='';
+
+PART_NAME
+ R3052 'RES_R0402_DISCRETE_15K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12416787@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12416787@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12416787@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(304,1473)',
+ SECTION='';
+
+PART_NAME
+ R3053 'RES_0_R0402_DISCRETE_52.3K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12416803@DS90UB928.RES_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12416803@ds90ub928.\res_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12416803@ds90ub928.\res_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(304,1533)',
+ SECTION='';
+
+PART_NAME
+ R3054 'R_0603_10K/5%_R0402_DISCRETE_10K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12420912@RESISTOR.R_0603_10K/5%.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12420912@resistor.\r_0603_10k/5%.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12420912@resistor.\r_0603_10k/5%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(94,1468)',
+ SECTION='';
+
+PART_NAME
+ R3057 'RES_R0402_DISCRETE_10K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12482391@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12482391@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12482391@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(328,152)',
+ SECTION='';
+
+PART_NAME
+ R3058 'R_1_R0402_0':
+ SIGNAL_MODEL='DEFAULT_RESISTOR_0.001OHM_1_2';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12482554@ORCADLIB.R_1.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12482554@orcadlib.\r_1.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12482554@orcadlib.\r_1.normal\(chips)',
+ SIGNAL_MODEL='DEFAULT_RESISTOR_0.001OHM_1_2',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2027,878)',
+ SECTION='';
+
+PART_NAME
+ R3059 'RES_1005_100K_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12499572@RP-3_0.RES_1005_100K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12499572@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12499572@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(494,1529)',
+ SECTION='';
+
+PART_NAME
+ R3060 'RES_1005_470R_R0402_2.49K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12499662@RP-3_0.RES_1005_470R.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12499662@\rp-3_0\.\res_1005_470r.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12499662@\rp-3_0\.\res_1005_470r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(544,1459)',
+ SECTION='';
+
+PART_NAME
+ R3061 'RES_1005_100K_R0402_10K_NC':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12507041@RP-3_0.RES_1005_100K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12507041@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12507041@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1188,976)',
+ SECTION='';
+
+PART_NAME
+ R3062 'RES_1005_100K_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12509723@RP-3_0.RES_1005_100K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12509723@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12509723@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1784,985)',
+ SECTION='';
+
+PART_NAME
+ R3063 'RES_R0603_DISCRETE_3.3_NC_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12720939@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12720939@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12720939@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(772,932)',
+ SECTION='';
+
+PART_NAME
+ R3064 'RES_R0402_DISCRETE_15K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12640753@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12640753@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12640753@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(396,1473)',
+ SECTION='';
+
+PART_NAME
+ R3065 'RES_0_R0402_DISCRETE_52.3K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12640783@DS90UB928.RES_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12640783@ds90ub928.\res_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12640783@ds90ub928.\res_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(396,1533)',
+ SECTION='';
+
+PART_NAME
+ R3066 'RES_R0402_DISCRETE_10K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12720955@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12720955@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12720955@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(272,940)',
+ SECTION='';
+
+PART_NAME
+ R3086 'RES_R0402_DISCRETE_31.6K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12955282@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12955282@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12955282@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(425,413)',
+ SECTION='';
+
+PART_NAME
+ R3087 'RES_R0402_DISCRETE_2.49K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952614@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952614@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952614@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(295,428)',
+ SECTION='';
+
+PART_NAME
+ R3088 'RES_R0402_DISCRETE_10K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12953184@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12953184@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12953184@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,438)',
+ SECTION='';
+
+PART_NAME
+ R3089 'RES_R2512_DISCRETE_20M/1W_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12955144@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12955144@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12955144@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,498)',
+ SECTION='';
+
+PART_NAME
+ R3090 'RES_R0402_DISCRETE_5.1K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12951692@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12951692@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12951692@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,523)',
+ SECTION='';
+
+PART_NAME
+ R3091 'RES_R0402_DISCRETE_15K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952252@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952252@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952252@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,523)',
+ SECTION='';
+
+PART_NAME
+ R3092 'RES_R0402_DISCRETE_5.1K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952068@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952068@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952068@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,543)',
+ SECTION='';
+
+PART_NAME
+ R3093 'RES_R0402_DISCRETE_15K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952684@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952684@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952684@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,543)',
+ SECTION='';
+
+PART_NAME
+ R3094 'R_1_R0402_10K':
+ SIGNAL_MODEL='DEFAULT_RESISTOR_0.001OHM_1_2';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952176@ORCADLIB.R_1.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952176@orcadlib.\r_1.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952176@orcadlib.\r_1.normal\(chips)',
+ SIGNAL_MODEL='DEFAULT_RESISTOR_0.001OHM_1_2',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,578)',
+ SECTION='';
+
+PART_NAME
+ R3095 'RES_R0402_DISCRETE_2.49K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12953206@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12953206@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12953206@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(725,578)',
+ SECTION='';
+
+PART_NAME
+ R3096 'R_1_R0402_10K':
+ SIGNAL_MODEL='DEFAULT_RESISTOR_0.001OHM_1_2';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12954656@ORCADLIB.R_1.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12954656@orcadlib.\r_1.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12954656@orcadlib.\r_1.normal\(chips)',
+ SIGNAL_MODEL='DEFAULT_RESISTOR_0.001OHM_1_2',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,588)',
+ SECTION='';
+
+PART_NAME
+ R3097 'RES_R0402_DISCRETE_2.49K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952706@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952706@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952706@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(725,598)',
+ SECTION='';
+
+PART_NAME
+ R3098 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12955210@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12955210@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12955210@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(876,608)',
+ SECTION='';
+
+PART_NAME
+ R3099 'RES_R0402_DISCRETE_10K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952592@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952592@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952592@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,618)',
+ SECTION='';
+
+PART_NAME
+ R3100 'RES_R0402_DISCRETE_2.49K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12954244@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12954244@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12954244@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(725,618)',
+ SECTION='';
+
+PART_NAME
+ R3101 'RES_R0402_DISCRETE_10K_NC_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952154@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952154@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952154@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(715,679)',
+ SECTION='';
+
+PART_NAME
+ R3102 'RES_R0402_DISCRETE_10K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952346@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952346@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952346@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,678)',
+ SECTION='';
+
+PART_NAME
+ R3103 'RES_R0402_DISCRETE_30.1K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12951604@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12951604@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12951604@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(647,750)',
+ SECTION='';
+
+PART_NAME
+ R3104 'RES_R0402_DISCRETE_10K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12954552@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12954552@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12954552@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,693)',
+ SECTION='';
+
+PART_NAME
+ R3105 'RES_R0402_DISCRETE_10K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952976@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952976@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952976@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,758)',
+ SECTION='';
+
+PART_NAME
+ R3106 'RES_R0402_DISCRETE_82.5K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12955026@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12955026@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12955026@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,768)',
+ SECTION='';
+
+PART_NAME
+ R3107 'RES_R0402_DISCRETE_39.2K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12951740@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12951740@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12951740@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,768)',
+ SECTION='';
+
+PART_NAME
+ R3108 'RES_R0402_DISCRETE_10K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952274@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952274@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952274@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,778)',
+ SECTION='';
+
+PART_NAME
+ R3132 'RES_1005_47K_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952104@RPI-CMIO.RES_1005_47K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952104@\rpi-cmio\.\res_1005_47k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952104@\rpi-cmio\.\res_1005_47k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(86,1456)',
+ SECTION='';
+
+PART_NAME
+ R3133 'RES_1005_100K_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12954914@RP-3_0.RES_1005_100K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12954914@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12954914@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(268,226)',
+ SECTION='';
+
+PART_NAME
+ R3134 'RES_1005_100K_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12951578@RP-3_0.RES_1005_100K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12951578@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12951578@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(224,225)',
+ SECTION='';
+
+PART_NAME
+ R3137 'RES_R0402_DISCRETE_36.5K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12954804@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12954804@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12954804@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(716,695)',
+ SECTION='';
+
+PART_NAME
+ R3138 'RES_1005_47K_R0402_22':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12951640@RPI-CMIO.RES_1005_47K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12951640@\rpi-cmio\.\res_1005_47k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12951640@\rpi-cmio\.\res_1005_47k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(153,1338)',
+ SECTION='';
+
+PART_NAME
+ R3139 'RES_1005_47K_R0402_22':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12955328@RPI-CMIO.RES_1005_47K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12955328@\rpi-cmio\.\res_1005_47k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12955328@\rpi-cmio\.\res_1005_47k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(215,1348)',
+ SECTION='';
+
+PART_NAME
+ R3140 'RES_1005_47K_R0402_22':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12953062@RPI-CMIO.RES_1005_47K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12953062@\rpi-cmio\.\res_1005_47k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12953062@\rpi-cmio\.\res_1005_47k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(153,1358)',
+ SECTION='';
+
+PART_NAME
+ R3141 'RES_1005_47K_R0402_22':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12954940@RPI-CMIO.RES_1005_47K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12954940@\rpi-cmio\.\res_1005_47k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12954940@\rpi-cmio\.\res_1005_47k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(217,1378)',
+ SECTION='';
+
+PART_NAME
+ R3142 'RES_1005_47K_R0402_22':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952368@RPI-CMIO.RES_1005_47K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952368@\rpi-cmio\.\res_1005_47k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952368@\rpi-cmio\.\res_1005_47k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(154,1398)',
+ SECTION='';
+
+PART_NAME
+ R3143 'RES_1005_47K_R0402_22':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12954320@RPI-CMIO.RES_1005_47K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12954320@\rpi-cmio\.\res_1005_47k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12954320@\rpi-cmio\.\res_1005_47k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(216,1408)',
+ SECTION='';
+
+PART_NAME
+ R3145 'RES_1005_100K_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12941546@RP-3_0.RES_1005_100K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12941546@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12941546@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1130,927)',
+ SECTION='';
+
+PART_NAME
+ R3149 'RES_R0402_DISCRETE_10K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13033671@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13033671@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13033671@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(909,1522)',
+ SECTION='';
+
+PART_NAME
+ R3153 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13071259@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13071259@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13071259@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,1271)',
+ SECTION='';
+
+PART_NAME
+ R3154 'RES_R0402_DISCRETE_0_NC_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13086837@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13086837@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13086837@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(287,1370)',
+ SECTION='';
+
+PART_NAME
+ R3155 'RES_R0402_DISCRETE_0_NC_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13086946@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13086946@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13086946@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(289,1389)',
+ SECTION='';
+
+PART_NAME
+ R3156 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13087679@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13087679@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13087679@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1790,689)',
+ SECTION='';
+
+PART_NAME
+ R3157 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13089104@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13089104@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13089104@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1772,439)',
+ SECTION='';
+
+PART_NAME
+ R3158 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13098082@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13098082@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13098082@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1129,1047)',
+ SECTION='';
+
+PART_NAME
+ R3160 'RES_1005_100K_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13106861@RP-3_0.RES_1005_100K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13106861@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13106861@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1475,1548)',
+ SECTION='';
+
+PART_NAME
+ R3161 'RES_R0402_DISCRETE_0_NC_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13168022@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13168022@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13168022@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(464,74)',
+ SECTION='';
+
+PART_NAME
+ R3162 'RES_R0402_DISCRETE_0_NC_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13168180@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13168180@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13168180@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(464,234)',
+ SECTION='';
+
+PART_NAME
+ R3163 'RES_R0402_DISCRETE_10K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13196182@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13196182@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13196182@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,1174)',
+ SECTION='';
+
+PART_NAME
+ R3164 'RES_R0402_DISCRETE_10K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13198247@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13198247@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13198247@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,1148)',
+ SECTION='';
+
+PART_NAME
+ R3165 'RES_0_R0402_DISCRETE_4.7K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13205439@DS90UB928.RES_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13205439@ds90ub928.\res_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13205439@ds90ub928.\res_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1306,1195)',
+ SECTION='';
+
+PART_NAME
+ R3166 'RES_0_R0402_DISCRETE_4.7K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13205455@DS90UB928.RES_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13205455@ds90ub928.\res_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13205455@ds90ub928.\res_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1342,1194)',
+ SECTION='';
+
+PART_NAME
+ R3167 'RES_R0402_DISCRETE_10K_NC_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13206084@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13206084@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13206084@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1519,1499)',
+ SECTION='';
+
+PART_NAME
+ R3168 'RES_0_R0402_DISCRETE_4.7K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13209182@DS90UB928.RES_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13209182@ds90ub928.\res_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13209182@ds90ub928.\res_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1743,793)',
+ SECTION='';
+
+PART_NAME
+ R3169 'RES_0_R0402_DISCRETE_4.7K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13209517@DS90UB928.RES_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13209517@ds90ub928.\res_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13209517@ds90ub928.\res_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1779,793)',
+ SECTION='';
+
+PART_NAME
+ R3172 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13212352@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13212352@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13212352@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(788,1196)',
+ SECTION='';
+
+PART_NAME
+ R3173 'RES_1005_100K_R0402_10K_NC':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13221899@RP-3_0.RES_1005_100K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13221899@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13221899@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1475,1489)',
+ SECTION='';
+
+PART_NAME
+ R3174 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13223644@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13223644@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13223644@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1595,1076)',
+ SECTION='';
+
+PART_NAME
+ R3175 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13223663@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13223663@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13223663@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1595,1096)',
+ SECTION='';
+
+PART_NAME
+ R3176 'RES_1005_100K_R0402_10K_NC':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13223760@RP-3_0.RES_1005_100K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13223760@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13223760@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1539,1491)',
+ SECTION='';
+
+PART_NAME
+ R3177 'RES_1005_100K_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13223794@RP-3_0.RES_1005_100K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13223794@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13223794@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1539,1550)',
+ SECTION='';
+
+PART_NAME
+ R3178 'RES_1005_470R_R0402_2.49K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13224364@RP-3_0.RES_1005_470R.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13224364@\rp-3_0\.\res_1005_470r.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13224364@\rp-3_0\.\res_1005_470r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1734,1496)',
+ SECTION='';
+
+PART_NAME
+ R3179 'RES_1005_470R_R0402_2.49K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13225203@RP-3_0.RES_1005_470R.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13225203@\rp-3_0\.\res_1005_470r.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13225203@\rp-3_0\.\res_1005_470r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1798,1497)',
+ SECTION='';
+
+PART_NAME
+ R3180 'RES_1005_100K_R0402_10K_NC':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13228799@RP-3_0.RES_1005_100K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13228799@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13228799@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1601,1492)',
+ SECTION='';
+
+PART_NAME
+ R3181 'RES_1005_100K_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13228833@RP-3_0.RES_1005_100K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13228833@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13228833@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1601,1551)',
+ SECTION='';
+
+PART_NAME
+ R3182 'RES_1005_100K_R0402_10K_NC':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13237868@RP-3_0.RES_1005_100K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13237868@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13237868@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1665,1492)',
+ SECTION='';
+
+PART_NAME
+ R3183 'RES_1005_100K_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13237902@RP-3_0.RES_1005_100K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13237902@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13237902@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1665,1551)',
+ SECTION='';
+
+PART_NAME
+ R3184 'RES_R0603_DISCRETE_3.3_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13242741@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13242741@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13242741@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2077,1486)',
+ SECTION='';
+
+PART_NAME
+ R3185 'RES_R0402_DISCRETE_2.2K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13242757@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13242757@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13242757@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1993,1486)',
+ SECTION='';
+
+PART_NAME
+ R3186 'RES_R0402_DISCRETE_10K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13242779@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13242779@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13242779@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2041,1452)',
+ SECTION='';
+
+PART_NAME
+ R3187 'RES_R0402_DISCRETE_2.2K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13245771@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13245771@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13245771@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1992,1522)',
+ SECTION='';
+
+PART_NAME
+ R3188 'RES_R0603_DISCRETE_3.3_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13245791@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13245791@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13245791@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2076,1521)',
+ SECTION='';
+
+PART_NAME
+ R3189 'RES_R0402_DISCRETE_10K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13245858@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13245858@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13245858@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2040,1550)',
+ SECTION='';
+
+PART_NAME
+ R3190 'RES_R0402_DISCRETE_2.2K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13253756@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13253756@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13253756@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1156,1307)',
+ SECTION='';
+
+PART_NAME
+ R3191 'RES_R0402_DISCRETE_8.2K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13255592@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13255592@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13255592@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1246,1284)',
+ SECTION='';
+
+PART_NAME
+ R3192 'RES_R0402_DISCRETE_8.2K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13255614@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13255614@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13255614@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1247,1307)',
+ SECTION='';
+
+PART_NAME
+ R3193 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13273682@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13273682@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13273682@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1789,669)',
+ SECTION='';
+
+PART_NAME
+ R3194 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13273774@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13273774@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13273774@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1801,731)',
+ SECTION='';
+
+PART_NAME
+ R3195 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13273812@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13273812@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13273812@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1799,748)',
+ SECTION='';
+
+PART_NAME
+ R3196 'RES_1005_100K_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13273998@RP-3_0.RES_1005_100K.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13273998@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13273998@\rp-3_0\.\res_1005_100k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1504,815)',
+ SECTION='';
+
+PART_NAME
+ R3197 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13277305@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13277305@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13277305@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1297,804)',
+ SECTION='';
+
+PART_NAME
+ R3198 'RES_R0402_DISCRETE_0_NC_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13277353@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13277353@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13277353@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1789,648)',
+ SECTION='';
+
+PART_NAME
+ R3199 'RES_R0402_DISCRETE_0_NC_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13278805@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13278805@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13278805@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1106,1113)',
+ SECTION='';
+
+PART_NAME
+ R3200 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13279333@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13279333@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13279333@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1159,1284)',
+ SECTION='';
+
+PART_NAME
+ R3201 'RES_R0402_DISCRETE_0_NC_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13298870@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13298870@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13298870@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1790,706)',
+ SECTION='';
+
+PART_NAME
+ R368 'RES_R0402_DISCRETE_10K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12373122@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12373122@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12373122@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1276,1314)',
+ SECTION='';
+
+PART_NAME
+ R370 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12374305@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12374305@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12374305@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1324,1484)',
+ SECTION='';
+
+PART_NAME
+ R371 'RES_R0402_DISCRETE_10K_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12375652@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12375652@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12375652@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1464,1504)',
+ SECTION='';
+
+PART_NAME
+ R373 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12379284@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12379284@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12379284@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1404,1484)',
+ SECTION='';
+
+PART_NAME
+ R42 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS1478139@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins1478139@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins1478139@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2095,1375)',
+ SECTION='';
+
+PART_NAME
+ R43 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS1478171@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins1478171@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins1478171@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2095,1385)',
+ SECTION='';
+
+PART_NAME
+ R87 'RES_R0402_DISCRETE_10K_NC_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12720971@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12720971@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12720971@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(312,938)',
+ SECTION='';
+
+PART_NAME
+ R88 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12720783@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12720783@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12720783@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(232,878)',
+ SECTION='';
+
+PART_NAME
+ R89 'RES_R0402_DISCRETE_0_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12720799@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12720799@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12720799@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(682,878)',
+ SECTION='';
+
+PART_NAME
+ R90 'RES_R0603_DISCRETE_3.3_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12720907@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12720907@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12720907@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(732,928)',
+ SECTION='';
+
+PART_NAME
+ R91 'RES_R0603_DISCRETE_3.3_':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12720923@DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12720923@discrete.\res.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12720923@discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(752,928)',
+ SECTION='';
+
+PART_NAME
+ SW2 'SKEG_DIP2_2_BUTTON_IO_TC-0143':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12418307@CUTIEPI V1.1_20191011.SKEG_DIP2_2.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12418307@\cutiepi v1.1_20191011\.\skeg_dip2_2.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12418307@\cutiepi v1.1_20191011\.\skeg_dip2_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(94,1528)',
+ SECTION='';
+
+PART_NAME
+ TP100 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13292261@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13292261@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13292261@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(649,1357)',
+ SECTION='';
+
+PART_NAME
+ TP101 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13292277@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13292277@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13292277@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(648,1377)',
+ SECTION='';
+
+PART_NAME
+ TP28 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS1478331@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins1478331@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins1478331@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1975,1295)',
+ SECTION='';
+
+PART_NAME
+ TP29 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS1478349@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins1478349@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins1478349@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2005,1295)',
+ SECTION='';
+
+PART_NAME
+ TP30 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12720407@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12720407@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12720407@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(232,678)',
+ SECTION='';
+
+PART_NAME
+ TP33 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12720427@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12720427@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12720427@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(772,678)',
+ SECTION='';
+
+PART_NAME
+ TP41 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12955048@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12955048@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12955048@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(265,72)',
+ SECTION='';
+
+PART_NAME
+ TP43 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12954436@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12954436@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12954436@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,383)',
+ SECTION='';
+
+PART_NAME
+ TP44 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13363346@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13363346@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13363346@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(931,591)',
+ SECTION='';
+
+PART_NAME
+ TP45 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952728@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952728@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952728@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(133,588)',
+ SECTION='';
+
+PART_NAME
+ TP46 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12954966@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12954966@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12954966@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(126,433)',
+ SECTION='';
+
+PART_NAME
+ TP47 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13363295@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13363295@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13363295@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(914,628)',
+ SECTION='';
+
+PART_NAME
+ TP52 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12953022@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12953022@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12953022@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(765,125)',
+ SECTION='';
+
+PART_NAME
+ TP57 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12811826@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12811826@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12811826@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1305,706)',
+ SECTION='';
+
+PART_NAME
+ TP58 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12811881@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12811881@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12811881@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1159,866)',
+ SECTION='';
+
+PART_NAME
+ TP59 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12811898@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12811898@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12811898@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1188,946)',
+ SECTION='';
+
+PART_NAME
+ TP60 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12811915@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12811915@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12811915@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1452,866)',
+ SECTION='';
+
+PART_NAME
+ TP61 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12811936@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12811936@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12811936@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1453,926)',
+ SECTION='';
+
+PART_NAME
+ TP62 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12811954@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12811954@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12811954@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(187,1226)',
+ SECTION='';
+
+PART_NAME
+ TP63 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12812009@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12812009@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12812009@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(187,1266)',
+ SECTION='';
+
+PART_NAME
+ TP64 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12812029@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12812029@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12812029@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(783,1435)',
+ SECTION='';
+
+PART_NAME
+ TP65 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12812075@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12812075@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12812075@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(999,1442)',
+ SECTION='';
+
+PART_NAME
+ TP77 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13087645@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13087645@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13087645@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2196,543)',
+ SECTION='';
+
+PART_NAME
+ TP78 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13087657@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13087657@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13087657@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2196,553)',
+ SECTION='';
+
+PART_NAME
+ TP79 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13088423@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13088423@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13088423@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2196,583)',
+ SECTION='';
+
+PART_NAME
+ TP80 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13088435@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13088435@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13088435@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2196,593)',
+ SECTION='';
+
+PART_NAME
+ TP81 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13088903@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13088903@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13088903@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2008,1176)',
+ SECTION='';
+
+PART_NAME
+ TP83 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13114109@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13114109@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13114109@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1817,553)',
+ SECTION='';
+
+PART_NAME
+ TP84 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13114131@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13114131@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13114131@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1817,193)',
+ SECTION='';
+
+PART_NAME
+ TP89 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13115108@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13115108@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13115108@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1817,273)',
+ SECTION='';
+
+PART_NAME
+ TP90 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13115120@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13115120@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13115120@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2196,273)',
+ SECTION='';
+
+PART_NAME
+ TP91 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13147851@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13147851@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13147851@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(952,638)',
+ SECTION='';
+
+PART_NAME
+ TP92 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13166819@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13166819@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13166819@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(228,92)',
+ SECTION='';
+
+PART_NAME
+ TP93 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13167493@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13167493@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13167493@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(228,152)',
+ SECTION='';
+
+PART_NAME
+ TP94 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13204600@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13204600@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13204600@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1621,101)',
+ SECTION='';
+
+PART_NAME
+ TP95 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13235624@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13235624@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13235624@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1822,999)',
+ SECTION='';
+
+PART_NAME
+ TP97 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13245807@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13245807@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13245807@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2177,1521)',
+ SECTION='';
+
+PART_NAME
+ TP98 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13280916@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13280916@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13280916@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(137,1191)',
+ SECTION='';
+
+PART_NAME
+ TP99 'TEST PAD_TESTPOINT_20MIL_IO_TEST POINT':
+ ROOM='P10-PMIC';
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13280955@FCL_MISC.TEST PAD.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13280955@fcl_misc.\test pad.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13280955@fcl_misc.\test pad.normal\(chips)',
+ ROOM='P10-PMIC',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(137,1297)',
+ SECTION='';
+
+PART_NAME
+ U12 'SMD_EEPROM_SO8_0_SOIC8_1D27MM_IC_LM4871MX':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12331697@RPI-CMIO-PENK_20181207.SMD_EEPROM_SO8_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12331697@\rpi-cmio-penk_20181207\.\smd_eeprom_so8_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12331697@\rpi-cmio-penk_20181207\.\smd_eeprom_so8_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1319,876)',
+ SECTION='';
+
+PART_NAME
+ U18 'XF6000SYE_1_TSSOP20_0D65MM_IC_STM32F030F4P6':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12395132@RPI-CMIO-PENK_20181210.XF6000SYE_1.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12395132@\rpi-cmio-penk_20181210\.\xf6000sye_1.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12395132@\rpi-cmio-penk_20181210\.\xf6000sye_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(528,1206)',
+ SECTION='';
+
+PART_NAME
+ U3 'LSD4WF-00007010_2_QFN48_05MM_0707MMLTS_IC_HS100B':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13080332@CUTIEPI V2.1_20210113.LSD4WF-00007010_2.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13080332@\cutiepi v2.1_20210113\.\lsd4wf-00007010_2.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13080332@\cutiepi v2.1_20210113\.\lsd4wf-00007010_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1682,1056)',
+ SECTION='';
+
+PART_NAME
+ U5 'TMP100-Q1_0_TSOP6_IP4234CZ6':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952016@RPI-CMIO-PENK_20181207.TMP100-Q1_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952016@\rpi-cmio-penk_20181207\.\tmp100-q1_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952016@\rpi-cmio-penk_20181207\.\tmp100-q1_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(703,180)',
+ SECTION='';
+
+PART_NAME
+ U501 'ADMP421_LGA5_1_LGA5_CAV_4P1X3P1MM_IC_SPU0410HR5H':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13092997@CUTIEPI V2.0_20201111.ADMP421_LGA5_1.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13092997@\cutiepi v2.0_20201111\.\admp421_lga5_1.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13092997@\cutiepi v2.0_20201111\.\admp421_lga5_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1229,1083)',
+ SECTION='';
+
+PART_NAME
+ U57 'TUSB1210BRHBT_2_QFN24_05MM_0404MML_MPU6050':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12346436@RPI-CMIO_20190221.TUSB1210BRHBT_2.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12346436@\rpi-cmio_20190221\.\tusb1210brhbt_2.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12346436@\rpi-cmio_20190221\.\tusb1210brhbt_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1344,1304)',
+ SECTION='';
+
+PART_NAME
+ U580 'PCA9306IDCURQ1_0_SOIC8_AT93C46':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13222237@CUTIEPI V2.0_20201031.PCA9306IDCURQ1_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13222237@\cutiepi v2.0_20201031\.\pca9306idcurq1_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13222237@\cutiepi v2.0_20201031\.\pca9306idcurq1_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2031,943)',
+ SECTION='';
+
+PART_NAME
+ U597 'STM8AF6226TA_5_QFN-30_MP2636GR':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12952842@RPI-CMIO-PENK_20181207.STM8AF6226TA_5.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12952842@\rpi-cmio-penk_20181207\.\stm8af6226ta_5.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12952842@\rpi-cmio-penk_20181207\.\stm8af6226ta_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,478)',
+ SECTION='';
+
+PART_NAME
+ U6 'TPS61165TDB_SOT23_6B_IC_TPS61165DBV':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12720697@LIBRARY1.TPS61165TDB.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12720697@library1.\tps61165tdb.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12720697@library1.\tps61165tdb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(472,838)',
+ SECTION='';
+
+PART_NAME
+ U60 'LP3470/SOT23_1_SOT23_5_IC_TPS73601DBVR':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12412804@RPI-CMIO-PENK_20181210.LP3470/SOT23_1.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12412804@\rpi-cmio-penk_20181210\.\lp3470/sot23_1.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12412804@\rpi-cmio-penk_20181210\.\lp3470/sot23_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(874,1512)',
+ SECTION='';
+
+PART_NAME
+ U600 'NEO-M8L_2_SOP16_1P27_HS8836A_HS8836A':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13023918@CUTIEPI V2.1_20210113.NEO-M8L_2.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13023918@\cutiepi v2.1_20210113\.\neo-m8l_2.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13023918@\cutiepi v2.1_20210113\.\neo-m8l_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(757,1346)',
+ SECTION='';
+
+PART_NAME
+ U601 'TMP100-Q1_0_TSOP6_IP4234CZ6':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13168104@RPI-CMIO-PENK_20181207.TMP100-Q1_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13168104@\rpi-cmio-penk_20181207\.\tmp100-q1_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13168104@\rpi-cmio-penk_20181207\.\tmp100-q1_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(454,129)',
+ SECTION='';
+
+PART_NAME
+ U602 'IC_MUX2-1_USB_0_SOP10_20_120A_FSUSB42MUX':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS13174067@CUTIEPI V2.1_20210113.IC_MUX2-1_USB_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins13174067@\cutiepi v2.1_20210113\.\ic_mux2-1_usb_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins13174067@\cutiepi v2.1_20210113\.\ic_mux2-1_usb_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(770,1068)',
+ SECTION='';
+
+PART_NAME
+ Y2 'X_0_XTAL_3225_25M_A_IC_25M_NC':;
+
+SECTION_NUMBER 1
+ '@CUTIEPI_V2.3-20210409.SCHEMATIC1(SCH_1):INS12398956@DA_MB_V0_1.X_0.NORMAL(CHIPS)':
+ C_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):ins12398956@da_mb_v0_1.\x_0.normal\(chips)',
+ P_PATH='@\cutiepi_v2.3-20210409\.schematic1(sch_1):page_ins12398956@da_mb_v0_1.\x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(978,1166)',
+ SECTION='';
+
+END.

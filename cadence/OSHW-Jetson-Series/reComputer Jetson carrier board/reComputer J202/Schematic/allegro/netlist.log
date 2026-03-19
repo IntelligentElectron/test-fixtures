@@ -1,0 +1,134 @@
+{ Using PSTWRITER 23.1.0 d001Mar-04-2026 at 12:23:39 }
+
+#1 WARNING(ORCAP-36050): No pins are present in PCB1. Ignoring this component in netlist.
+#2 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#251" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#3 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#252" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#4 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#253" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#5 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#254" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#6 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#255" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#7 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#256" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#8 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#257" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#9 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#258" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#10 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#259" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#11 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#260" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#12 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#1" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#13 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#14 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#7" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#15 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#8" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#16 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#13" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#17 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#14" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#18 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#19" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#19 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#20" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#20 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#25" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#21 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#26" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#22 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#31" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#23 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#32" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#24 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#37" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#25 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#38" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#26 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#43" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#27 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#44" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#28 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#49" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#29 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#50" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#30 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#55" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#31 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#56" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#32 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#61" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#33 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#62" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#34 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#67" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#35 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#68" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#36 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#73" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#37 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#74" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#38 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#79" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#39 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#80" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#40 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#85" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#41 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#86" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#42 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#102" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#43 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#107" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#44 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#113" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#45 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#119" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#46 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#125" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#47 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#129" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#48 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#132" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#49 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#135" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#50 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#138" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#51 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#141" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#52 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#144" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#53 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#146" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#54 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#147" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#55 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#152" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#56 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#153" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#57 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#158" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#58 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#159" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#59 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#164" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#60 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#165" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#61 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#170" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#62 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#171" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#63 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#176" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#64 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#177" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#65 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#200" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#66 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#201" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#67 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#217" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#68 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#231" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#69 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#241" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#70 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#242" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#71 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#243" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#72 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#244" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#73 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#245" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#74 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#246" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#75 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#247" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#76 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#248" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#77 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#249" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#78 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#250" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#79 WARNING(ORCAP-36042): Pin "MNT" is renamed to "MNT#261" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#80 WARNING(ORCAP-36042): Pin "MNT" is renamed to "MNT#262" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_NANOA , J11A: reComputer J202, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#81 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#1" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#82 WARNING(ORCAP-36042): Pin "3.3 V" is renamed to "3.3 V#2" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#83 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#3" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#84 WARNING(ORCAP-36042): Pin "3.3 V" is renamed to "3.3 V#4" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#85 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#9" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#86 WARNING(ORCAP-36042): Pin "3.3 V" is renamed to "3.3 V#12" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#87 WARNING(ORCAP-36042): Pin "3.3 V" is renamed to "3.3 V#14" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#88 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#15" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#89 WARNING(ORCAP-36042): Pin "3.3 V" is renamed to "3.3 V#16" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#90 WARNING(ORCAP-36042): Pin "3.3 V" is renamed to "3.3 V#18" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#91 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#21" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#92 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#27" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#93 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#33" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#94 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#95 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#45" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#96 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#51" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#97 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#57" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#98 WARNING(ORCAP-36042): Pin "3.3 V" is renamed to "3.3 V#70" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#99 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#71" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#100 WARNING(ORCAP-36042): Pin "3.3 V" is renamed to "3.3 V#72" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#101 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#73" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#102 WARNING(ORCAP-36042): Pin "3.3 V" is renamed to "3.3 V#74" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#103 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#75" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J18: reComputer J202, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#104 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#1" as visible power pin of same name already exists in Package PCIe_M.2_Key E_75Pin , J20: reComputer J202, 17 M.2 KEY-E (WIFI/BT) (162.56, 73.66).
+#105 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#7" as visible power pin of same name already exists in Package PCIe_M.2_Key E_75Pin , J20: reComputer J202, 17 M.2 KEY-E (WIFI/BT) (162.56, 73.66).
+#106 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#33" as visible power pin of same name already exists in Package PCIe_M.2_Key E_75Pin , J20: reComputer J202, 17 M.2 KEY-E (WIFI/BT) (162.56, 73.66).
+#107 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39" as visible power pin of same name already exists in Package PCIe_M.2_Key E_75Pin , J20: reComputer J202, 17 M.2 KEY-E (WIFI/BT) (162.56, 73.66).
+#108 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#45" as visible power pin of same name already exists in Package PCIe_M.2_Key E_75Pin , J20: reComputer J202, 17 M.2 KEY-E (WIFI/BT) (162.56, 73.66).
+#109 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#51" as visible power pin of same name already exists in Package PCIe_M.2_Key E_75Pin , J20: reComputer J202, 17 M.2 KEY-E (WIFI/BT) (162.56, 73.66).
+#110 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#57" as visible power pin of same name already exists in Package PCIe_M.2_Key E_75Pin , J20: reComputer J202, 17 M.2 KEY-E (WIFI/BT) (162.56, 73.66).
+#111 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#63" as visible power pin of same name already exists in Package PCIe_M.2_Key E_75Pin , J20: reComputer J202, 17 M.2 KEY-E (WIFI/BT) (162.56, 73.66).
+#112 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#69" as visible power pin of same name already exists in Package PCIe_M.2_Key E_75Pin , J20: reComputer J202, 17 M.2 KEY-E (WIFI/BT) (162.56, 73.66).
+#113 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#75" as visible power pin of same name already exists in Package PCIe_M.2_Key E_75Pin , J20: reComputer J202, 17 M.2 KEY-E (WIFI/BT) (162.56, 73.66).
+#114 WARNING(ORCAP-36042): Pin "3.3V" is renamed to "3.3V#2" as visible power pin of same name already exists in Package PCIe_M.2_Key E_75Pin , J20: reComputer J202, 17 M.2 KEY-E (WIFI/BT) (162.56, 73.66).
+#115 WARNING(ORCAP-36042): Pin "3.3V" is renamed to "3.3V#4" as visible power pin of same name already exists in Package PCIe_M.2_Key E_75Pin , J20: reComputer J202, 17 M.2 KEY-E (WIFI/BT) (162.56, 73.66).
+#116 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#18" as visible power pin of same name already exists in Package PCIe_M.2_Key E_75Pin , J20: reComputer J202, 17 M.2 KEY-E (WIFI/BT) (162.56, 73.66).
+#117 WARNING(ORCAP-36042): Pin "3.3V" is renamed to "3.3V#72" as visible power pin of same name already exists in Package PCIe_M.2_Key E_75Pin , J20: reComputer J202, 17 M.2 KEY-E (WIFI/BT) (162.56, 73.66).
+#118 WARNING(ORCAP-36042): Pin "3.3V" is renamed to "3.3V#74" as visible power pin of same name already exists in Package PCIe_M.2_Key E_75Pin , J20: reComputer J202, 17 M.2 KEY-E (WIFI/BT) (162.56, 73.66).
+#119 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package USB3.0_Dual Type A_18+4P , J3: reComputer J202, 12 USB3.1 Type-A x2 (B) (264.16, 83.82).
+#120 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#7" as visible power pin of same name already exists in Package USB3.0_Dual Type A_18+4P , J3: reComputer J202, 12 USB3.1 Type-A x2 (B) (264.16, 83.82).
+#121 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#13" as visible power pin of same name already exists in Package USB3.0_Dual Type A_18+4P , J3: reComputer J202, 12 USB3.1 Type-A x2 (B) (264.16, 83.82).
+#122 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#16" as visible power pin of same name already exists in Package USB3.0_Dual Type A_18+4P , J3: reComputer J202, 12 USB3.1 Type-A x2 (B) (264.16, 83.82).
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... allegro\pstchip.dat
+
+Loading... allegro\pstchip.dat
+
+Loading... allegro\pstxprt.dat
+
+Loading... allegro\pstxnet.dat
+packaging the design view...

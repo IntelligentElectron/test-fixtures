@@ -1,0 +1,1607 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 23.1.0 d001Mar-04-2026 at 12:23:43 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='LAUNCHXL-CC1310';
+ POST_TIME='Jun 18 2025 22:29:23';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ A1 'ANTENNA_PCB_ANTENNA_DN024N_DISCRETE_868MHZ/2440MHZ':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1414884@MECHANIC.ANTENNA_PCB.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1414884@mechanic.\antenna_pcb.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1414884@mechanic.\antenna_pcb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1095,335)',
+ SECTION='';
+
+PART_NAME
+ C11 'CAPACITOR_CAPC1005X60B2N_3.6PF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1404125@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1404125@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1404125@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,310)',
+ SECTION='';
+
+PART_NAME
+ C12 'CAPACITOR_CAPC1005X60B2N_2.7PF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1406829@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1406829@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1406829@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,395)',
+ SECTION='';
+
+PART_NAME
+ C13 'CAPACITOR_CAPC1005X60B2N_6.2PF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1410210@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1410210@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1410210@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,395)',
+ SECTION='';
+
+PART_NAME
+ C14 'CAPACITOR_CAPC1005X60B2N_3PF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1410978@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1410978@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1410978@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(865,395)',
+ SECTION='';
+
+PART_NAME
+ C15 'CAPACITOR_CAPC1005X60B2N_100PF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1414012@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1414012@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1414012@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(900,365)',
+ SECTION='';
+
+PART_NAME
+ C16 'CAPACITOR_CAPC1005X60B2N_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1021471@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1021471@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1021471@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(860,140)',
+ SECTION='';
+
+PART_NAME
+ C17 'CAPACITOR_CAPC1005X60B2N_12PF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1020915@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1020915@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1020915@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,430)',
+ SECTION='';
+
+PART_NAME
+ C18 'CAPACITOR_CAPC1005X60B2N_12PF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1020971@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1020971@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1020971@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,430)',
+ SECTION='';
+
+PART_NAME
+ C19 'CAPACITOR_CAPC1005X60B2N_1UF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1021155@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1021155@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1021155@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,430)',
+ SECTION='';
+
+PART_NAME
+ C20 'CAPACITOR_CAPC1005X60B2N_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1021123@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1021123@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1021123@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,360)',
+ SECTION='';
+
+PART_NAME
+ C21 'CAPACITOR_CAPC1005X60B2N_100PF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1403896@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1403896@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1403896@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,500)',
+ SECTION='';
+
+PART_NAME
+ C22 'CAPACITOR_CAPC1005X60B2N_3.6PF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1404371@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1404371@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1404371@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(660,400)',
+ SECTION='';
+
+PART_NAME
+ C24 'CAPACITOR_CAPC1005X60B2N_DNM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1459143@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1459143@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1459143@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(965,395)',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR_CAPC1005X60B2N_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1020803@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1020803@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1020803@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,140)',
+ SECTION='';
+
+PART_NAME
+ C30 'CAPACITOR_CAPC1005X60B2N_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1130302@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1130302@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1130302@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,1040)',
+ SECTION='';
+
+PART_NAME
+ C32 'CAPACITOR_CAPC1005X60B2N_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1121822@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1121822@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1121822@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1390,760)',
+ SECTION='';
+
+PART_NAME
+ C33 'CAPACITOR_CAPC1005X60B2N_12PF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1025664@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1025664@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1025664@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,795)',
+ SECTION='';
+
+PART_NAME
+ C34 'CAPACITOR_CAPC1005X60B2N_12PF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1025596@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1025596@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1025596@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,870)',
+ SECTION='';
+
+PART_NAME
+ C35 'CAPACITOR_CAPC1005X60B2N_10NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1025616@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1025616@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1025616@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1240,170)',
+ SECTION='';
+
+PART_NAME
+ C36 'CAPACITOR_CAPC1005X60B2N_10NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1025492@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1025492@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1025492@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1280,170)',
+ SECTION='';
+
+PART_NAME
+ C37 'CAPACITOR_CAPC1005X60B2N_10NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1025472@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1025472@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1025472@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1320,170)',
+ SECTION='';
+
+PART_NAME
+ C38 'CAPACITOR_CAPC1005X60B2N_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1106439@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1106439@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1106439@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1360,170)',
+ SECTION='';
+
+PART_NAME
+ C39 'CAPACITOR_CAPC1005X60B2N_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1118889@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1118889@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1118889@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1400,170)',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPACITOR_CAPC1005X60B2N_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1021011@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1021011@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1021011@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(290,140)',
+ SECTION='';
+
+PART_NAME
+ C40 'CAPACITOR_CAPC1005X60B2N_1UF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1106413@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1106413@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1106413@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1440,170)',
+ SECTION='';
+
+PART_NAME
+ C41 'CAPACITOR_CAPC1005X60B2N_10NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1025452@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1025452@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1025452@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1380,320)',
+ SECTION='';
+
+PART_NAME
+ C42 'CAPACITOR_CAPC1005X60B2N_1UF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1111492@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1111492@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1111492@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1420,320)',
+ SECTION='';
+
+PART_NAME
+ C43 'CAPACITOR_CAPC1005X60B2N_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1109810@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1109810@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1109810@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1250,340)',
+ SECTION='';
+
+PART_NAME
+ C44 'CAPACITOR_CAPC1005X60B2N_1UF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1110250@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1110250@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1110250@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1290,340)',
+ SECTION='';
+
+PART_NAME
+ C45 'CAPACITOR_CAPC1005X60B2N_2.2UF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1024705@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1024705@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1024705@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1330,340)',
+ SECTION='';
+
+PART_NAME
+ C46 'CAPACITOR_CAPC1005X60B2N_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1106465@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1106465@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1106465@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1250,430)',
+ SECTION='';
+
+PART_NAME
+ C47 'CAPACITOR_CAPC1005X60B2N_15PF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1123699@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1123699@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1123699@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,930)',
+ SECTION='';
+
+PART_NAME
+ C48 'CAPACITOR_CAPC1005X60B2N_2.2UF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1025212@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1025212@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1025212@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,930)',
+ SECTION='';
+
+PART_NAME
+ C49 'CAPACITOR_CAPC1005X60B2N_2.2UF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1025808@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1025808@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1025808@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,930)',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPACITOR_CAPC1005X60B2N_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1020843@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1020843@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1020843@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,140)',
+ SECTION='';
+
+PART_NAME
+ C50 'CAPACITOR_CAPC1005X60B2N_10NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1121806@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1121806@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1121806@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1350,760)',
+ SECTION='';
+
+PART_NAME
+ C52 'CAPACITOR_CAPC1005X60B2N_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1336822@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1336822@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1336822@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1200,270)',
+ SECTION='';
+
+PART_NAME
+ C53 'CAPACITOR_CAPC1005X60B2N_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1337535@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1337535@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1337535@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1020,500)',
+ SECTION='';
+
+PART_NAME
+ C54 'CAPACITOR_CAPC1005X60B2N_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1337579@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1337579@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1337579@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1200,500)',
+ SECTION='';
+
+PART_NAME
+ C55 'CAPACITOR_CAPC1005X60B2N_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1338013@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1338013@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1338013@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1020,750)',
+ SECTION='';
+
+PART_NAME
+ C56 'CAPACITOR_CAPC1005X60B2N_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1338057@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1338057@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1338057@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1200,750)',
+ SECTION='';
+
+PART_NAME
+ C57 'CAPACITOR_CAPC1005X60B2N_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1336646@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1336646@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1336646@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1020,270)',
+ SECTION='';
+
+PART_NAME
+ C58 'CAPACITOR_CAPC1005X60B2N_DNM_0402':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1464514@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1464514@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1464514@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1055,395)',
+ SECTION='';
+
+PART_NAME
+ C59 'CAPACITOR_CAPC1005X60B2N_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1467294@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1467294@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1467294@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(700,125)',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPACITOR_CAPC1608X100A2N_22UF_CAPC1608X100A2L,CAPC1608X100A2M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1021399@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1021399@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1021399@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,140)',
+ SECTION='';
+
+PART_NAME
+ C7 'CAPACITOR_CAPC1005X60B2N_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1095437@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1095437@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1095437@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(460,140)',
+ SECTION='';
+
+PART_NAME
+ C8 'CAPACITOR_CAPC1608X100A2L_22UF_CAPC1608X100A2L,CAPC1608X100A2M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1402830@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1402830@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1402830@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(690,140)',
+ SECTION='';
+
+PART_NAME
+ C9 'CAPACITOR_CAPC1005X60B2N_100NF':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1021419@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1021419@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1021419@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,140)',
+ SECTION='';
+
+PART_NAME
+ CR1 'LED_LEDC1707X65L_LPL296-J2L2-25_LEDC1707X65L,LEDC1707X65M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1159409@OPTOELECTRONICS.LED.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1159409@optoelectronics.\led.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1159409@optoelectronics.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1510,760)',
+ SECTION='';
+
+PART_NAME
+ CR2 'LED_LEDC1708X67L_LS L296-P2Q2-1_LEDC1708X67L,LEDC1708X67M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1159333@OPTOELECTRONICS.LED.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1159333@optoelectronics.\led.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1159333@optoelectronics.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1560,760)',
+ SECTION='';
+
+PART_NAME
+ CR4 'LED_LEDC1708X67L_LS L296-P2Q2-1_LEDC1708X67L,LEDC1708X67M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1036798@OPTOELECTRONICS.LED.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1036798@optoelectronics.\led.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1036798@optoelectronics.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,250)',
+ SECTION='';
+
+PART_NAME
+ CR5 'LED_LEDC1707X65L_LPL296-J2L2-25_LEDC1707X65L,LEDC1707X65M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1036782@OPTOELECTRONICS.LED.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1036782@optoelectronics.\led.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1036782@optoelectronics.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(700,250)',
+ SECTION='';
+
+PART_NAME
+ CR6 'DIODE_TPD4E004_SON6_SON50P100X145X60-6N_TPD4E004DRY_SON50P100X145X65-6L,SON50P100X145X65-6M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1025540@DIODE.DIODE_TPD4E004_SON6.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1025540@diode.\diode_tpd4e004_son6.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1025540@diode.\diode_tpd4e004_son6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,1020)',
+ SECTION='';
+
+PART_NAME
+ CR7 'DIODE_TVS_TPD6E004_QFN8_V1_0_QFN50P150X150X60-8N_TPD6E004RSER_QFN50P150X150X60-8L,QFN50P150X150X60-8M,QFN50P150X150X60-8AL':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1239960@CCDEBUGGER_2_0.DIODE_TVS_TPD6E004_QFN8_V1_0.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1239960@ccdebugger_2_0.\diode_tvs_tpd6e004_qfn8_v1_0.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1239960@ccdebugger_2_0.\diode_tvs_tpd6e004_qfn8_v1_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,930)',
+ SECTION='';
+
+PART_NAME
+ CR8 'DIODE_TVS_TPD6E004_QFN8_V1_0_QFN50P150X150X60-8N_TPD6E004RSER_QFN50P150X150X60-8L,QFN50P150X150X60-8M,QFN50P150X150X60-8AL':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1430338@CCDEBUGGER_2_0.DIODE_TVS_TPD6E004_QFN8_V1_0.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1430338@ccdebugger_2_0.\diode_tvs_tpd6e004_qfn8_v1_0.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1430338@ccdebugger_2_0.\diode_tvs_tpd6e004_qfn8_v1_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,860)',
+ SECTION='';
+
+PART_NAME
+ FIDU1 'FIDMARK_FID127X142_FIDU_1.27MM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1146714@PCB.FIDMARK.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1146714@pcb.\fidmark.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1146714@pcb.\fidmark.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1080,1070)',
+ SECTION='';
+
+PART_NAME
+ FIDU2 'FIDMARK_FID127X142_FIDU_1.27MM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1146694@PCB.FIDMARK.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1146694@pcb.\fidmark.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1146694@pcb.\fidmark.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,1070)',
+ SECTION='';
+
+PART_NAME
+ FIDU3 'FIDMARK_FID127X142_FIDU_1.27MM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1146684@PCB.FIDMARK.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1146684@pcb.\fidmark.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1146684@pcb.\fidmark.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1160,1070)',
+ SECTION='';
+
+PART_NAME
+ FIDU4 'FIDMARK_FID127X142_FIDU_1.27MM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1146724@PCB.FIDMARK.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1146724@pcb.\fidmark.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1146724@pcb.\fidmark.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1080,1110)',
+ SECTION='';
+
+PART_NAME
+ FIDU5 'FIDMARK_FID127X142_FIDU_1.27MM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1146704@PCB.FIDMARK.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1146704@pcb.\fidmark.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1146704@pcb.\fidmark.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,1110)',
+ SECTION='';
+
+PART_NAME
+ FIDU6 'FIDMARK_FID127X142_FIDU_1.27MM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1146734@PCB.FIDMARK.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1146734@pcb.\fidmark.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1146734@pcb.\fidmark.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1160,1110)',
+ SECTION='';
+
+PART_NAME
+ FL1 'FILTER_2PIN_FIL_BLM18HE152SN1DL_BLM18HE152SN1_FIL_BLM18HE152SN1DL,FIL_BLM18HE152SN1DM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1021379@FILTER.FILTER_2PIN.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1021379@filter.\filter_2pin.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1021379@filter.\filter_2pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,110)',
+ SECTION='';
+
+PART_NAME
+ J1 'CONN_HEADER_2X10_J_S_V1_SAMTEC_SSQ11023LD_A2B_IO_SSQ-110-23-L-D_SAMTEC_SSQ11023LD_A2C,SAMTEC_SSQ11023LD_A2A':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1170303@CONNECTOR.CONN_HEADER_2X10_J_S_V1.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1170303@connector.\conn_header_2x10_j_s_v1.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1170303@connector.\conn_header_2x10_j_s_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,120)',
+ SECTION='';
+
+PART_NAME
+ J2 'CONN_HEADER_2X10_J_S_V1_SAMTEC_SSQ11023LD_A2B_IO_SSQ-110-23-L-D_SAMTEC_SSQ11023LD_A2C,SAMTEC_SSQ11023LD_A2A':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1176428@CONNECTOR.CONN_HEADER_2X10_J_S_V1.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1176428@connector.\conn_header_2x10_j_s_v1.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1176428@connector.\conn_header_2x10_j_s_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1000,120)',
+ SECTION='';
+
+PART_NAME
+ J6 'CONN_USB_MICRO_B_2MH_MOLEX_1051640001_A2N_IO_105164-0001_MOLEX_1051640001_A2L,MOLEX_1051640001_A2M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1181074@CONNECTOR.CONN_USB_MICRO_B_2MH.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1181074@connector.\conn_usb_micro_b_2mh.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1181074@connector.\conn_usb_micro_b_2mh.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,900)',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_INDC2012X150L_6.8UH_INDC2012X150L,INDC2012X150M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1398793@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1398793@inductor.\inductor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1398793@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,110)',
+ SECTION='';
+
+PART_NAME
+ L12 'INDUCTOR_INDC1005X60B2N_7.5NH':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1403821@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1403821@inductor.\inductor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1403821@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(655,330)',
+ SECTION='';
+
+PART_NAME
+ L13 'INDUCTOR_INDC1005X60B2N_6.8NH':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1410033@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1410033@inductor.\inductor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1410033@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,365)',
+ SECTION='';
+
+PART_NAME
+ L14 'INDUCTOR_INDC1005X60B2N_6.8NH':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1410049@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1410049@inductor.\inductor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1410049@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(825,365)',
+ SECTION='';
+
+PART_NAME
+ L22 'INDUCTOR_INDC1005X60B2N_27NH':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1409720@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1409720@inductor.\inductor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1409720@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,365)',
+ SECTION='';
+
+PART_NAME
+ L23 'INDUCTOR_INDC1005X60B2N_7.5NH':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1413484@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1413484@inductor.\inductor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1413484@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,435)',
+ SECTION='';
+
+PART_NAME
+ MH1 'HOLE_NPL_MTG320_HOLE_3.2MM_NPL':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1146592@PCB.HOLE_NPL.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1146592@pcb.\hole_npl.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1146592@pcb.\hole_npl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(70,1090)',
+ SECTION='';
+
+PART_NAME
+ MH2 'HOLE_NPL_MTG320_HOLE_3.2MM_NPL':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1146606@PCB.HOLE_NPL.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1146606@pcb.\hole_npl.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1146606@pcb.\hole_npl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,1090)',
+ SECTION='';
+
+PART_NAME
+ MH3 'HOLE_PTH_MTG320_380_HOLE_3.2MM_PTH':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1146751@PCB.HOLE_PTH.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1146751@pcb.\hole_pth.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1146751@pcb.\hole_pth.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(270,1090)',
+ SECTION='';
+
+PART_NAME
+ MH4 'HOLE_PTH_MTG320_380_HOLE_3.2MM_PTH':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1146773@PCB.HOLE_PTH.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1146773@pcb.\hole_pth.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1146773@pcb.\hole_pth.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,1090)',
+ SECTION='';
+
+PART_NAME
+ MH5 'HOLE_PTH_MTG110_170_HOLE_1.1MM_PTH':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1230775@PCB.HOLE_PTH.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1230775@pcb.\hole_pth.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1230775@pcb.\hole_pth.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(70,1010)',
+ SECTION='';
+
+PART_NAME
+ P1 'CONN_HEADER_3_P_S_GRADCONN_BB02HC031KB1603000_A2B_IO_BB02-HC031-KB1-603000_GRADCONN_BB02HC031KB1603000_A2C,GRADCONN_BB02HC031KB1603000_A2A':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1320923@CONNECTOR.CONN_HEADER_3_P_S.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1320923@connector.\conn_header_3_p_s.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1320923@connector.\conn_header_3_p_s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1430,170)',
+ SECTION='';
+
+PART_NAME
+ P10 'CONN_HEADER_3_P_S_GRADCONN_BB02HC031KB1603000_A2B_IO_BB02-HC031-KB1-603000_GRADCONN_BB02HC031KB1603000_A2C,GRADCONN_BB02HC031KB1603000_A2A':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1431184@CONNECTOR.CONN_HEADER_3_P_S.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1431184@connector.\conn_header_3_p_s.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1431184@connector.\conn_header_3_p_s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(400,150)',
+ SECTION='';
+
+PART_NAME
+ P11 'CONN_COAX_1_1_P_2MH_MURATA_MM58292700RJ4_A2N_IO_MM5829-2700_MURATA_MM58292700RJ4_A2L,MURATA_MM58292700RJ4_A2M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1456614@CONNECTOR.CONN_COAX_1_1_P_2MH.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1456614@connector.\conn_coax_1_1_p_2mh.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1456614@connector.\conn_coax_1_1_p_2mh.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(985,215)',
+ SECTION='';
+
+PART_NAME
+ P2 'CONN_HEADER_3_P_S_GRADCONN_BB02HC031KB1603000_A2B_IO_BB02-HC031-KB1-603000_GRADCONN_BB02HC031KB1603000_A2C,GRADCONN_BB02HC031KB1603000_A2A':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1321147@CONNECTOR.CONN_HEADER_3_P_S.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1321147@connector.\conn_header_3_p_s.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1321147@connector.\conn_header_3_p_s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1430,280)',
+ SECTION='';
+
+PART_NAME
+ P4 'CONN_HEADER_2X11_P_S_GRADCONN_BB02HJ221KB160300_A2B_BB02-HJ221-KB1-603000_GRADCONN_BB02HJ221KB160300_A2C,GRADCONN_BB02HJ221KB160300_A2A':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1442490@CONNECTOR.CONN_HEADER_2X11_P_S.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1442490@connector.\conn_header_2x11_p_s.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1442490@connector.\conn_header_2x11_p_s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,390)',
+ SECTION='';
+
+PART_NAME
+ P5 'CONN_HEADER_2X5_SAMTEC_FTSH-105-01-F-DV-K-10L_FTSH-105-01-F-DV-K_SAMTEC_FTSH-105-01-F-DV-K-10L,SAMTEC_FTSH-105-01-F-DV-K-10M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1429820@CONNECTOR.CONN_HEADER_2X5.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1429820@connector.\conn_header_2x5.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1429820@connector.\conn_header_2x5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,710)',
+ SECTION='';
+
+PART_NAME
+ P6 'CONN_HEADER_2X2_P_GRADCONN_BB02HJ041KB1603000_A2B_IO_BB02-HJ041-KB1-603000_GRADCONN_BB02HJ041KB1603000_A2C,GRADCONN_BB02HJ041KB1603000_A2A':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1180937@CONNECTOR.CONN_HEADER_2X2_P.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1180937@connector.\conn_header_2x2_p.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1180937@connector.\conn_header_2x2_p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1370,540)',
+ SECTION='';
+
+PART_NAME
+ P7 'CONN_HEADER_2X5_SAMTEC_FTSH-105-01-F-DV-K-10L_FTSH-105-01-F-DV-K_SAMTEC_FTSH-105-01-F-DV-K-10L,SAMTEC_FTSH-105-01-F-DV-K-10M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1240072@CONNECTOR.CONN_HEADER_2X5.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1240072@connector.\conn_header_2x5.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1240072@connector.\conn_header_2x5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,710)',
+ SECTION='';
+
+PART_NAME
+ P8 'CONN_IDC_TC2050-IDC-NL_TAGCONNECT_TC2050IDCNLN_TC2050-IDC-NL_TAGCONNECT_TC2050IDCNLL,TAGCONNECT_TC2050IDCNLM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1025232@CONNECTOR.CONN_IDC_TC2050-IDC-NL.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1025232@connector.\conn_idc_tc2050-idc-nl.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1025232@connector.\conn_idc_tc2050-idc-nl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,280)',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_RESC1005X40B2N_100K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1020895@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1020895@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1020895@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,290)',
+ SECTION='';
+
+PART_NAME
+ R11 'RESISTOR_RESC1005X40B2N_2.2K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1105517@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1105517@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1105517@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(600,970)',
+ SECTION='';
+
+PART_NAME
+ R12 'CAPACITOR_CAPC1005X60B2N_1.8PF_CAPC1005X60B2L,CAPC1005X60B2M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1459380@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1459380@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1459380@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1030,365)',
+ SECTION='';
+
+PART_NAME
+ R13 'RESISTOR_RESC1005X40B2N_0':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1450505@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1450505@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1450505@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(940,340)',
+ SECTION='';
+
+PART_NAME
+ R14 'RESISTOR_RESC1005X40B2N_220':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1311547@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1311547@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1311547@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1570,710)',
+ SECTION='';
+
+PART_NAME
+ R15 'RESISTOR_RESC1005X40B2N_180':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1311582@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1311582@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1311582@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1520,710)',
+ SECTION='';
+
+PART_NAME
+ R17 'RESISTOR_RESC1005X40B2N_10K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1125615@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1125615@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1125615@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1080,700)',
+ SECTION='';
+
+PART_NAME
+ R18 'RESISTOR_RESC1005X40B2N_4.7K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1343547@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1343547@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1343547@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1350,700)',
+ SECTION='';
+
+PART_NAME
+ R19 'RESISTOR_RESC1005X40B2N_DNM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1467808@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1467808@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1467808@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,90)',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_RESC1005X40B2N_3.3K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1295894@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1295894@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1295894@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,620)',
+ SECTION='';
+
+PART_NAME
+ R20 'RESISTOR_RESC1005X40B2N_100':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1025344@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1025344@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1025344@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1020,730)',
+ SECTION='';
+
+PART_NAME
+ R21 'RESISTOR_RESC1005X40B2N_DNM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1026438@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1026438@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1026438@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1050,760)',
+ SECTION='';
+
+PART_NAME
+ R22 'RESISTOR_RESC1005X40B2N_330K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1025828@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1025828@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1025828@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,130)',
+ SECTION='';
+
+PART_NAME
+ R23 'RESISTOR_RESC1005X40B2N_180':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1311649@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1311649@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1311649@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,210)',
+ SECTION='';
+
+PART_NAME
+ R24 'RESISTOR_RESC1005X40B2N_220K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1025684@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1025684@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1025684@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,190)',
+ SECTION='';
+
+PART_NAME
+ R25 'RESISTOR_RESC1005X40B2N_220':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1311633@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1311633@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1311633@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,210)',
+ SECTION='';
+
+PART_NAME
+ R27 'RESISTOR_RESC1005X40B2N_1K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1024765@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1024765@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1024765@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,410)',
+ SECTION='';
+
+PART_NAME
+ R28 'RESISTOR_RESC1005X40B2N_4.87K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1024665@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1024665@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1024665@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1180,860)',
+ SECTION='';
+
+PART_NAME
+ R29 'RESISTOR_RESC1005X40B2N_1K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1024725@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1024725@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1024725@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,420)',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_RESC1005X40B2N_3.3K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1295910@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1295910@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1295910@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,620)',
+ SECTION='';
+
+PART_NAME
+ R30 'RESISTOR_RESC1005X40B2N_1K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1026262@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1026262@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1026262@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,430)',
+ SECTION='';
+
+PART_NAME
+ R31 'RESISTOR_RESC1005X40B2N_51':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1024685@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1024685@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1024685@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1300,400)',
+ SECTION='';
+
+PART_NAME
+ R32 'RESISTOR_RESC1005X40B2N_33K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1030205@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1030205@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1030205@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,1010)',
+ SECTION='';
+
+PART_NAME
+ R33 'RESISTOR_RESC1005X40B2N_51K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1122727@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1122727@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1122727@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,920)',
+ SECTION='';
+
+PART_NAME
+ R34 'RESISTOR_RESC1005X40B2N_30K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1122752@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1122752@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1122752@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,970)',
+ SECTION='';
+
+PART_NAME
+ R39 'RESISTOR_RESC1005X40B2N_1K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1024785@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1024785@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1024785@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,400)',
+ SECTION='';
+
+PART_NAME
+ R46 'RESISTOR_RESC1608X55N_DNM_RESC1608X55L,RESC1608X55M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1261154@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1261154@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1261154@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,180)',
+ SECTION='';
+
+PART_NAME
+ R47 'RESISTOR_RESC1608X55N_DNM_RESC1608X55L,RESC1608X55M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1261180@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1261180@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1261180@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,190)',
+ SECTION='';
+
+PART_NAME
+ R48 'RESISTOR_RESC1608X55N_DNM_RESC1608X55L,RESC1608X55M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1261206@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1261206@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1261206@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,200)',
+ SECTION='';
+
+PART_NAME
+ R49 'RESISTOR_RESC1608X55N_DNM_RESC1608X55L,RESC1608X55M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1261232@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1261232@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1261232@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,210)',
+ SECTION='';
+
+PART_NAME
+ R51 'RESISTOR_RESC1608X55N_DNM_RESC1608X55L,RESC1608X55M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1261336@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1261336@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1261336@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1170,250)',
+ SECTION='';
+
+PART_NAME
+ R52 'RESISTOR_RESC1608X55N_0_RESC1608X55L,RESC1608X55M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1299631@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1299631@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1299631@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,250)',
+ SECTION='';
+
+PART_NAME
+ R55 'RESISTOR_RESC1005X40B2N_100':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1288045@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1288045@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1288045@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1410,690)',
+ SECTION='';
+
+PART_NAME
+ R56 'RESISTOR_RESC1005X40B2N_100':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1288078@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1288078@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1288078@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1300,690)',
+ SECTION='';
+
+PART_NAME
+ R57 'RESISTOR_RESC1005X40B2N_100':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1384111@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1384111@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1384111@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,910)',
+ SECTION='';
+
+PART_NAME
+ R58 'RESISTOR_RESC1005X40B2N_3.3K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1380776@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1380776@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1380776@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1270,760)',
+ SECTION='';
+
+PART_NAME
+ R59 'RESISTOR_RESC1005X40B2N_DNM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1447817@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1447817@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1447817@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,980)',
+ SECTION='';
+
+PART_NAME
+ R60 'RESISTOR_RESC1005X40B2N_DNM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1447801@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1447801@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1447801@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,980)',
+ SECTION='';
+
+PART_NAME
+ R61 'RESISTOR_RESC1005X40B2N_100K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1447141@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1447141@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1447141@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,410)',
+ SECTION='';
+
+PART_NAME
+ R62 'RESISTOR_RESC1005X40B2N_100K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1447518@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1447518@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1447518@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(840,410)',
+ SECTION='';
+
+PART_NAME
+ R63 'RESISTOR_RESC1005X40B2N_100K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1446342@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1446342@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1446342@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,660)',
+ SECTION='';
+
+PART_NAME
+ R65 'RESISTOR_RESC1005X40B2N_100K':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1446316@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1446316@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1446316@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,660)',
+ SECTION='';
+
+PART_NAME
+ R66 'RESISTOR_RESC1005X40B2N_100':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1466952@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1466952@resistor.\resistor.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1466952@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(765,100)',
+ SECTION='';
+
+PART_NAME
+ SW1 'SWITCH_TACT_V2_SW_1188E1K2V_A2N_DISCRETE_1188E-1K2-V_SW_1188E1K2V_A2L,SW_1188E1K2V_A2M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1320096@SWITCH.SWITCH_TACT_V2.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1320096@switch.\switch_tact_v2.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1320096@switch.\switch_tact_v2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1290,760)',
+ SECTION='';
+
+PART_NAME
+ SW2 'SWITCH_TACT_V2_SW_1188E1K2V_A2N_DISCRETE_1188E-1K2-V_SW_1188E1K2V_A2L,SW_1188E1K2V_A2M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1320130@SWITCH.SWITCH_TACT_V2.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1320130@switch.\switch_tact_v2.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1320130@switch.\switch_tact_v2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1400,760)',
+ SECTION='';
+
+PART_NAME
+ SW3 'SWITCH_TACT_V2_SW_1188E1K2V_A2N_DISCRETE_1188E-1K2-V_SW_1188E1K2V_A2L,SW_1188E1K2V_A2M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1384051@SWITCH.SWITCH_TACT_V2.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1384051@switch.\switch_tact_v2.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1384051@switch.\switch_tact_v2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,980)',
+ SECTION='';
+
+PART_NAME
+ U1 'IC_RF_CC1310F128RGZT_VQFN48_QFNFC50P700X700X100-49A2N_IC_(S1+S2)_CC1310F128RGZT_QFNFC50P700X700X100-49A2L,QFNFC50P700X700X100-49A2M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1391660@IC_RF.IC_RF_CC1310F128RGZT_VQFN48A.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1391660@ic_rf.\ic_rf_cc1310f128rgzt_vqfn48a.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1391660@ic_rf.\ic_rf_cc1310f128rgzt_vqfn48a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,290)',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1483944@IC_RF.IC_RF_CC1310F128RGZT_VQFN48B.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1483944@ic_rf.\ic_rf_cc1310f128rgzt_vqfn48b.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1483944@ic_rf.\ic_rf_cc1310f128rgzt_vqfn48b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,290)',
+ SECTION='B';
+
+PART_NAME
+ U10 'IC_XCVR_SN74AVC4T245_UQFN16_2_QFNFC40P180X260X55-16A2L_SN74AVC4T245RSV_QFNFC40P180X260X55-16A2L,QFNFC40P180X260X55-16A2M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1329827@LAUNCHXL-CC2650.IC_XCVR_SN74AVC4T245_UQFN16_2.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1329827@\launchxl-cc2650\.\ic_xcvr_sn74avc4t245_uqfn16_2.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1329827@\launchxl-cc2650\.\ic_xcvr_sn74avc4t245_uqfn16_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1080,770)',
+ SECTION='';
+
+PART_NAME
+ U4 'IC_FLASH_MX25R8035F_USON8_SON50P300X200X60-9B2L_IC_MX25R8035FZUIL0_SON50P300X200X60-9B2L,SON50P300X200X60-9B2M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1324407@IC_FLASH.IC_FLASH_MX25R8035F_USON8.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1324407@ic_flash.\ic_flash_mx25r8035f_uson8.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page2_ins1324407@ic_flash.\ic_flash_mx25r8035f_uson8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(660,1000)',
+ SECTION='';
+
+PART_NAME
+ U5 'IC_PROC_TM4C1294NCPDT_TQFP128_QFP40P1600X1600X120-128N_IC_(S1+S2+S3)_TM4C1294NCPDTT3R_QFP40P1600X1600X120-128L,QFP40P1600X1600X120-128M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1025868@IC_PROC.IC_PROC_TM4C1294NCPDT_TQFP128A.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1025868@ic_proc.\ic_proc_tm4c1294ncpdt_tqfp128a.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1025868@ic_proc.\ic_proc_tm4c1294ncpdt_tqfp128a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,90)',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1025744@IC_PROC.IC_PROC_TM4C1294NCPDT_TQFP128B.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1025744@ic_proc.\ic_proc_tm4c1294ncpdt_tqfp128b.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1025744@ic_proc.\ic_proc_tm4c1294ncpdt_tqfp128b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,90)',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1024495@IC_PROC.IC_PROC_TM4C1294NCPDT_TQFP128C.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1024495@ic_proc.\ic_proc_tm4c1294ncpdt_tqfp128c.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1024495@ic_proc.\ic_proc_tm4c1294ncpdt_tqfp128c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,90)',
+ SECTION='C';
+
+PART_NAME
+ U6 'IC_REF_LM4040_SC70-5_SOT65P210X110-5N_IC_LM4040B25IDCK_SOT65P210X110-5L,SOT65P210X110-5M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1024607@IC_REF.IC_REF_LM4040_SC70-5.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1024607@ic_ref.\ic_ref_lm4040_sc70-5.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1024607@ic_ref.\ic_ref_lm4040_sc70-5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1440,750)',
+ SECTION='';
+
+PART_NAME
+ U7 'IC_PM_TPS79601_SON8_SON65P300X300X100-9AL_IC_TPS79601DR_SON65P300X300X100-9AL,SON65P300X300X100-9AM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1270922@IC_PM.IC_PM_TPS79601_SON8.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1270922@ic_pm.\ic_pm_tps79601_son8.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1270922@ic_pm.\ic_pm_tps79601_son8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,900)',
+ SECTION='';
+
+PART_NAME
+ U8 'IC_XCVR_SN74AVC4T245_UQFN16_2_QFNFC40P180X260X55-16A2L_SN74AVC4T245RSV_QFNFC40P180X260X55-16A2L,QFNFC40P180X260X55-16A2M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1329723@LAUNCHXL-CC2650.IC_XCVR_SN74AVC4T245_UQFN16_2.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1329723@\launchxl-cc2650\.\ic_xcvr_sn74avc4t245_uqfn16_2.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1329723@\launchxl-cc2650\.\ic_xcvr_sn74avc4t245_uqfn16_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1080,270)',
+ SECTION='';
+
+PART_NAME
+ U9 'IC_XCVR_SN74AVC4T245_UQFN16_2_QFNFC40P180X260X55-16A2L_SN74AVC4T245RSV_QFNFC40P180X260X55-16A2L,QFNFC40P180X260X55-16A2M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1329775@LAUNCHXL-CC2650.IC_XCVR_SN74AVC4T245_UQFN16_2.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1329775@\launchxl-cc2650\.\ic_xcvr_sn74avc4t245_uqfn16_2.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page3_ins1329775@\launchxl-cc2650\.\ic_xcvr_sn74avc4t245_uqfn16_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1080,520)',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_XTAL_FC-135N_32.768KHZ_XTAL_FC-135L,XTAL_FC-135M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1020823@CRYSTAL.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1020823@crystal.\crystal.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1020823@crystal.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,400)',
+ SECTION='';
+
+PART_NAME
+ Y2 'XTAL_4PIN_S_OSCCC250X320X60-4L_24MHZ_OSCCC250X320X60-4L,OSCCC250X320X60-4M':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1021055@CRYSTAL.XTAL_4PIN_S.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1021055@crystal.\xtal_4pin_s.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page1_ins1021055@crystal.\xtal_4pin_s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,475)',
+ SECTION='';
+
+PART_NAME
+ Y3 'XTAL_4_OSCCC250X320X100-4BN_16MHZ_OSCCC250X320X100-4BL,OSCCC250X320X100-4BM':;
+
+SECTION_NUMBER 1
+ '@LAUNCHXL-CC1310.CC1310_LAUNCHPAD(SCH_1):INS1025512@CRYSTAL.XTAL_4.NORMAL(CHIPS)':
+ C_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):ins1025512@crystal.\xtal_4.normal\(chips)',
+ P_PATH='@\launchxl-cc1310\.cc1310_launchpad(sch_1):page4_ins1025512@crystal.\xtal_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1075,800)',
+ SECTION='';
+
+END.

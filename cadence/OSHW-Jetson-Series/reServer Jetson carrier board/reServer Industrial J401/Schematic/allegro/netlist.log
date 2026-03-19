@@ -1,0 +1,172 @@
+{ Using PSTWRITER 23.1.0 d001Mar-04-2026 at 12:23:34 }
+
+#1 WARNING(ORCAP-36050): No pins are present in J17_TB1. Ignoring this component in netlist.
+#2 WARNING(ORCAP-36050): No pins are present in J2_TB2. Ignoring this component in netlist.
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "T4.1" ignored for T4: reServer industrial J401, 30 PCIe to GBE3 (292.10, 30.48). Connecting pin to net "N31560101".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "T1.4" ignored for T1: reServer industrial J401, 27 PCIe to GBE0 (292.10, 25.40). Connecting pin to net "N31547957".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "T1.7" ignored for T1: reServer industrial J401, 27 PCIe to GBE0 (292.10, 25.40). Connecting pin to net "N31547933".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U51.8" ignored for U51: reServer industrial J401, 24 TPM,  IIC to IO (203.20, 213.36). Connecting pin to net "N31798159".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "T1.10" ignored for T1: reServer industrial J401, 27 PCIe to GBE0 (292.10, 25.40). Connecting pin to net "N31547889".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "T4.7" ignored for T4: reServer industrial J401, 30 PCIe to GBE3 (292.10, 30.48). Connecting pin to net "N31560080".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "T4.4" ignored for T4: reServer industrial J401, 30 PCIe to GBE3 (292.10, 30.48). Connecting pin to net "N31560089".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "T4.10" ignored for T4: reServer industrial J401, 30 PCIe to GBE3 (292.10, 30.48). Connecting pin to net "N31560070".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "U63.19" ignored for U63: reServer industrial J401, 17 PCIe Switch IO (132.08, 22.86). Connecting pin to net "PRSNT1".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "U63.75" ignored for U63: reServer industrial J401, 17 PCIe Switch IO (144.78, 154.94). Connecting pin to net "N21918359".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "U63.118" ignored for U63: reServer industrial J401, 17 PCIe Switch IO (144.78, 154.94). Connecting pin to net "N21918247".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "T3.10" ignored for T3: reServer industrial J401, 29 PCIe to GBE2 (287.02, 27.94). Connecting pin to net "N31557440".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "U63.7" ignored for U63: reServer industrial J401, 17 PCIe Switch IO (144.78, 154.94). Connecting pin to net "DWNRST3_L".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "T3.4" ignored for T3: reServer industrial J401, 29 PCIe to GBE2 (287.02, 27.94). Connecting pin to net "N31557459".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "U63.20" ignored for U63: reServer industrial J401, 17 PCIe Switch IO (132.08, 22.86). Connecting pin to net "PRSNT2".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "T3.7" ignored for T3: reServer industrial J401, 29 PCIe to GBE2 (287.02, 27.94). Connecting pin to net "N31557450".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "U63.21" ignored for U63: reServer industrial J401, 17 PCIe Switch IO (132.08, 22.86). Connecting pin to net "PRSNT3".
+#20 WARNING(ORCAP-36038): "No_connect" property on Pin "U63.117" ignored for U63: reServer industrial J401, 17 PCIe Switch IO (144.78, 154.94). Connecting pin to net "N21918268".
+#21 WARNING(ORCAP-36038): "No_connect" property on Pin "T1.1" ignored for T1: reServer industrial J401, 27 PCIe to GBE0 (292.10, 25.40). Connecting pin to net "N31547983".
+#22 WARNING(ORCAP-36038): "No_connect" property on Pin "T2.7" ignored for T2: reServer industrial J401, 28 PCIe to GBE1 (292.10, 27.94). Connecting pin to net "N31552083".
+#23 WARNING(ORCAP-36038): "No_connect" property on Pin "U63.76" ignored for U63: reServer industrial J401, 17 PCIe Switch IO (144.78, 154.94). Connecting pin to net "N21918364".
+#24 WARNING(ORCAP-36038): "No_connect" property on Pin "T2.4" ignored for T2: reServer industrial J401, 28 PCIe to GBE1 (292.10, 27.94). Connecting pin to net "N31552092".
+#25 WARNING(ORCAP-36038): "No_connect" property on Pin "T2.1" ignored for T2: reServer industrial J401, 28 PCIe to GBE1 (292.10, 27.94). Connecting pin to net "N31552104".
+#26 WARNING(ORCAP-36038): "No_connect" property on Pin "J6.66" ignored for J6: reServer industrial J401, 19 M.2 KEY-B (4G/5G) (190.50, 22.86). Connecting pin to net "SIM_DETECT_1V8".
+#27 WARNING(ORCAP-36038): "No_connect" property on Pin "T2.10" ignored for T2: reServer industrial J401, 28 PCIe to GBE1 (292.10, 27.94). Connecting pin to net "N31552073".
+#28 WARNING(ORCAP-36038): "No_connect" property on Pin "U63.121" ignored for U63: reServer industrial J401, 17 PCIe Switch IO (144.78, 154.94). Connecting pin to net "DPCIE1_RX3_N".
+#29 WARNING(ORCAP-36038): "No_connect" property on Pin "U63.122" ignored for U63: reServer industrial J401, 17 PCIe Switch IO (144.78, 154.94). Connecting pin to net "DPCIE1_RX3_P".
+#30 WARNING(ORCAP-36038): "No_connect" property on Pin "T3.1" ignored for T3: reServer industrial J401, 29 PCIe to GBE2 (287.02, 27.94). Connecting pin to net "N31557471".
+#31 WARNING(ORCAP-36038): "No_connect" property on Pin "U51.1" ignored for U51: reServer industrial J401, 24 TPM,  IIC to IO (203.20, 213.36). Connecting pin to net "PSE_PG".
+#32 WARNING(ORCAP-36038): "No_connect" property on Pin "J9.227" ignored for J9: reServer industrial J401, 05 SODIMM Connector 2/3 (7.90, 0.90). Connecting pin to net "PCIE3_CLK_N".
+#33 WARNING(ORCAP-36038): "No_connect" property on Pin "U51.2" ignored for U51: reServer industrial J401, 24 TPM,  IIC to IO (203.20, 213.36). Connecting pin to net "PSE_INTB".
+#34 WARNING(ORCAP-36038): "No_connect" property on Pin "J9.229" ignored for J9: reServer industrial J401, 05 SODIMM Connector 2/3 (7.90, 0.90). Connecting pin to net "PCIE3_CLK_P".
+#35 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#1" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#36 WARNING(ORCAP-36042): Pin "3.3 V" is renamed to "3.3 V#2" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#37 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#3" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#38 WARNING(ORCAP-36042): Pin "3.3 V" is renamed to "3.3 V#4" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#39 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#9" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#40 WARNING(ORCAP-36042): Pin "3.3 V" is renamed to "3.3 V#12" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#41 WARNING(ORCAP-36042): Pin "3.3 V" is renamed to "3.3 V#14" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#42 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#15" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#43 WARNING(ORCAP-36042): Pin "3.3 V" is renamed to "3.3 V#16" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#44 WARNING(ORCAP-36042): Pin "3.3 V" is renamed to "3.3 V#18" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#45 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#21" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#46 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#27" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#47 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#33" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#48 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#49 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#45" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#50 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#51" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#51 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#57" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#52 WARNING(ORCAP-36042): Pin "3.3 V" is renamed to "3.3 V#70" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#53 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#71" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#54 WARNING(ORCAP-36042): Pin "3.3 V" is renamed to "3.3 V#72" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#55 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#73" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#56 WARNING(ORCAP-36042): Pin "3.3 V" is renamed to "3.3 V#74" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#57 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#75" as visible power pin of same name already exists in Package PCIe_M.2_Key M_75Pin , J21: reServer industrial J401, 18 M.2 KEY-M (NVME) (172.72, 81.28).
+#58 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package USB3.0_Dual Type A_18+4P , J3: reServer industrial J401, 13 USB3.1 Type-A x2 (B) (264.16, 83.82).
+#59 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#7" as visible power pin of same name already exists in Package USB3.0_Dual Type A_18+4P , J3: reServer industrial J401, 13 USB3.1 Type-A x2 (B) (264.16, 83.82).
+#60 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#13" as visible power pin of same name already exists in Package USB3.0_Dual Type A_18+4P , J3: reServer industrial J401, 13 USB3.1 Type-A x2 (B) (264.16, 83.82).
+#61 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#16" as visible power pin of same name already exists in Package USB3.0_Dual Type A_18+4P , J3: reServer industrial J401, 13 USB3.1 Type-A x2 (B) (264.16, 83.82).
+#62 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#251" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#63 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#252" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#64 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#253" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#65 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#254" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#66 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#255" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#67 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#256" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#68 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#257" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#69 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#258" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#70 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#259" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#71 WARNING(ORCAP-36042): Pin "VDD_IN" is renamed to "VDD_IN#260" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#72 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#1" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#73 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#74 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#7" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#75 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#8" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#76 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#13" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#77 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#14" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#78 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#19" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#79 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#20" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#80 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#25" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#81 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#26" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#82 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#31" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#83 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#32" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#84 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#37" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#85 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#38" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#86 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#43" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#87 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#44" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#88 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#49" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#89 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#50" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#90 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#55" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#91 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#56" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#92 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#61" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#93 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#62" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#94 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#67" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#95 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#68" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#96 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#73" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#97 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#74" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#98 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#79" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#99 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#80" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#100 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#85" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#101 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#86" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#102 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#102" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#103 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#107" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#104 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#113" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#105 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#119" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#106 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#125" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#107 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#129" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#108 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#132" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#109 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#135" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#110 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#138" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#111 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#141" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#112 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#144" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#113 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#146" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#114 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#147" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#115 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#152" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#116 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#153" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#117 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#158" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#118 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#159" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#119 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#164" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#120 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#165" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#121 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#170" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#122 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#171" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#123 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#176" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#124 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#177" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#125 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#200" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#126 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#201" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#127 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#231" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#128 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#241" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#129 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#242" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#130 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#243" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#131 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#244" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#132 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#245" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#133 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#246" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#134 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#247" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#135 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#248" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#136 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#249" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#137 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#250" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#138 WARNING(ORCAP-36042): Pin "MNT" is renamed to "MNT#261" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#139 WARNING(ORCAP-36042): Pin "MNT" is renamed to "MNT#262" as visible power pin of same name already exists in Package CON_SODIMM260_JETSON_Orin NXA , J9A: reServer industrial J401, 04 SODIMM Connector 1/3 (4.70, 1.00).
+#140 WARNING(ORCAP-36042): Pin "VDD12CORE" is renamed to "VDD12CORE#13" as visible power pin of same name already exists in Package LAN7430B , U30A: reServer industrial J401, 28 PCIe to GBE1 (121.92, 30.48).
+#141 WARNING(ORCAP-36042): Pin "VDD12CORE" is renamed to "VDD12CORE#31" as visible power pin of same name already exists in Package LAN7430B , U30A: reServer industrial J401, 28 PCIe to GBE1 (121.92, 30.48).
+#142 WARNING(ORCAP-36042): Pin "VDD12CORE" is renamed to "VDD12CORE#40" as visible power pin of same name already exists in Package LAN7430B , U30A: reServer industrial J401, 28 PCIe to GBE1 (121.92, 30.48).
+#143 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#2" as visible power pin of same name already exists in Package F81439N , U42: reServer industrial J401, 25 RS232/422/485 (170.18, 96.52).
+#144 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#6" as visible power pin of same name already exists in Package F81439N , U42: reServer industrial J401, 25 RS232/422/485 (170.18, 96.52).
+#145 WARNING(ORCAP-36042): Pin "GNDA" is renamed to "GNDA#2" as visible power pin of same name already exists in Package ISO6742 , U44: reServer industrial J401, 25 RS232/422/485 (142.24, 35.56).
+#146 WARNING(ORCAP-36042): Pin "GNDA" is renamed to "GNDA#8" as visible power pin of same name already exists in Package ISO6742 , U44: reServer industrial J401, 25 RS232/422/485 (142.24, 35.56).
+#147 WARNING(ORCAP-36042): Pin "GNDB" is renamed to "GNDB#9" as visible power pin of same name already exists in Package ISO6742 , U44: reServer industrial J401, 25 RS232/422/485 (142.24, 35.56).
+#148 WARNING(ORCAP-36042): Pin "GNDB" is renamed to "GNDB#15" as visible power pin of same name already exists in Package ISO6742 , U44: reServer industrial J401, 25 RS232/422/485 (142.24, 35.56).
+#149 WARNING(ORCAP-36042): Pin "VDD12" is renamed to "VDD12#15" as visible power pin of same name already exists in Package USB5744 , U8: reServer industrial J401, 11 USB3.1 HUB (205.74, 20.32).
+#150 WARNING(ORCAP-36042): Pin "VDD33" is renamed to "VDD33#16" as visible power pin of same name already exists in Package USB5744 , U8: reServer industrial J401, 11 USB3.1 HUB (205.74, 20.32).
+#151 WARNING(ORCAP-36042): Pin "VDD12" is renamed to "VDD12#21" as visible power pin of same name already exists in Package USB5744 , U8: reServer industrial J401, 11 USB3.1 HUB (205.74, 20.32).
+#152 WARNING(ORCAP-36042): Pin "VDD12" is renamed to "VDD12#28" as visible power pin of same name already exists in Package USB5744 , U8: reServer industrial J401, 11 USB3.1 HUB (205.74, 20.32).
+#153 WARNING(ORCAP-36042): Pin "VDD12" is renamed to "VDD12#33" as visible power pin of same name already exists in Package USB5744 , U8: reServer industrial J401, 11 USB3.1 HUB (205.74, 20.32).
+#154 WARNING(ORCAP-36042): Pin "VDD33" is renamed to "VDD33#31" as visible power pin of same name already exists in Package USB5744 , U8: reServer industrial J401, 11 USB3.1 HUB (205.74, 20.32).
+#155 WARNING(ORCAP-36042): Pin "VDD12" is renamed to "VDD12#49" as visible power pin of same name already exists in Package USB5744 , U8: reServer industrial J401, 11 USB3.1 HUB (205.74, 20.32).
+#156 WARNING(ORCAP-36042): Pin "VDD33" is renamed to "VDD33#44" as visible power pin of same name already exists in Package USB5744 , U8: reServer industrial J401, 11 USB3.1 HUB (205.74, 20.32).
+#157 WARNING(ORCAP-36042): Pin "VDD12" is renamed to "VDD12#43" as visible power pin of same name already exists in Package USB5744 , U8: reServer industrial J401, 11 USB3.1 HUB (205.74, 20.32).
+#158 WARNING(ORCAP-36042): Pin "VDD12" is renamed to "VDD12#12" as visible power pin of same name already exists in Package USB5744 , U8: reServer industrial J401, 11 USB3.1 HUB (205.74, 20.32).
+#159 WARNING(ORCAP-36042): Pin "VDD12" is renamed to "VDD12#5" as visible power pin of same name already exists in Package USB5744 , U8: reServer industrial J401, 11 USB3.1 HUB (205.74, 20.32).
+#160 WARNING(ORCAP-36042): Pin "VDD33" is renamed to "VDD33#55" as visible power pin of same name already exists in Package USB5744 , U8: reServer industrial J401, 11 USB3.1 HUB (205.74, 20.32).
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... allegro\pstchip.dat
+
+Loading... allegro\pstchip.dat
+
+Loading... allegro\pstxprt.dat
+
+Loading... allegro\pstxnet.dat
+packaging the design view...

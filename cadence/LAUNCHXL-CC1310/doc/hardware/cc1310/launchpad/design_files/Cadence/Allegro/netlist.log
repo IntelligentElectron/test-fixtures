@@ -1,0 +1,60 @@
+{ Using PSTWRITER 23.1.0 d001Mar-04-2026 at 12:23:43 }
+
+#1 WARNING(ORCAP-36050): No pins are present in M8. Ignoring this component in netlist.
+#2 WARNING(ORCAP-36050): No pins are present in M9. Ignoring this component in netlist.
+#3 WARNING(ORCAP-36050): No pins are present in M14. Ignoring this component in netlist.
+#4 WARNING(ORCAP-36050): No pins are present in M6. Ignoring this component in netlist.
+#5 WARNING(ORCAP-36050): No pins are present in M7. Ignoring this component in netlist.
+#6 WARNING(ORCAP-36050): No pins are present in M11. Ignoring this component in netlist.
+#7 WARNING(ORCAP-36050): No pins are present in M4. Ignoring this component in netlist.
+#8 WARNING(ORCAP-36050): No pins are present in M10. Ignoring this component in netlist.
+#9 WARNING(ORCAP-36050): No pins are present in M5. Ignoring this component in netlist.
+#10 WARNING(ORCAP-36050): No pins are present in M13. Ignoring this component in netlist.
+#11 WARNING(ORCAP-36050): No pins are present in M2. Ignoring this component in netlist.
+#12 WARNING(ORCAP-36050): No pins are present in M12. Ignoring this component in netlist.
+#13 WARNING(ORCAP-36050): No pins are present in M3. Ignoring this component in netlist.
+#14 WARNING(ORCAP-36050): No pins are present in M1. Ignoring this component in netlist.
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "Y3.2" ignored for Y3: CC1310_LaunchPad, 4_XDS110 (273.05, 203.20). Connecting pin to net "GND".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.37" ignored for U5: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86). Connecting pin to net "XDS_TDO".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.38" ignored for U5: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86). Connecting pin to net "XDS_TDI".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.60" ignored for U5: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86). Connecting pin to net "N949243".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "P8.4" ignored for P8: CC1310_LaunchPad, 4_XDS110 (76.20, 71.12). Connecting pin to net "ITCK".
+#20 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.59" ignored for U5: CC1310_LaunchPad, 4_XDS110 (309.88, 185.42). Connecting pin to net "N949375".
+#21 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#10" as visible power pin of same name already exists in Package IC_XCVR_SN74AVC4T245_UQFN16_2 , U10: CC1310_LaunchPad, 3_Debugger Interface (274.32, 195.58).
+#22 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#11" as visible power pin of same name already exists in Package IC_XCVR_SN74AVC4T245_UQFN16_2 , U10: CC1310_LaunchPad, 3_Debugger Interface (274.32, 195.58).
+#23 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#17" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#24 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#48" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#25 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#80" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#26 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#114" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#27 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#51" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#28 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#52" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#29 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#55" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#30 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#58" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#31 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#7" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#32 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#16" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#33 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#26" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#34 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#28" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#35 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#39" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#36 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#47" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#37 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#69" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#38 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#79" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#39 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#90" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#40 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#101" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#41 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#113" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#42 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#122" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#43 WARNING(ORCAP-36042): Pin "VDDC" is renamed to "VDDC#87" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#44 WARNING(ORCAP-36042): Pin "VDDC" is renamed to "VDDC#115" as visible power pin of same name already exists in Package IC_PROC_TM4C1294NCPDT_TQFP128C , U5A: CC1310_LaunchPad, 4_XDS110 (129.54, 22.86).
+#45 WARNING(ORCAP-36042): Pin "IN" is renamed to "IN#2" as visible power pin of same name already exists in Package IC_PM_TPS79601_SON8 , U7: CC1310_LaunchPad, 4_XDS110 (157.48, 228.60).
+#46 WARNING(ORCAP-36042): Pin "OUT" is renamed to "OUT#4" as visible power pin of same name already exists in Package IC_PM_TPS79601_SON8 , U7: CC1310_LaunchPad, 4_XDS110 (157.48, 228.60).
+#47 WARNING(ORCAP-36042): Pin "IN" is renamed to "IN#1" as visible power pin of same name already exists in Package IC_PM_TPS79601_SON8 , U7: CC1310_LaunchPad, 4_XDS110 (157.48, 228.60).
+#48 WARNING(ORCAP-36042): Pin "OUT" is renamed to "OUT#3" as visible power pin of same name already exists in Package IC_PM_TPS79601_SON8 , U7: CC1310_LaunchPad, 4_XDS110 (157.48, 228.60).
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... allegro\pstchip.dat
+
+Loading... allegro\pstchip.dat
+
+Loading... allegro\pstxprt.dat
+
+Loading... allegro\pstxnet.dat
+packaging the design view...

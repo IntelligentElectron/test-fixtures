@@ -1,0 +1,538 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 23.1.0 d001Mar-04-2026 at 12:23:34 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='CC13XXEM_5XD_7793_4L';
+ POST_TIME='Jun 18 2025 22:29:23';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ A1 'ANTENNA_ANTENNA868_915MHZ_MIRROR_A2N_DISCRETE_ANTENNA PCB HELIX 868/915MHZ':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS501419@MECHANIC.ANTENNA.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins501419@mechanic.\antenna.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins501419@mechanic.\antenna.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1354,238)',
+ SECTION='';
+
+PART_NAME
+ C11 'CAPACITOR_CAPC1005X60L_3.3PF_CAPC1005X60L,CAPC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS501197@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins501197@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins501197@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(807,486)',
+ SECTION='';
+
+PART_NAME
+ C12 'CAPACITOR_CAPC1005X60L_2.7PF_CAPC1005X60L,CAPC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS501381@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins501381@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins501381@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(929,448)',
+ SECTION='';
+
+PART_NAME
+ C13 'CAPACITOR_CAPC1005X60L_6.2PF_CAPC1005X60L,CAPC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS501149@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins501149@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins501149@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1019,448)',
+ SECTION='';
+
+PART_NAME
+ C14 'CAPACITOR_CAPC1005X60L_3PF_CAPC1005X60L,CAPC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS501125@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins501125@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins501125@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1109,448)',
+ SECTION='';
+
+PART_NAME
+ C15 'CAPACITOR_CAPC1005X60N_100PF_CAPC1005X60L,CAPC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS501269@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins501269@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins501269@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1283,418)',
+ SECTION='';
+
+PART_NAME
+ C16 'CAPACITOR_CAPC1005X60N_DNM_0402_CAPC1005X60L,CAPC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS501575@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins501575@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins501575@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1229,394)',
+ SECTION='';
+
+PART_NAME
+ C17 'CAPACITOR_CAPC1005X60L_12PF_CAPC1005X60L,CAPC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS403754@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins403754@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins403754@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(596,630)',
+ SECTION='';
+
+PART_NAME
+ C18 'CAPACITOR_CAPC1005X60L_12PF_CAPC1005X60L,CAPC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS403738@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins403738@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins403738@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(656,630)',
+ SECTION='';
+
+PART_NAME
+ C19 'CAPACITOR_CAPC1005X60L_1UF_CAPC1005X60L,CAPC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS498153@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins498153@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins498153@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(396,546)',
+ SECTION='';
+
+PART_NAME
+ C20 'CAPACITOR_CAPC1005X60L_100NF_CAPC1005X60L,CAPC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS498103@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins498103@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins498103@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(276,506)',
+ SECTION='';
+
+PART_NAME
+ C21 'CAPACITOR_CAPC1005X60L_100PF_CAPC1005X60L,CAPC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS501165@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins501165@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins501165@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(807,304)',
+ SECTION='';
+
+PART_NAME
+ C22 'CAPACITOR_CAPC1005X60L_3.3PF_CAPC1005X60L,CAPC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS501181@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins501181@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins501181@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(855,384)',
+ SECTION='';
+
+PART_NAME
+ C23 'CAPACITOR_CAPC1005X60L_100NF_CAPC1005X60L,CAPC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS487037@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins487037@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins487037@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(930,110)',
+ SECTION='';
+
+PART_NAME
+ C24 'CAPACITOR_CAPC1005X60L_DNM_CAPC1005X60L,CAPC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS310081@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins310081@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins310081@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(722,631)',
+ SECTION='';
+
+PART_NAME
+ C25 'CAPACITOR_CAPC1005X60L_DNM_CAPC1005X60L,CAPC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS310065@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins310065@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins310065@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(802,631)',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR_CAPC1005X60L_100NF_CAPC1005X60L,CAPC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS326233@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins326233@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins326233@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,110)',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPACITOR_CAPC1005X60L_100NF_CAPC1005X60L,CAPC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS326392@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins326392@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins326392@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,110)',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPACITOR_CAPC1608X100A2L_22UF_CAPC1608X100A2L,CAPC1608X100A2M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS413956@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins413956@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins413956@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,110)',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPACITOR_CAPC1005X60L_100NF_CAPC1005X60L,CAPC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS486117@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins486117@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins486117@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,110)',
+ SECTION='';
+
+PART_NAME
+ C8 'CAPACITOR_CAPC1608X100A2L_22UF_CAPC1608X100A2L,CAPC1608X100A2M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS414441@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins414441@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins414441@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,110)',
+ SECTION='';
+
+PART_NAME
+ C9 'CAPACITOR_CAPC1005X60L_100NF_CAPC1005X60L,CAPC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS487011@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins487011@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins487011@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,110)',
+ SECTION='';
+
+PART_NAME
+ FIDU1 'FIDMARK_FID100X115_FIDU_1MM':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS310648@PCB.FIDMARK.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins310648@pcb.\fidmark.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins310648@pcb.\fidmark.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1040,1060)',
+ SECTION='';
+
+PART_NAME
+ FIDU2 'FIDMARK_FID100X115_FIDU_1MM':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS310658@PCB.FIDMARK.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins310658@pcb.\fidmark.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins310658@pcb.\fidmark.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1100,1060)',
+ SECTION='';
+
+PART_NAME
+ FIDU3 'FIDMARK_FID100X115_FIDU_1MM':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS310668@PCB.FIDMARK.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins310668@pcb.\fidmark.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins310668@pcb.\fidmark.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1160,1060)',
+ SECTION='';
+
+PART_NAME
+ FIDU4 'FIDMARK_FID100X115_FIDU_1MM':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS310678@PCB.FIDMARK.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins310678@pcb.\fidmark.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins310678@pcb.\fidmark.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1040,1100)',
+ SECTION='';
+
+PART_NAME
+ FIDU5 'FIDMARK_FID100X115_FIDU_1MM':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS310688@PCB.FIDMARK.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins310688@pcb.\fidmark.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins310688@pcb.\fidmark.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1100,1100)',
+ SECTION='';
+
+PART_NAME
+ FIDU6 'FIDMARK_FID100X115_FIDU_1MM':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS310698@PCB.FIDMARK.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins310698@pcb.\fidmark.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins310698@pcb.\fidmark.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1160,1100)',
+ SECTION='';
+
+PART_NAME
+ FL1 'FILTER_2PIN_FIL_BLM18HE152SN1DL_BLM18HE152SN1_FIL_BLM18HE152SN1DL,FIL_BLM18HE152SN1DM':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS319803@FILTER.FILTER_2PIN.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins319803@filter.\filter_2pin.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins319803@filter.\filter_2pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,80)',
+ SECTION='';
+
+PART_NAME
+ J1 'CONN_COAX_1+4_HUSTSAN_SMA10V21TGGAN_SMA-10V21-TGG_HUSTSAN_SMA10V21TGGL,HUSTSAN_SMA10V21TGGM':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS501397@CONNECTOR.CONN_COAX_1+4.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins501397@connector.\conn_coax_1+4.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins501397@connector.\conn_coax_1+4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1354,358)',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_INDC2012X150L_6.8UH_INDC2012X150L,INDC2012X150M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS319223@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins319223@inductor.\inductor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins319223@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(730,80)',
+ SECTION='';
+
+PART_NAME
+ L11 'INDUCTOR_INDC1005X60L_22NH_INDC1005X60M,INDC1005X60L':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS501449@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins501449@inductor.\inductor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins501449@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(805,420)',
+ SECTION='';
+
+PART_NAME
+ L12 'INDUCTOR_INDC1005X60L_8.2NH_INDC1005X60L,INDC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS501229@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins501229@inductor.\inductor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins501229@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(857,454)',
+ SECTION='';
+
+PART_NAME
+ L13 'INDUCTOR_INDC1005X60L_6.8NH_INDC1005X60L,INDC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS501245@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins501245@inductor.\inductor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins501245@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(979,418)',
+ SECTION='';
+
+PART_NAME
+ L14 'INDUCTOR_INDC1005X60L_6.8NH_INDC1005X60L,INDC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS501483@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins501483@inductor.\inductor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins501483@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1069,418)',
+ SECTION='';
+
+PART_NAME
+ L15 'INDUCTOR_INDC1005X60L_TBD_INDC1005X60M,INDC1005X60L':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS501433@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins501433@inductor.\inductor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins501433@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1314,298)',
+ SECTION='';
+
+PART_NAME
+ L21 'INDUCTOR_INDC1005X60L_8.2NH_INDC1005X60L,INDC1005X60M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS501213@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins501213@inductor.\inductor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins501213@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(817,350)',
+ SECTION='';
+
+PART_NAME
+ P1 'CONN_HEADER_2X10_P_S_SAMTEC_SFM11002AN_SFM-110-02-S-D-A-K-TR_SAMTEC_SFM11002AL,SAMTEC_SFM11002AM':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS497150@CONNECTOR.CONN_HEADER_2X10_P_S.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins497150@connector.\conn_header_2x10_p_s.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins497150@connector.\conn_header_2x10_p_s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(275,911)',
+ SECTION='';
+
+PART_NAME
+ P2 'CONN_HEADER_2X10_P_S_SAMTEC_SFM11002AN_SFM-110-02-S-D-A-K-TR_SAMTEC_SFM11002AL,SAMTEC_SFM11002AM':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS497202@CONNECTOR.CONN_HEADER_2X10_P_S.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins497202@connector.\conn_header_2x10_p_s.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins497202@connector.\conn_header_2x10_p_s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(565,911)',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_RESC1005X40L_100K_RESC1005X40L,RESC1005X40M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS498299@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins498299@resistor.\resistor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins498299@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(276,436)',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_RESC1005X40L_0_RESC1005X40L,RESC1005X40M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS501599@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins501599@resistor.\resistor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins501599@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1229,305)',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_RESC1005X40L_DNM_RESC1005X40L,RESC1005X40M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS497028@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins497028@resistor.\resistor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins497028@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(425,821)',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_RESC1005X40L_DNM_RESC1005X40L,RESC1005X40M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS497044@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins497044@resistor.\resistor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins497044@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(425,811)',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_RESC1005X40N_0_RESC1005X40L,RESC1005X40M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS497396@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins497396@resistor.\resistor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins497396@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(425,781)',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_RESC1005X40N_0_RESC1005X40L,RESC1005X40M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS497412@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins497412@resistor.\resistor.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins497412@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(425,771)',
+ SECTION='';
+
+PART_NAME
+ U1 'IC_RF_CC13XX_5X5_QFN32_QFNFC50P500X500X100-33AN_CC13XX 5X5_QFNFC50P500X500X100-33AL,QFNFC50P500X500X100-33AM':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS498315@IC_RF.IC_RF_CC13XX_5X5_QFN32.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins498315@ic_rf.\ic_rf_cc13xx_5x5_qfn32.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins498315@ic_rf.\ic_rf_cc13xx_5x5_qfn32.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(456,316)',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_XTAL_FC-135N_32.768KHZ_XTAL_FC-135L,XTAL_FC-135M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS403722@CRYSTAL.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins403722@crystal.\crystal.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins403722@crystal.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(626,600)',
+ SECTION='';
+
+PART_NAME
+ Y2 'XTAL_TSX_3225_V1_OSCCC250X320X80-4L_24MHZ_OSCCC250X320X80-4L,OSCCC250X320X80-4M':;
+
+SECTION_NUMBER 1
+ '@CC13XXEM_5XD_7793_4L.SCHEMATIC1(SCH_1):INS310147@CRYSTAL.XTAL_TSX_3225_V1.NORMAL(CHIPS)':
+ C_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):ins310147@crystal.\xtal_tsx_3225_v1.normal\(chips)',
+ P_PATH='@cc13xxem_5xd_7793_4l.schematic1(sch_1):page1_ins310147@crystal.\xtal_tsx_3225_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(752,591)',
+ SECTION='';
+
+END.
