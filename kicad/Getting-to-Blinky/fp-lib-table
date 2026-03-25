@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name GTB_PCB_LIB)(type KiCad)(uri "$(KIPRJMOD)/GTB_PCB_LIB.pretty")(options "")(descr ""))
+  (lib (name crump_footprints)(type Github)(uri https://github.com/tylercrumpton/CrumpPrints.pretty)(options "")(descr ""))
+)

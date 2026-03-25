@@ -1,0 +1,5 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP","MFR","MFR Part Num"
+"J1","USB_C_Receptacle_USB2.0_16P","https://www.usb.org/sites/default/files/documents/usb_type-c.zip","AAAA_Project_Library:USB_C_Receptacle_GCT_USB4085_Reduced_Pad_Size","1","","GCT","USB4085-GF-A"
+"J2","Conn_01x01","~","Connector_Wire:SolderWire-0.5sqmm_1x04_P4.8mm_D0.9mm_OD2.3mm_Relief","1","","",""
+"R1,R3","56K","~","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","2","DNP","Vishay","CRCW080556K0FKEA"
+"R2,R4","5K1","~","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","2","","Vishay","CRCW08055K10FKEA"

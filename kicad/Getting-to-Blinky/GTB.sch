@@ -1,0 +1,211 @@
+EESchema Schematic File Version 2
+LIBS:GTB-rescue
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:GTB
+LIBS:GTB-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L R R1
+U 1 1 5772F535
+P 4800 3350
+F 0 "R1" V 4880 3350 50  0000 C CNN
+F 1 "470" V 4800 3350 50  0000 C CNN
+F 2 "Resistors_SMD:R_1206" V 4730 3350 50  0001 C CNN
+F 3 "" H 4800 3350 50  0000 C CNN
+	1    4800 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C1
+U 1 1 5772F577
+P 4800 3800
+F 0 "C1" H 4825 3900 50  0000 L CNN
+F 1 "1u" H 4825 3700 50  0000 L CNN
+F 2 "Capacitors_SMD:C_1206" H 4838 3650 50  0001 C CNN
+F 3 "" H 4800 3800 50  0000 C CNN
+	1    4800 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L VR VR1
+U 1 1 5772F5A5
+P 4800 2800
+F 0 "VR1" V 4860 2754 50  0000 C TNN
+F 1 "LDR" V 4800 2800 50  0000 C CNN
+F 2 "Discret:R1" H 4800 2800 50  0001 C CNN
+F 3 "" H 4800 2800 50  0000 C CNN
+	1    4800 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R2
+U 1 1 5772F5EE
+P 6150 3550
+F 0 "R2" V 6230 3550 50  0000 C CNN
+F 1 "1K" V 6150 3550 50  0000 C CNN
+F 2 "Resistors_SMD:R_1206" V 6080 3550 50  0001 C CNN
+F 3 "" H 6150 3550 50  0000 C CNN
+	1    6150 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4800 3050 4800 3200
+Wire Wire Line
+	4800 3500 4800 3650
+$Comp
+L 7555 U1
+U 1 1 5772F7B2
+P 5400 3000
+F 0 "U1" H 5400 2350 60  0000 C CNN
+F 1 "7555" H 5600 2750 60  0000 C CNN
+F 2 "SMD_Packages:SOIC-8-N" H 5400 3000 60  0001 C CNN
+F 3 "" H 5400 3000 60  0000 C CNN
+	1    5400 3000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5100 3050 4800 3050
+Wire Wire Line
+	5100 3250 5000 3250
+Wire Wire Line
+	5000 3250 5000 3550
+Wire Wire Line
+	5000 3400 5100 3400
+Wire Wire Line
+	5000 3550 4800 3550
+Connection ~ 4800 3550
+Connection ~ 5000 3400
+Wire Wire Line
+	5650 3700 5650 4250
+Wire Wire Line
+	5650 3950 4800 3950
+Wire Wire Line
+	5750 2550 5750 2700
+Wire Wire Line
+	4800 2550 5750 2550
+Wire Wire Line
+	5600 2550 5600 2700
+Connection ~ 5600 2550
+$Comp
+L LED-RESCUE-GTB D1
+U 1 1 5772F917
+P 6150 4050
+F 0 "D1" H 6150 4150 50  0000 C CNN
+F 1 "LED" H 6150 3950 50  0000 C CNN
+F 2 "LEDs:LED_1206" H 6150 4050 50  0001 C CNN
+F 3 "" H 6150 4050 50  0000 C CNN
+	1    6150 4050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6150 3850 6150 3700
+Wire Wire Line
+	6150 3400 6150 3250
+Wire Wire Line
+	5650 4250 6150 4250
+Connection ~ 5650 3950
+$Comp
+L VCC #PWR01
+U 1 1 5772FB20
+P 4800 2300
+F 0 "#PWR01" H 4800 2150 50  0001 C CNN
+F 1 "VCC" H 4800 2450 50  0000 C CNN
+F 2 "" H 4800 2300 50  0000 C CNN
+F 3 "" H 4800 2300 50  0000 C CNN
+	1    4800 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR02
+U 1 1 5772FB46
+P 4800 4100
+F 0 "#PWR02" H 4800 3850 50  0001 C CNN
+F 1 "GND" H 4800 3950 50  0000 C CNN
+F 2 "" H 4800 4100 50  0000 C CNN
+F 3 "" H 4800 4100 50  0000 C CNN
+	1    4800 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4800 2550 4800 2300
+Wire Wire Line
+	4800 3950 4800 4100
+$Comp
+L Battery-RESCUE-GTB BT1
+U 1 1 5772FC7A
+P 4050 3350
+F 0 "BT1" H 4150 3400 50  0000 L CNN
+F 1 "CR2032" H 4150 3300 50  0000 L CNN
+F 2 "GTB_PCB_LIB:CR2032" V 4050 3390 50  0001 C CNN
+F 3 "" V 4050 3390 50  0000 C CNN
+	1    4050 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCC #PWR03
+U 1 1 5772FCAF
+P 4050 3000
+F 0 "#PWR03" H 4050 2850 50  0001 C CNN
+F 1 "VCC" H 4050 3150 50  0000 C CNN
+F 2 "" H 4050 3000 50  0000 C CNN
+F 3 "" H 4050 3000 50  0000 C CNN
+	1    4050 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR04
+U 1 1 5772FCCF
+P 4050 3650
+F 0 "#PWR04" H 4050 3400 50  0001 C CNN
+F 1 "GND" H 4050 3500 50  0000 C CNN
+F 2 "" H 4050 3650 50  0000 C CNN
+F 3 "" H 4050 3650 50  0000 C CNN
+	1    4050 3650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4050 3000 4050 3200
+Wire Wire Line
+	4050 3500 4050 3650
+$EndSCHEMATC
