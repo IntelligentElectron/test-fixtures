@@ -30,18 +30,22 @@ within each directory where available.
 
 ## KiCad Fixtures
 
-| Fixture | Upstream | License | Copyright |
-|---------|----------|---------|-----------|
-| 555-blinker-pcb | [yendiDev/555-blinker-pcb](https://github.com/yendiDev/555-blinker-pcb) | No license file | yendiDev |
-| ESP32-C3-DevBoard | [21km43/ESP32-C3-DevBoard](https://github.com/21km43/ESP32-C3-DevBoard) | No license file | 21km43 |
-| Getting-to-Blinky | [pdnataraj/Getting-to-Blinky](https://github.com/pdnataraj/Getting-to-Blinky) | MIT | Paul Natarajan |
-| KiCad-Arduino-Boards | [sabogalc/KiCad-Arduino-Boards](https://github.com/sabogalc/KiCad-Arduino-Boards) | WTFPL | sabogalc |
-| kicad_usbc_breakout | [jhugon/kicad_usbc_breakout](https://github.com/jhugon/kicad_usbc_breakout) | No license file | jhugon |
-| kintex-410t-devboard | [antmicro/kintex-410t-devboard](https://github.com/antmicro/kintex-410t-devboard) | Apache 2.0 | Antmicro |
-| muVox | [muvox-io/muVox](https://github.com/muvox-io/muVox) | CC-BY-SA | muvox-io |
-| OLINUXINO | [OLIMEX/OLINUXINO](https://github.com/OLIMEX/OLINUXINO) | CC-BY-SA 3.0 US (HW), GPL v3 (SW) | Olimex LTD |
-| rdimm-ddr4-tester | [antmicro/rdimm-ddr4-tester](https://github.com/antmicro/rdimm-ddr4-tester) | Apache 2.0 | Antmicro |
-| robotont-electronics-driver-board | [robotont/robotont-electronics-driver-board](https://github.com/robotont/robotont-electronics-driver-board) | CERN-OHL-P v2 | University of Tartu |
+A deliberately diverse set selected to exercise the KiCad parser: flat → deep
+hierarchy, simple → complex, with buses, global/hierarchical labels, power
+symbols, and varied domains. All redistributable (permissive / OSHW licenses).
+
+| Fixture | Upstream | License | Copyright | Exercises |
+|---------|----------|---------|-----------|-----------|
+| gameboy-DMG-QLA-01 | [Gekkio/gb-schematics](https://github.com/Gekkio/gb-schematics) | CC-BY-4.0 | Joonas Javanainen | single-sheet baseline (no hierarchy), many net labels |
+| easyduino-rp2040 | [Hanqaqa/Easyduino](https://github.com/Hanqaqa/Easyduino) | CERN-OHL-P-2.0 | Hanqaqa | minimal hierarchy (2 sheets), MCU |
+| cm5-minima | [piecol/CM5_MINIMA_REV3](https://github.com/piecol/CM5_MINIMA_REV3) | CERN-OHL-S-2.0 | piecol | hierarchical SBC carrier + buses |
+| openmd-motordriver | [CrabLabsLLC/OpenMD](https://github.com/CrabLabsLLC/OpenMD) | CERN-OHL-W-2.0 | Crab Labs LLC | depth-2 hierarchy, motor/power |
+| yddraig-68k | [ddraig68k/hardware](https://github.com/ddraig68k/hardware) | MIT | ddraig68k | extreme bus count (~610), retro |
+| gameboy-AGS-CPU-11 | [Gekkio/gb-schematics](https://github.com/Gekkio/gb-schematics) | CC-BY-4.0 | Joonas Javanainen | large hierarchical + buses + global labels |
+| cynthion-usb-fpga | [greatscottgadgets/cynthion-hardware](https://github.com/greatscottgadgets/cynthion-hardware) | CERN-OHL-P-2.0 | Great Scott Gadgets | 17 sheets, FPGA/USB, many buses + global labels |
+| rdimm-ddr4-tester | [antmicro/rdimm-ddr4-tester](https://github.com/antmicro/rdimm-ddr4-tester) | Apache 2.0 | Antmicro | DDR4 byte lanes (buses), hierarchical |
+| leftymobo-ham-trx | [hwstar/Lefty-MOBO](https://github.com/hwstar/Lefty-MOBO) | CC0-1.0 | hwstar | deepest hierarchy (depth 5), 23 sheets, ham-radio transceiver |
+| modular-synth-vco | [JordanAceto/josh_Ox_ribbon_synth](https://github.com/JordanAceto/josh_Ox_ribbon_synth) | CC-BY-4.0 | Jordan Aceto | most sheets (24), analog modular synth |
 
 ## Notes
 
