@@ -39,6 +39,3 @@ In CI (`actions/checkout`), set `submodules: true`. The repo is public, so the d
 Every fixture is open-source / open-hardware (permissive or OSHW licenses) and is
 **redistributable with attribution**; see `NOTICE.md`. If you are a copyright holder and
 want your files removed, please open an issue.
-
-> This repo holds only small curated fixtures. Large private/proprietary design corpora
-> are kept out of git and live elsewhere.

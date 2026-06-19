@@ -16,8 +16,7 @@ tooling. Consumed by **universal-netlist** and **pcb-lens** (as a git submodule 
 - **Public repo — keep it that way.** Other repos' CI clone it.
 - **Only redistributable fixtures** (permissive / OSHW licenses). Add every new fixture to
   `NOTICE.md` (upstream URL + license + copyright). No unlicensed / all-rights-reserved files.
-- **Keep it small and curated** — this is not a corpus. The large private KiCad training
-  corpus + index + pipeline lives in `../designs-dataset/` (gitignored, never committed here).
+- **Keep it small and curated.**
 - Prune non-design files (gerbers, 3D, production outputs) from KiCad fixtures.
 - universal-netlist/pcb-lens pull this via submodule; after changing fixtures, those repos'
   submodule pointers must be bumped (`git submodule update --remote`) to pick up the change.
