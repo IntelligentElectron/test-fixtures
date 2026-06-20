@@ -9,7 +9,9 @@ submoduled by other repos' CI.
 - **[universal-netlist](https://github.com/IntelligentElectron/universal-netlist)** —
   consumes this repo as a git submodule at `test/fixtures` for parser/connectivity tests
   (Altium + Cadence today; KiCad parser in development).
-- **[pcb-lens](https://github.com/IntelligentElectron/pcb-lens)** — PCB layout (IPC-2581) tests.
+- **[pcb-lens](https://github.com/IntelligentElectron/pcb-lens)** —
+  consumes this repo as a git submodule at `test/fixtures`; runs
+  `ipc2581/download-fixtures.sh` to fetch the IPC-2581 boards for layout tests.
 
 ## Layout
 
@@ -18,6 +20,7 @@ submoduled by other repos' CI.
 | `kicad/` | 10 KiCad projects, deliberately spanning **flat → deep hierarchy**, simple → complex, with **buses / global & hierarchical labels / power symbols** — chosen to exercise a KiCad parser. |
 | `altium/` | Altium `.PrjPcb` / `.SchDoc` designs. |
 | `cadence/` | Cadence Allegro / CIS designs (incl. exported `.dat` netlists). |
+| `ipc2581/` | IPC-2581 PCB layout boards (RevA/B/C). Large XML downloaded on demand via `ipc2581/download-fixtures.sh` — not committed. |
 | `NOTICE.md` | Upstream source, license, and copyright for every fixture. |
 
 The `kicad/` set ranges from a single-sheet baseline (no hierarchy) up to 24-sheet,

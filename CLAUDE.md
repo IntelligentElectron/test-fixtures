@@ -10,6 +10,8 @@ tooling. Consumed by **universal-netlist** and **pcb-lens** (as a git submodule 
   power symbols, varied domains. Exactly one single-sheet design (no-hierarchy baseline).
 - `altium/` — Altium `.PrjPcb`/`.SchDoc` designs.
 - `cadence/` — Cadence Allegro/CIS designs (+ exported `.dat`).
+- `ipc2581/` — IPC-2581 PCB layout boards (RevA/B/C), **downloaded on demand** via
+  `ipc2581/download-fixtures.sh`; large XML is gitignored, only script + README tracked.
 - `NOTICE.md` — upstream, license, copyright per fixture.
 
 ## Rules for changes

@@ -1,3 +1,8 @@
 .claude/
 .DS_Store
 **/.DS_Store
+
+# IPC-2581 fixtures are downloaded on demand (ipc2581/download-fixtures.sh), not committed
+ipc2581/*.xml
+ipc2581/*.zip
+ipc2581/_download_*
