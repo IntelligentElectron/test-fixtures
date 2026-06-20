@@ -2,7 +2,8 @@
 
 This repository contains EDA design files from third-party open-source
 hardware projects, collected as test fixtures for
-[universal-netlist](https://github.com/IntelligentElectron/universal-netlist).
+[universal-netlist](https://github.com/IntelligentElectron/universal-netlist)
+and [pcb-lens](https://github.com/IntelligentElectron/pcb-lens).
 
 Each fixture retains its original license. See the individual license files
 within each directory where available.
@@ -46,6 +47,23 @@ symbols, and varied domains. All redistributable (permissive / OSHW licenses).
 | rdimm-ddr4-tester | [antmicro/rdimm-ddr4-tester](https://github.com/antmicro/rdimm-ddr4-tester) | Apache 2.0 | Antmicro | DDR4 byte lanes (buses), hierarchical |
 | leftymobo-ham-trx | [hwstar/Lefty-MOBO](https://github.com/hwstar/Lefty-MOBO) | CC0-1.0 | hwstar | deepest hierarchy (depth 5), 23 sheets, ham-radio transceiver |
 | modular-synth-vco | [JordanAceto/josh_Ox_ribbon_synth](https://github.com/JordanAceto/josh_Ox_ribbon_synth) | CC-BY-4.0 | Jordan Aceto | most sheets (24), analog modular synth |
+
+## IPC-2581 Fixtures
+
+Public sample boards published by the IPC-2581 Consortium
+(<http://www.ipc2581.com/>) as reference data for the IPC-2581 standard. Spanning
+revisions A/B/C and multiple EDA exporters. **Not committed** — downloaded on
+demand by `ipc2581/download-fixtures.sh` (see `ipc2581/README.md`).
+
+| Fixture | Board | Rev | Source |
+|---------|-------|-----|--------|
+| testcase3 (A/B/C) | Round test card | A, B, C | IPC-2581 Consortium |
+| testcase4-RevA-Zuken | Zuken CR5000 board | A | IPC-2581 Consortium |
+| testcase5-RevA / testcase6-RevA | Network boards | A | IPC-2581 Consortium |
+| testcase1-RevC | Network card | C | IPC-2581 Consortium |
+| testcase9-RevC | LED display card | C | IPC-2581 Consortium |
+| BeagleBone_Black_RevB6 | BeagleBone Black | B | IPC-2581 Consortium |
+| parallella-RevB | Parallella | B | IPC-2581 Consortium |
 
 ## Notes
 
