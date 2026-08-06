@@ -15,6 +15,10 @@ within each directory where available.
 | LimeSDR-USB | [myriadrf/LimeSDR-USB](https://github.com/myriadrf/LimeSDR-USB) | Apache 2.0 | Lime Microsystems Ltd |
 | aberrant-sound-module | [aberranthacker/aberrant_sound_module](https://github.com/aberranthacker/aberrant_sound_module) | No license file | aberranthacker, zloiMOZG |
 | nRF52840-Development-Kit | [NordicSemiconductor/nrf52840-development-kit](https://www.nordicsemi.com/) | Nordic BSD | Nordic Semiconductor ASA |
+| HELIOS-R | [pulp-bio/HELIOS-R](https://github.com/pulp-bio/HELIOS-R) | Solderpad Hardware Licence v0.51 (Apache-2.0 option) | ETH Zurich |
+| cube-sat-eps | [Dominik-Workshop/cube-sat-eps](https://github.com/Dominik-Workshop/cube-sat-eps) | MIT | Dominik-Workshop |
+| heron-hardware | [PA-OST-2023/heron-hardware](https://github.com/PA-OST-2023/heron-hardware) | MIT | PA-OST-2023 |
+| qfsae-harness | [qfsae/pcb](https://github.com/qfsae/pcb) | MIT | Queen's Formula SAE |
 
 ## Cadence Fixtures
 
@@ -59,3 +63,17 @@ symbols, and varied domains. All redistributable (permissive / OSHW licenses).
 - Fixtures without explicit license files are included for testing purposes
   under fair use. If you are the copyright holder and would like your files
   removed, please open an issue.
+
+## Altium construct coverage
+
+These four fixtures were added for signal harness and multi-channel parser work.
+Only the sub-project exercising each construct is kept; unrelated boards, gerbers
+and 3D models from upstream are omitted. None of the four upstream repositories
+ships a schematic PDF.
+
+| Fixture | Construct | Why it is here |
+|---------|-----------|----------------|
+| HELIOS-R | signal harness + multi-channel | The only design combining both. `Repeat(CHAN, 1,9)` feeding a harness-typed sheet entry, and harness types that **nest** (`Channel_interface`'s `PGND` entry is itself a `PGND_Domain` harness). Two sheets, 300 KB. |
+| qfsae-harness | signal harness, dense | 11 `.Harness` definitions across a Formula SAE loom; harness usage at realistic scale. |
+| cube-sat-eps | multi-channel, `$Component$ChannelAlpha` | Non-default channel designator format, and ships no `.PrjPcbStructure`, so channels must be recovered from the sheet symbols. |
+| heron-hardware | multi-channel, 8 channels x 4 sheets | Largest channel expansion in the set: 40 components on disk become 320 when expanded. |
