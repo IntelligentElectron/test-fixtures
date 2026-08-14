@@ -21,6 +21,7 @@ within each directory where available.
 | heron-hardware | [PA-OST-2023/heron-hardware](https://github.com/PA-OST-2023/heron-hardware) | MIT | PA-OST-2023 |
 | qfsae-harness | [qfsae/pcb](https://github.com/qfsae/pcb) | MIT | Queen's Formula SAE |
 | mixr-power | [MIXR-FYDP/mixr-hardware](https://github.com/MIXR-FYDP/mixr-hardware) | MIT | Taiping Li |
+| misko3 | [mjankovec/MiSKo3](https://github.com/mjankovec/MiSKo3) | GPL-3.0 | Matic Jankovec |
 
 ## Cadence Fixtures
 
@@ -82,6 +83,12 @@ demand by `ipc2581/download-fixtures.sh` (see `ipc2581/README.md`).
 - Fixtures without explicit license files are included for testing purposes
   under fair use. If you are the copyright holder and would like your files
   removed, please open an issue.
+- **misko3** is GPL-3.0, which is redistributable but copyleft rather than
+  permissive. Its `LICENSE` is vendored alongside the design. It is test data,
+  read by the parsers and never linked into them, so it does not place the
+  consuming repositories under the GPL. It is kept because it is the only
+  design found that reproduces the sheet-local net over-merge against its own
+  board; if a permissively licensed reproducer turns up, prefer it.
 
 ## Altium construct coverage
 
@@ -96,4 +103,5 @@ multi-channel upstream repositories ships a schematic PDF.
 | qfsae-harness | signal harness, dense | 11 `.Harness` definitions across a Formula SAE loom; harness usage at realistic scale. |
 | cube-sat-eps | multi-channel, `$Component$ChannelAlpha` | Non-default channel designator format, and ships no `.PrjPcbStructure`, so channels must be recovered from the sheet symbols. |
 | heron-hardware | multi-channel, 8 channels x 4 sheets | Largest channel expansion in the set: 40 components on disk become 320 when expanded. |
-| mixr-power | sheet-local net scoping | The only design in the set with `AppendSheetNumberToLocalNets=1`, so Altium keeps same-named sheet-local nets apart instead of merging them on transfer. Its `Layout/` board is kept as the ground truth that shows the split: the board carries `USB_CC1_2` and `USB_CC2_2` where the schematic sheet draws bare `USB_CC1`/`USB_CC2` labels. Every other Altium fixture has the flag off, which is why none of them catches a net over-merge. 8 sheets. |
+| misko3 | sheet-local net scoping, **reproduces the over-merge** | The design that catches issue #128. `AppendSheetNumberToLocalNets=1` with `HierarchyMode=2` (Hierarchical) and a unique `SheetNumber` on all 13 sheets, so Altium numbers each sheet's own nets rather than fusing them. Its board is the ground truth: it carries `VBAT_8`, `YU_7`, `XR_7`, `STM_JTMS_5` and six more for labels drawn on one sheet each, where merging by name yields a single bare net. Note `VBAT` is drawn on sheet 8 **alone**, which is what shows the suffix follows from a net being the sheet's own and not from a name collision. Ships `.Harness` sidecars too. |
+| mixr-power | sheet-local net scoping, no collisions | Also sets `AppendSheetNumberToLocalNets=1`, but no name is drawn on two sheets, so it exercises the flag without the split: useful as the case that must **not** be pulled apart. Treat its board as indicative only, not ground truth. It is stale with respect to the schematic (it carries `USB_CC1_2` for a label whose sheet now numbers 3, and leaves other sheet-local labels unsuffixed), so it disagrees with its own sources. 8 sheets. |
