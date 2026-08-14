@@ -22,6 +22,7 @@ within each directory where available.
 | qfsae-harness | [qfsae/pcb](https://github.com/qfsae/pcb) | MIT | Queen's Formula SAE |
 | mixr-power | [MIXR-FYDP/mixr-hardware](https://github.com/MIXR-FYDP/mixr-hardware) | MIT | Taiping Li |
 | misko3 | [mjankovec/MiSKo3](https://github.com/mjankovec/MiSKo3) | GPL-3.0 | Matic Jankovec |
+| solarcar-bms | [zbrozek/solarcar-batterypack](https://github.com/zbrozek/solarcar-batterypack) | MIT | Kevin Brozek |
 
 ## Cadence Fixtures
 
@@ -104,4 +105,5 @@ multi-channel upstream repositories ships a schematic PDF.
 | cube-sat-eps | multi-channel, `$Component$ChannelAlpha` | Non-default channel designator format, and ships no `.PrjPcbStructure`, so channels must be recovered from the sheet symbols. |
 | heron-hardware | multi-channel, 8 channels x 4 sheets | Largest channel expansion in the set: 40 components on disk become 320 when expanded. |
 | misko3 | sheet-local net scoping, **reproduces the over-merge** | The design that catches issue #128. `AppendSheetNumberToLocalNets=1` with `HierarchyMode=2` (Hierarchical) and a unique `SheetNumber` on all 13 sheets, so Altium numbers each sheet's own nets rather than fusing them. Its board is the ground truth: it carries `VBAT_8`, `YU_7`, `XR_7`, `STM_JTMS_5` and six more for labels drawn on one sheet each, where merging by name yields a single bare net. Note `VBAT` is drawn on sheet 8 **alone**, which is what shows the suffix follows from a net being the sheet's own and not from a name collision. Ships `.Harness` sidecars too. |
+| solarcar-bms | net named on one sheet, pinned on another | 31 sheets, the deepest hierarchy in the Altium set. A signal labelled on the top sheet and wired straight into a sheet entry has its pins on the child sheet, so the sheet that names it holds no pins of its own. The board numbers such a net after the naming sheet (`LVB_DIV_1`), which only works if a sheet's claim on a name survives its own copy having no pins. Also the set's reproducer for harness-member numbering, still open: its board carries `USART2.TX_1` and 33 more that we do not yet number. |
 | mixr-power | sheet-local net scoping, no collisions | Also sets `AppendSheetNumberToLocalNets=1`, but no name is drawn on two sheets, so it exercises the flag without the split: useful as the case that must **not** be pulled apart. Treat its board as indicative only, not ground truth. It is stale with respect to the schematic (it carries `USB_CC1_2` for a label whose sheet now numbers 3, and leaves other sheet-local labels unsuffixed), so it disagrees with its own sources. 8 sheets. |
