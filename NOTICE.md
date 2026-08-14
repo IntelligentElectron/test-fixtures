@@ -20,6 +20,7 @@ within each directory where available.
 | cube-sat-eps | [Dominik-Workshop/cube-sat-eps](https://github.com/Dominik-Workshop/cube-sat-eps) | MIT | Dominik-Workshop |
 | heron-hardware | [PA-OST-2023/heron-hardware](https://github.com/PA-OST-2023/heron-hardware) | MIT | PA-OST-2023 |
 | qfsae-harness | [qfsae/pcb](https://github.com/qfsae/pcb) | MIT | Queen's Formula SAE |
+| mixr-power | [MIXR-FYDP/mixr-hardware](https://github.com/MIXR-FYDP/mixr-hardware) | MIT | Taiping Li |
 
 ## Cadence Fixtures
 
@@ -84,10 +85,10 @@ demand by `ipc2581/download-fixtures.sh` (see `ipc2581/README.md`).
 
 ## Altium construct coverage
 
-These four fixtures were added for signal harness and multi-channel parser work.
-Only the sub-project exercising each construct is kept; unrelated boards, gerbers
-and 3D models from upstream are omitted. None of the four upstream repositories
-ships a schematic PDF.
+These fixtures were added for signal harness, multi-channel and net-scoping
+parser work. Only the sub-project exercising each construct is kept; unrelated
+boards, gerbers and 3D models from upstream are omitted. None of the harness or
+multi-channel upstream repositories ships a schematic PDF.
 
 | Fixture | Construct | Why it is here |
 |---------|-----------|----------------|
@@ -95,3 +96,4 @@ ships a schematic PDF.
 | qfsae-harness | signal harness, dense | 11 `.Harness` definitions across a Formula SAE loom; harness usage at realistic scale. |
 | cube-sat-eps | multi-channel, `$Component$ChannelAlpha` | Non-default channel designator format, and ships no `.PrjPcbStructure`, so channels must be recovered from the sheet symbols. |
 | heron-hardware | multi-channel, 8 channels x 4 sheets | Largest channel expansion in the set: 40 components on disk become 320 when expanded. |
+| mixr-power | sheet-local net scoping | The only design in the set with `AppendSheetNumberToLocalNets=1`, so Altium keeps same-named sheet-local nets apart instead of merging them on transfer. Its `Layout/` board is kept as the ground truth that shows the split: the board carries `USB_CC1_2` and `USB_CC2_2` where the schematic sheet draws bare `USB_CC1`/`USB_CC2` labels. Every other Altium fixture has the flag off, which is why none of them catches a net over-merge. 8 sheets. |
