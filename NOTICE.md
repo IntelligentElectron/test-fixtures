@@ -54,6 +54,7 @@ symbols, and varied domains. All redistributable (permissive / OSHW licenses).
 | rdimm-ddr4-tester | [antmicro/rdimm-ddr4-tester](https://github.com/antmicro/rdimm-ddr4-tester) | Apache 2.0 | Antmicro | DDR4 byte lanes (buses), hierarchical |
 | leftymobo-ham-trx | [hwstar/Lefty-MOBO](https://github.com/hwstar/Lefty-MOBO) | CC0-1.0 | hwstar | deepest hierarchy (depth 5), 23 sheets, ham-radio transceiver |
 | modular-synth-vco | [JordanAceto/josh_Ox_ribbon_synth](https://github.com/JordanAceto/josh_Ox_ribbon_synth) | CC-BY-4.0 | Jordan Aceto | most sheets (24), analog modular synth |
+| multichannel-mixer | [KiCad multichannel demo](https://github.com/KiCad/kicad-source-mirror/tree/286b0611feca00727bf70bfa184ec2c28a745dc3/demos/multichannel) | CC-BY-SA-4.0 | Tomasz Wlostowski and KiCad contributors | distinct internal and manufacturer part numbers on the same components, repeated channel sheets |
 
 ## IPC-2581 Fixtures
 

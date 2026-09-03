@@ -5,7 +5,7 @@ tooling. Consumed by **universal-netlist** and **pcb-lens** (as a git submodule 
 `test/fixtures`) for CI tests. See `README.md`; attribution in `NOTICE.md`.
 
 ## Structure
-- `kicad/` — 10 KiCad projects, deliberately diverse for **KiCad parser development**:
+- `kicad/` — 11 KiCad projects, deliberately diverse for **KiCad parser development**:
   flat → deep hierarchy (up to 24 sheets, depth 5), buses, global/hierarchical labels,
   power symbols, varied domains. Exactly one single-sheet design (no-hierarchy baseline).
 - `altium/` — Altium `.PrjPcb`/`.SchDoc` designs.

@@ -17,7 +17,7 @@ submoduled by other repos' CI.
 
 | Dir | Contents |
 |-----|----------|
-| `kicad/` | 10 KiCad projects, deliberately spanning **flat → deep hierarchy**, simple → complex, with **buses / global & hierarchical labels / power symbols** — chosen to exercise a KiCad parser. |
+| `kicad/` | 11 KiCad projects, deliberately spanning **flat → deep hierarchy**, simple → complex, with **buses / global & hierarchical labels / power symbols** — chosen to exercise a KiCad parser. |
 | `altium/` | Altium `.PrjPcb` / `.SchDoc` designs. |
 | `cadence/` | Cadence Allegro / CIS designs (incl. exported `.dat` netlists). |
 | `ipc2581/` | IPC-2581 PCB layout boards (RevA/B/C). Large XML downloaded on demand via `ipc2581/download-fixtures.sh` — not committed. |
