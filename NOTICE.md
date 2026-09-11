@@ -56,6 +56,7 @@ symbols, and varied domains. All redistributable (permissive / OSHW licenses).
 | leftymobo-ham-trx | [hwstar/Lefty-MOBO](https://github.com/hwstar/Lefty-MOBO) | CC0-1.0 | hwstar | deepest hierarchy (depth 5), 23 sheets, ham-radio transceiver |
 | modular-synth-vco | [JordanAceto/josh_Ox_ribbon_synth](https://github.com/JordanAceto/josh_Ox_ribbon_synth) | CC-BY-4.0 | Jordan Aceto | most sheets (24), analog modular synth |
 | multichannel-mixer | [KiCad multichannel demo](https://github.com/KiCad/kicad-source-mirror/tree/286b0611feca00727bf70bfa184ec2c28a745dc3/demos/multichannel) | CC-BY-SA-4.0 | Tomasz Wlostowski and KiCad contributors | distinct internal and manufacturer part numbers on the same components, repeated channel sheets |
+| kicad-qa-variants | [KiCad qa/data/cli/variants](https://gitlab.com/kicad/code/kicad/-/tree/master/qa/data/cli/variants) | GPL-3.0 | KiCad contributors | KiCad 10 design variants: `Variant 1` marks J1 not fitted, `Variant2` marks R14; ships the base `kicadsexpr` export |
 
 ## IPC-2581 Fixtures
 
