@@ -20,6 +20,7 @@ within each directory where available.
 | cube-sat-eps | [Dominik-Workshop/cube-sat-eps](https://github.com/Dominik-Workshop/cube-sat-eps) | MIT | Dominik-Workshop |
 | heron-hardware | [PA-OST-2023/heron-hardware](https://github.com/PA-OST-2023/heron-hardware) | MIT | PA-OST-2023 |
 | qfsae-harness | [qfsae/pcb](https://github.com/qfsae/pcb) | MIT | Queen's Formula SAE |
+| qfsae-bspd-variant | [qfsae/pcb](https://github.com/qfsae/pcb/tree/master/bspd/002) | MIT | Queen's Formula SAE |
 | mixr-power | [MIXR-FYDP/mixr-hardware](https://github.com/MIXR-FYDP/mixr-hardware) | MIT | Taiping Li |
 | misko3 | [mjankovec/MiSKo3](https://github.com/mjankovec/MiSKo3) | GPL-3.0 | Matic Jankovec |
 | solarcar-bms | [zbrozek/solarcar-batterypack](https://github.com/zbrozek/solarcar-batterypack) | MIT | Kevin Brozek |
@@ -103,6 +104,7 @@ multi-channel upstream repositories ships a schematic PDF.
 |---------|-----------|----------------|
 | HELIOS-R | signal harness + multi-channel | The only design combining both. `Repeat(CHAN, 1,9)` feeding a harness-typed sheet entry, and harness types that **nest** (`Channel_interface`'s `PGND` entry is itself a `PGND_Domain` harness). Two sheets, 300 KB. |
 | qfsae-harness | signal harness, dense | 11 `.Harness` definitions across a Formula SAE loom; harness usage at realistic scale. |
+| qfsae-bspd-variant | project variant, not-fitted parts | One sheet and one `BSPD-DNP` variant whose project metadata marks five resistors not fitted. Reproduces issue #207 without relying on value-text DNP markers. |
 | cube-sat-eps | multi-channel, `$Component$ChannelAlpha` | Non-default channel designator format, and ships no `.PrjPcbStructure`, so channels must be recovered from the sheet symbols. |
 | heron-hardware | multi-channel, 8 channels x 4 sheets | Largest channel expansion in the set: 40 components on disk become 320 when expanded. |
 | misko3 | sheet-local net scoping, **reproduces the over-merge** | The design that catches issue #128. `AppendSheetNumberToLocalNets=1` with `HierarchyMode=2` (Hierarchical) and a unique `SheetNumber` on all 13 sheets, so Altium numbers each sheet's own nets rather than fusing them. Its board is the ground truth: it carries `VBAT_8`, `YU_7`, `XR_7`, `STM_JTMS_5` and six more for labels drawn on one sheet each, where merging by name yields a single bare net. Note `VBAT` is drawn on sheet 8 **alone**, which is what shows the suffix follows from a net being the sheet's own and not from a name collision. Ships `.Harness` sidecars too. |
