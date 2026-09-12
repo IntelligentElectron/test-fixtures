@@ -1,0 +1,16 @@
+---
+# SPDX-FileCopyrightText: 2024 CERN (home.cern)
+#
+# SPDX-License-Identifier: BSD-3-Clause
+
+version: '1.0.0'
+name: 'FMC DIO 32ch lvds a'
+description: 'https://gitlab.com/ohwr/project/fmc-dio-32chlvdsa/wikis/home'
+website: 'https://gitlab.com/ohwr/project/fmc-dio-32chlvdsa'
+images:
+  - 'https://gitlab.com/ohwr/project/fmc-dio-32chlvdsa/-/wikis/uploads/c322f5cd0f8f479488ec28af0fd3326c/FMC-LVDS32r.jpg'
+documentation: 'https://gitlab.com/ohwr/project/fmc-dio-32chlvdsa/wikis'
+issues: 'https://gitlab.com/ohwr/project/fmc-dio-32chlvdsa/issues'
+forum: 'https://forums.ohwr.org/c/fmc-dio-32chlvdsa'
+licenses:
+  - 'CERN-OHL-1.1'
