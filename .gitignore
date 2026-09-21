@@ -6,3 +6,7 @@
 ipc2581/*.xml
 ipc2581/*.zip
 ipc2581/_download_*
+
+# VS Code Local History
+.history/
+**/.history/
