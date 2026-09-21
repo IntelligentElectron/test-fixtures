@@ -37,6 +37,7 @@ within each directory where available.
 | BeagleBoard-xM | [beagleboard/beagleboard-xm](https://github.com/beagleboard/beagleboard-xm) | No license file | BeagleBoard.org Foundation |
 | CutiePi | [cutiepi-io/cutiepi-board](https://github.com/cutiepi-io/cutiepi-board) | BSD 3-Clause | Zhang "Iron Pillar" Hogan, Raspberry Pi (Trading) Ltd |
 | LAUNCHXL-CC1310 | [peterkappelt/kHome](https://github.com/peterkappelt/kHome) | No license file | Peter Kappelt |
+| multio | [fenlogic/multio](https://github.com/fenlogic/multio) | GPL-3.0-or-later (upstream README; included LICENCE contains LGPL-3.0) | Fen Logic Ltd / Gert van Loo |
 | OSHW-Jetson-Series | [Seeed-Studio/OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series) | Apache 2.0 | Seeed Studio |
 
 ## KiCad Fixtures
