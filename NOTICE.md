@@ -41,6 +41,7 @@ within each directory where available.
 | OSHW-Jetson-Series | [Seeed-Studio/OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series) | Apache 2.0 | Seeed Studio |
 | parallella-aafm | [parallella/parallella-hw](https://github.com/parallella/parallella-hw/tree/master/aafm) | CC BY-SA 3.0 US | Parallella Foundation |
 | parallella-meta-carrier | [parallella/parallella-hw](https://github.com/parallella/parallella-hw/tree/master/meta_carrier) | CC BY-SA 3.0 US | Parallella Foundation |
+| pintowin-sensor-board | [4lc0n/PinToWin](https://github.com/4lc0n/PinToWin) | MIT | 4lc0n |
 
 ## KiCad Fixtures
 
