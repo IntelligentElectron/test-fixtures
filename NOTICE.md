@@ -38,6 +38,7 @@ within each directory where available.
 | CutiePi | [cutiepi-io/cutiepi-board](https://github.com/cutiepi-io/cutiepi-board) | BSD 3-Clause | Zhang "Iron Pillar" Hogan, Raspberry Pi (Trading) Ltd |
 | LAUNCHXL-CC1310 | [peterkappelt/kHome](https://github.com/peterkappelt/kHome) | No license file | Peter Kappelt |
 | multio | [fenlogic/multio](https://github.com/fenlogic/multio) | GPL-3.0-or-later (upstream README; included LICENCE contains LGPL-3.0) | Fen Logic Ltd / Gert van Loo |
+| opencellular-sdr | [Telecominfraproject/OpenCellular](https://github.com/Telecominfraproject/OpenCellular/tree/master/electronics/radio/SDR) | CC BY 4.0 | Telecom Infra Project |
 | OSHW-Jetson-Series | [Seeed-Studio/OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series) | Apache 2.0 | Seeed Studio |
 | parallella-aafm | [parallella/parallella-hw](https://github.com/parallella/parallella-hw/tree/master/aafm) | CC BY-SA 3.0 US | Parallella Foundation |
 | parallella-meta-carrier | [parallella/parallella-hw](https://github.com/parallella/parallella-hw/tree/master/meta_carrier) | CC BY-SA 3.0 US | Parallella Foundation |
