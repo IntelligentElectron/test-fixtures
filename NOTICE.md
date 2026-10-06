@@ -35,6 +35,7 @@ within each directory where available.
 | BeagleBone-Black-barebone | Derived from BeagleBone-Black | No license file | BeagleBoard.org Foundation |
 | BeagleBone-Black-copy | Derived from BeagleBone-Black | No license file | BeagleBoard.org Foundation |
 | BeagleBoard-xM | [beagleboard/beagleboard-xm](https://github.com/beagleboard/beagleboard-xm) | No license file | BeagleBoard.org Foundation |
+| clay-r6 | [ah-cog/Clay](https://github.com/ah-cog/Clay/tree/master/Circuit/R6) | MIT | Michael Gubbels |
 | CutiePi | [cutiepi-io/cutiepi-board](https://github.com/cutiepi-io/cutiepi-board) | BSD 3-Clause | Zhang "Iron Pillar" Hogan, Raspberry Pi (Trading) Ltd |
 | LAUNCHXL-CC1310 | [peterkappelt/kHome](https://github.com/peterkappelt/kHome) | No license file | Peter Kappelt |
 | multio | [fenlogic/multio](https://github.com/fenlogic/multio) | GPL-3.0-or-later (upstream README; included LICENCE contains LGPL-3.0) | Fen Logic Ltd / Gert van Loo |
