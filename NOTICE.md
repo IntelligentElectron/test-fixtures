@@ -50,7 +50,7 @@ within each directory where available.
 
 A deliberately diverse set selected to exercise the KiCad parser: flat → deep
 hierarchy, simple → complex, with buses, global/hierarchical labels, power
-symbols, and varied domains. All redistributable (permissive / OSHW licenses).
+symbols, and varied domains. Each upstream and its license is listed below; a fixture with no license file is removed if its author asks.
 
 | Fixture | Upstream | License | Copyright | Exercises |
 |---------|----------|---------|-----------|-----------|
@@ -66,6 +66,7 @@ symbols, and varied domains. All redistributable (permissive / OSHW licenses).
 | modular-synth-vco | [JordanAceto/josh_Ox_ribbon_synth](https://github.com/JordanAceto/josh_Ox_ribbon_synth) | CC-BY-4.0 | Jordan Aceto | most sheets (24), analog modular synth |
 | multichannel-mixer | [KiCad multichannel demo](https://github.com/KiCad/kicad-source-mirror/tree/286b0611feca00727bf70bfa184ec2c28a745dc3/demos/multichannel) | CC-BY-SA-4.0 | Tomasz Wlostowski and KiCad contributors | distinct internal and manufacturer part numbers on the same components, repeated channel sheets |
 | kicad-qa-variants | [KiCad qa/data/cli/variants](https://gitlab.com/kicad/code/kicad/-/tree/master/qa/data/cli/variants) | GPL-3.0 | KiCad contributors | KiCad 10 design variants: `Variant 1` marks J1 not fitted, `Variant2` marks R14; ships the base `kicadsexpr` export |
+| e-ink-proto-one | [Herasium/e-ink](https://github.com/Herasium/e-ink/tree/57b3938/ProtoOne) (commit 57b3938) | No license file | Herasium | KiCad 10 project with eight top-level sheets (`schematic.top_level_sheets`) and no sheet symbols linking them; 66 no-connect flags; unnumbered pins (X1); ships a kicad-cli 10.0.8 `kicadsexpr` export |
 
 ## IPC-2581 Fixtures
 
