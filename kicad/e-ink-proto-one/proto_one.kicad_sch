@@ -1,0 +1,39 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "e59ada00-c7e4-4522-8ac3-166d4e3e8065")
+	(paper "A4")
+	(title_block
+		(title "Tablet Prototype")
+		(rev "0")
+		(company "Hera Labs")
+	)
+	(lib_symbols)
+	(text "Hello World"
+		(exclude_from_sim no)
+		(at 35.052 17.018 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+			)
+		)
+		(uuid "c4837a47-5246-4d99-9eb0-bd660bd7160e")
+	)
+	(text "I got no idea what i'm doing please send help\n"
+		(exclude_from_sim no)
+		(at 36.576 21.082 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "dd8758fc-45a9-464e-a9c0-614da03618f1")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

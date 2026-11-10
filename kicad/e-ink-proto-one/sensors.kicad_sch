@@ -1,0 +1,19 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "59b23ee7-d884-4048-9f3b-fd30e186019e")
+	(paper "A4")
+	(title_block
+		(title "Tablet Prototype")
+		(rev "0")
+		(company "Hera Labs")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "8")
+		)
+	)
+	(embedded_fonts no)
+)
