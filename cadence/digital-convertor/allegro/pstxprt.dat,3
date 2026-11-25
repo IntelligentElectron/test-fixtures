@@ -1,0 +1,167 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Feb-18-2021 at 10:08:41 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='DIGITAL_CONVERTOR';
+ POST_TIME='Oct  1 2019 16:13:27';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_CAP196_10UF':;
+
+SECTION_NUMBER 1
+ '@DIGITAL_CONVERTOR.DIGITAL_CONVERTOR(SCH_1):INS497@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@digital_convertor.digital_convertor(sch_1):ins497@discrete.\c.normal\(chips)',
+ P_PATH='@digital_convertor.digital_convertor(sch_1):page1_ins497@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_JUMPER2_CON2':;
+
+SECTION_NUMBER 1
+ '@DIGITAL_CONVERTOR.DIGITAL_CONVERTOR(SCH_1):INS463@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@digital_convertor.digital_convertor(sch_1):ins463@connector.\con2.normal\(chips)',
+ P_PATH='@digital_convertor.digital_convertor(sch_1):page1_ins463@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON2_JUMPER2_CON2':;
+
+SECTION_NUMBER 1
+ '@DIGITAL_CONVERTOR.DIGITAL_CONVERTOR(SCH_1):INS771@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@digital_convertor.digital_convertor(sch_1):ins771@connector.\con2.normal\(chips)',
+ P_PATH='@digital_convertor.digital_convertor(sch_1):page1_ins771@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES400_50K':;
+
+SECTION_NUMBER 1
+ '@DIGITAL_CONVERTOR.DIGITAL_CONVERTOR(SCH_1):INS2557@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@digital_convertor.digital_convertor(sch_1):ins2557@analog.\r.normal\(chips)',
+ P_PATH='@digital_convertor.digital_convertor(sch_1):page1_ins2557@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES400_20K':;
+
+SECTION_NUMBER 1
+ '@DIGITAL_CONVERTOR.DIGITAL_CONVERTOR(SCH_1):INS229@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@digital_convertor.digital_convertor(sch_1):ins229@analog.\r.normal\(chips)',
+ P_PATH='@digital_convertor.digital_convertor(sch_1):page1_ins229@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@DIGITAL_CONVERTOR.DIGITAL_CONVERTOR(SCH_1):INS302@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@digital_convertor.digital_convertor(sch_1):ins302@analog.\r.normal\(chips)',
+ P_PATH='@digital_convertor.digital_convertor(sch_1):page1_ins302@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES400_20K':;
+
+SECTION_NUMBER 1
+ '@DIGITAL_CONVERTOR.DIGITAL_CONVERTOR(SCH_1):INS245@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@digital_convertor.digital_convertor(sch_1):ins245@analog.\r.normal\(chips)',
+ P_PATH='@digital_convertor.digital_convertor(sch_1):page1_ins245@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@DIGITAL_CONVERTOR.DIGITAL_CONVERTOR(SCH_1):INS318@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@digital_convertor.digital_convertor(sch_1):ins318@analog.\r.normal\(chips)',
+ P_PATH='@digital_convertor.digital_convertor(sch_1):page1_ins318@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RES400_20K':;
+
+SECTION_NUMBER 1
+ '@DIGITAL_CONVERTOR.DIGITAL_CONVERTOR(SCH_1):INS261@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@digital_convertor.digital_convertor(sch_1):ins261@analog.\r.normal\(chips)',
+ P_PATH='@digital_convertor.digital_convertor(sch_1):page1_ins261@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@DIGITAL_CONVERTOR.DIGITAL_CONVERTOR(SCH_1):INS334@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@digital_convertor.digital_convertor(sch_1):ins334@analog.\r.normal\(chips)',
+ P_PATH='@digital_convertor.digital_convertor(sch_1):page1_ins334@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RES400_20K':;
+
+SECTION_NUMBER 1
+ '@DIGITAL_CONVERTOR.DIGITAL_CONVERTOR(SCH_1):INS277@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@digital_convertor.digital_convertor(sch_1):ins277@analog.\r.normal\(chips)',
+ P_PATH='@digital_convertor.digital_convertor(sch_1):page1_ins277@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_RES400_20K':;
+
+SECTION_NUMBER 1
+ '@DIGITAL_CONVERTOR.DIGITAL_CONVERTOR(SCH_1):INS350@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@digital_convertor.digital_convertor(sch_1):ins350@analog.\r.normal\(chips)',
+ P_PATH='@digital_convertor.digital_convertor(sch_1):page1_ins350@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 '7414_SOIC14_7414':;
+
+SECTION_NUMBER 1
+ '@DIGITAL_CONVERTOR.DIGITAL_CONVERTOR(SCH_1):INS30@GATE.7414.NORMAL(CHIPS)':
+ C_PATH='@digital_convertor.digital_convertor(sch_1):ins30@gate.\7414.normal\(chips)',
+ P_PATH='@digital_convertor.digital_convertor(sch_1):page1_ins30@gate.\7414.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@DIGITAL_CONVERTOR.DIGITAL_CONVERTOR(SCH_1):INS67@GATE.7414.NORMAL(CHIPS)':
+ C_PATH='@digital_convertor.digital_convertor(sch_1):ins67@gate.\7414.normal\(chips)',
+ P_PATH='@digital_convertor.digital_convertor(sch_1):page1_ins67@gate.\7414.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ U2 '4520_0_SOIC16_4520':;
+
+SECTION_NUMBER 1
+ '@DIGITAL_CONVERTOR.DIGITAL_CONVERTOR(SCH_1):INS131@RING_COUNTER_2.4520_0.NORMAL(CHIPS)':
+ C_PATH='@digital_convertor.digital_convertor(sch_1):ins131@ring_counter_2.\4520_0.normal\(chips)',
+ P_PATH='@digital_convertor.digital_convertor(sch_1):page1_ins131@ring_counter_2.\4520_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+PART_NAME
+ U3 'LM324_0_SOIC14_MCP6024':;
+
+SECTION_NUMBER 1
+ '@DIGITAL_CONVERTOR.DIGITAL_CONVERTOR(SCH_1):INS381@RING_COUNTER_2.LM324_0.NORMAL(CHIPS)':
+ C_PATH='@digital_convertor.digital_convertor(sch_1):ins381@ring_counter_2.\lm324_0.normal\(chips)',
+ P_PATH='@digital_convertor.digital_convertor(sch_1):page1_ins381@ring_counter_2.\lm324_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+END.
