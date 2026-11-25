@@ -35,7 +35,9 @@ within each directory where available.
 | BeagleBone-Black-barebone | Derived from BeagleBone-Black | No license file | BeagleBoard.org Foundation |
 | BeagleBone-Black-copy | Derived from BeagleBone-Black | No license file | BeagleBoard.org Foundation |
 | BeagleBoard-xM | [beagleboard/beagleboard-xm](https://github.com/beagleboard/beagleboard-xm) | No license file | BeagleBoard.org Foundation |
+| beaglebone-ai | [beagleboard/beaglebone-ai](https://github.com/beagleboard/beaglebone-ai) (`board-netlist.txt` is an extract of its `HW/cds2f_BeagleBone-AI.txt`; see its README) | CC BY 4.0 | Jason Kridner, Texas Instruments; Embest Technology Co., Ltd.; Seeed Technology Co., Ltd |
 | clay-r6 | [ah-cog/Clay](https://github.com/ah-cog/Clay/tree/master/Circuit/R6) | MIT | Michael Gubbels |
+| digital-convertor | [wodykr/orcad_project](https://github.com/wodykr/orcad_project/tree/main/Digital_Convertor) | LGPL-3.0 | wodykr |
 | gprino-lf | [miricip/GPRino](https://github.com/miricip/GPRino/tree/main/Hardware) | MIT | Mirel Paun |
 | CutiePi | [cutiepi-io/cutiepi-board](https://github.com/cutiepi-io/cutiepi-board) | BSD 3-Clause | Zhang "Iron Pillar" Hogan, Raspberry Pi (Trading) Ltd |
 | LAUNCHXL-CC1310 | [peterkappelt/kHome](https://github.com/peterkappelt/kHome) | No license file | Peter Kappelt |
